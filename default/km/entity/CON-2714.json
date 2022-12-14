@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2714",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bed Bug Bites"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

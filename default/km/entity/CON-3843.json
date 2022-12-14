@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3843",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Ovarian Cysts"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

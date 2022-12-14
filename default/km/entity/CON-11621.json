@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peroneal Nerve Injury",
+    "taxonomy_synonyms": [
+      "Foot Drop"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12384",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endourology",
+    "taxonomy_synonyms": [
+      "Stone Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

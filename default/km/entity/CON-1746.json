@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Scarlet Fever",
+    "taxonomy_synonyms": [
+      "Scarlatina"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

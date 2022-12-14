@@ -1,0 +1,14 @@
+{
+  "$id": "CON-483",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Steroid-Induced Rosacea-like Dermatitis",
+    "taxonomy_synonyms": [
+      "Steroid Dermatitis",
+      "SIRD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

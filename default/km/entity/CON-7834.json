@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7834",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric jarisch-herxheimer reaction",
+    "taxonomy_synonyms": [
+      "Child with Jarisch-Herxheimer Reaction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

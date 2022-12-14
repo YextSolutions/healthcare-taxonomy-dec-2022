@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3665",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Isovaleric Acidemia",
+    "taxonomy_synonyms": [
+      "IVA"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

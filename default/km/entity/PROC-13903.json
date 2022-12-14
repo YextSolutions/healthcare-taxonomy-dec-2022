@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transcutaneous Electrical Nerve Stimulation",
+    "taxonomy_synonyms": [
+      "TENS",
+      "Electrical Nerve Stimulation",
+      "Electrical Nerve Stimulation for Chronic Pain"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

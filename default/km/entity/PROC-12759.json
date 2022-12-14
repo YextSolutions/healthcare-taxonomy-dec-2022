@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12759",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heart Testing",
+    "taxonomy_synonyms": [
+      "Heart Test",
+      "Cardiovascular Testing",
+      "Cardiovascular Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

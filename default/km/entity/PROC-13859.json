@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13859",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ketogenic Diet for Epilepsy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

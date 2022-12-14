@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Tic",
+    "taxonomy_synonyms": [
+      "Child with Tics"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

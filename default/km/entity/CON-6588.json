@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6588",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Airway Tumors"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

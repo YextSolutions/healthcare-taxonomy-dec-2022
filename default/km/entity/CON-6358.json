@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hip Labral Tear"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

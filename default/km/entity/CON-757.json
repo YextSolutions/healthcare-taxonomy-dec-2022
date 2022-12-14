@@ -1,0 +1,13 @@
+{
+  "$id": "CON-757",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lactose Intolerance",
+    "taxonomy_synonyms": [
+      "Milk Intolerance"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

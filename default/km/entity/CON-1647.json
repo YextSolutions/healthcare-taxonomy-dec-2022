@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coronary Chronic Total Occlusion",
+    "taxonomy_synonyms": [
+      "CTO"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

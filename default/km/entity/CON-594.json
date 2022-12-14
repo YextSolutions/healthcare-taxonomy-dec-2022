@@ -1,0 +1,15 @@
+{
+  "$id": "CON-594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Aganglionic Megacolon",
+    "taxonomy_synonyms": [
+      "Hirschsprung\u0027s Disease",
+      "Congenital Megacolon",
+      "Hirschsprung Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

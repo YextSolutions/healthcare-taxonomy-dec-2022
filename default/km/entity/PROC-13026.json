@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Otoplasty",
+    "taxonomy_synonyms": [
+      "Ear Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

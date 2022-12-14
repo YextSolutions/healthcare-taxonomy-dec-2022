@@ -1,0 +1,13 @@
+{
+  "$id": "CON-938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "TOS",
+    "taxonomy_synonyms": [
+      "Thoracic Outlet Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12457",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urge Incontinence",
+    "taxonomy_synonyms": [
+      "Urinary Urgency",
+      "Urge to Pee",
+      "Loss of Bladder Control"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

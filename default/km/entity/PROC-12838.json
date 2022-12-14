@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pericardiectomy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

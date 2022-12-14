@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Menopausal Hormone Therapy"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

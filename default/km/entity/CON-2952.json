@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2952",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "glucocorticosteroids"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

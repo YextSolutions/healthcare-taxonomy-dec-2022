@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3842",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Breast Cysts"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

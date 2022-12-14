@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "MDS",
+    "taxonomy_synonyms": [
+      "Preleukemia",
+      "Myelodysplastic Syndrome",
+      "Myelodysplastic Syndromes"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Compartment Syndrome",
+    "taxonomy_synonyms": [
+      "Chronic Exertional Compartment Syndrome",
+      "Exertional Compartment Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

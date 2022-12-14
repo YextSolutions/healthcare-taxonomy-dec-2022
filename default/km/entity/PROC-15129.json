@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intravascular Brachytherapy",
+    "taxonomy_synonyms": [
+      "IVBT"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

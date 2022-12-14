@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2574",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Suppurative Thyroiditis",
+    "taxonomy_synonyms": [
+      "AST",
+      "Acute Thyroiditis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

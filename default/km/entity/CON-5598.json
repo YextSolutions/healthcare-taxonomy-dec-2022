@@ -1,0 +1,16 @@
+{
+  "$id": "CON-5598",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blepharoptosis",
+    "taxonomy_synonyms": [
+      "Ptosis",
+      "Hanging Eyelid",
+      "Drooping Eye",
+      "Droopy Eyelid"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

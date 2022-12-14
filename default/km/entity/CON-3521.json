@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3521",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wound Healing"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

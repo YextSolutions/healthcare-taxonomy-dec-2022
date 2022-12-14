@@ -1,0 +1,16 @@
+{
+  "$id": "CON-7486",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ulcerative Colitis",
+    "taxonomy_synonyms": [
+      "Pediatric UC",
+      "Ulcerative Colitis in Child",
+      "Ulcerative Colitis in Children",
+      "Ulcerative Colitis in Kids"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

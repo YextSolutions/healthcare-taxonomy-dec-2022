@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric thumb sprain",
+    "taxonomy_synonyms": [
+      "Child with Thumb Sprain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

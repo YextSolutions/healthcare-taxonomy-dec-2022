@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9663",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Non-allergic Rhinitis",
+    "taxonomy_synonyms": [
+      "Child with Non-Allergic Rhinitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

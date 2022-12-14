@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1874",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cavities",
+    "taxonomy_synonyms": [
+      "Tooth Decay",
+      "Cavity"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

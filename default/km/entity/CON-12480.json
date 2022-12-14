@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12480",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Varicocele",
+    "taxonomy_synonyms": [
+      "Scrotum Varicose Veins",
+      "Testicle Varicose Veins"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastrointestinal Hemorrhage",
+    "taxonomy_synonyms": [
+      "GI Hemorrhage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

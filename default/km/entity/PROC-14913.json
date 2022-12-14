@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-14913",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Rhinoplasty",
+    "taxonomy_synonyms": [
+      "Nose Job",
+      "Septorhinoplasty",
+      "PlasticReconSurg"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13462",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wound Reconstruction"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Body CT Scan"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

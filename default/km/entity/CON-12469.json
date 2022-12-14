@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12469",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urinary Tract Fistula",
+    "taxonomy_synonyms": [
+      "Vaginal Fistula",
+      "Urogenital Fistula"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

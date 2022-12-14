@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Neoplasm of Choroid",
+    "taxonomy_synonyms": [
+      "Eye Freckle",
+      "Benign Neoplasm of Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

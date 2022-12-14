@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "General Eye Follow Up"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

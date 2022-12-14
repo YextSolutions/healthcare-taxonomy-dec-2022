@@ -1,0 +1,14 @@
+{
+  "$id": "CON-773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Meconium Ileus",
+    "taxonomy_synonyms": [
+      "Bowel Obstruction",
+      "Intestinal Obstruction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

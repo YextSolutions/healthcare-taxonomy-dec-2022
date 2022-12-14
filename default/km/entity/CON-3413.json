@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3413",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sudden/Unintentional Weight Loss"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15597",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Breast Imaging Follow up",
+    "taxonomy_synonyms": [
+      "Mammogram Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

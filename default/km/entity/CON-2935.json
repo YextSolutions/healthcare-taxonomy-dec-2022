@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foreign Body Lodged"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3374",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stiffness",
+    "taxonomy_synonyms": [
+      "Muscle Soreness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

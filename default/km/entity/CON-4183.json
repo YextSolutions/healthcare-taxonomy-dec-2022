@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Soft Tissue Cancer",
+    "taxonomy_synonyms": [
+      "Bone Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "CON-12352",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urinary Incontinence",
+    "taxonomy_synonyms": [
+      "Functional Incontinence",
+      "Loss of Bladder Control",
+      "Inability to Control Urine",
+      "Trouble Peeing",
+      "Flow",
+      "Incontinence",
+      "Urinary Leakage",
+      "Leaking Urine",
+      "Urinary Control Problems",
+      "Urinary Dribbling"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

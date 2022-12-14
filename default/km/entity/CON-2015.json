@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bromodosis",
+    "taxonomy_synonyms": [
+      "Foot Odor",
+      "Smelly Feet"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

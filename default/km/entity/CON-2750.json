@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2750",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bronchiolitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12310",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pleurectomy and Decortication",
+    "taxonomy_synonyms": [
+      "P/D Surgery"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5382",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hydatidiform Mole",
+    "taxonomy_synonyms": [
+      "Molar Pregnancy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

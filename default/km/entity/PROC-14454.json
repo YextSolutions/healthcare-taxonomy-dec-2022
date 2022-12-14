@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "GON Block",
+    "taxonomy_synonyms": [
+      "Greater Occipital Nerve Block"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

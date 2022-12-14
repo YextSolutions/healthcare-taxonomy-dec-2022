@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Brachial Plexopathy",
+    "taxonomy_synonyms": [
+      "Child with Brachieal Plexopathy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

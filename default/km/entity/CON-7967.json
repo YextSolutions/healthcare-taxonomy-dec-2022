@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7967",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Electrolyte Disorders",
+    "taxonomy_synonyms": [
+      "Child with Electrolyte Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

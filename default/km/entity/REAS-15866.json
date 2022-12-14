@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15866",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Yearly Eye Exam",
+    "taxonomy_synonyms": [
+      "Annual Eye Exam"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

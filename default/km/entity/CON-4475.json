@@ -1,0 +1,19 @@
+{
+  "$id": "CON-4475",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Astrocytoma",
+    "taxonomy_synonyms": [
+      "Meningioma Affecting Hearing",
+      "Tumor",
+      "Affecting Hearing",
+      "Acoustic Neuroma",
+      "Gliomas",
+      "Meningiomas",
+      "Adult Brain Tumors"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

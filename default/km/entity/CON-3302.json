@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shprintzen Syndrome",
+    "taxonomy_synonyms": [
+      "SGS",
+      "Shprintzen-Goldberg Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

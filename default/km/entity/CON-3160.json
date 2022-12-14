@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Persistent Singultus",
+    "taxonomy_synonyms": [
+      "Persistent Hiccups"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

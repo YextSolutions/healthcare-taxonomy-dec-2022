@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Choroidal Neovascular Membranes",
+    "taxonomy_synonyms": [
+      "CNVM"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

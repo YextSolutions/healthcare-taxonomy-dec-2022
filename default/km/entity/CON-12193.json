@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Sleep Apnea",
+    "taxonomy_synonyms": [
+      "Child with Sleep Apnea"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

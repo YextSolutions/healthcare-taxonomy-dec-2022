@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12366",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bladder Disease",
+    "taxonomy_synonyms": [
+      "Bladder Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

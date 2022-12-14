@@ -1,0 +1,20 @@
+{
+  "$id": "SPEC-81",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Emergency Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-1105",
+      "CON-2336",
+      "CON-7151",
+      "CON-10470",
+      "CON-11214",
+      "CON-11226",
+      "CON-11228",
+      "CON-11229"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

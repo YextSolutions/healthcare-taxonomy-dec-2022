@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13472",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Surgery of the Airway",
+    "taxonomy_synonyms": [
+      "Airway Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

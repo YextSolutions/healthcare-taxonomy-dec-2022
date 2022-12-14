@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11743",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Manic Depression",
+    "taxonomy_synonyms": [
+      "Manic Depressive"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

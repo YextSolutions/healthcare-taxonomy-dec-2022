@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10309",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Chest Wall Anomalies",
+    "taxonomy_synonyms": [
+      "Child with Chest Wall Anomalies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

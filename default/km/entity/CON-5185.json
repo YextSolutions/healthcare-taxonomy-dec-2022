@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "TIA and Transient Ischemic Attack"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11632",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Toenail Removal"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12331",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postpartum Bowel Issues",
+    "taxonomy_synonyms": [
+      "Postpartum Bowel Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

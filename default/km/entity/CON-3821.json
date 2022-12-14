@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3821",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anovulation",
+    "taxonomy_synonyms": [
+      "Menstrual Cycle without Ovulation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15432",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Rigid Proctosigmoidoscopy with Robotic Assistance",
+    "taxonomy_synonyms": [
+      "Anus and Rectum Exam with Robotic Assistance"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

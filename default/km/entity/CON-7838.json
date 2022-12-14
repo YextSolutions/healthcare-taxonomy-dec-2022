@@ -1,0 +1,14 @@
+{
+  "$id": "CON-7838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric swine influenza",
+    "taxonomy_synonyms": [
+      "Pediatric Swine Flu",
+      "Child with Swine Flu"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

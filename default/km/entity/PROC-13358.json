@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fecal Microbiota Transplantation",
+    "taxonomy_synonyms": [
+      "FMT"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12515",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arteriovenous Fistula",
+    "taxonomy_synonyms": [
+      "AV Fistula"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

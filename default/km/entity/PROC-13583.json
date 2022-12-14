@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13583",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urethra Prolapse Surgery",
+    "taxonomy_synonyms": [
+      "Urethral Prolapse",
+      "Urethrocele Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

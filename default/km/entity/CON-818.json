@@ -1,0 +1,13 @@
+{
+  "$id": "CON-818",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Primary Biliary Cholangitis",
+    "taxonomy_synonyms": [
+      "Primary Biliary Cirrhosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

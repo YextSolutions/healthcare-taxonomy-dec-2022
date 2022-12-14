@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4450",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "GI Malignancies"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

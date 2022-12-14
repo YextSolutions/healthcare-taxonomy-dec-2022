@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Clotting Disorder"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

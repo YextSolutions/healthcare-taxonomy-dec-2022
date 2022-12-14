@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1504",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pain Management"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

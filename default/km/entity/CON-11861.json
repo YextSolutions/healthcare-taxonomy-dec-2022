@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11861",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nosocomial Pneumonia",
+    "taxonomy_synonyms": [
+      "Hospital-Acquired Pneumonia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

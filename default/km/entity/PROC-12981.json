@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dental CT Scan",
+    "taxonomy_synonyms": [
+      "Dental CT",
+      "Dental Scan"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

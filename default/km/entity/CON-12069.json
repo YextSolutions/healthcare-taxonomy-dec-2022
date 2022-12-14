@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bechet\u0027s Disease",
+    "taxonomy_synonyms": [
+      "Behcet\u0027s Disease",
+      "Silk Road Disease",
+      "Behcet\u0027s Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

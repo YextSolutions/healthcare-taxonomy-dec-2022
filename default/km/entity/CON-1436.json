@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1436",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Common Variable Immunodeficiency",
+    "taxonomy_synonyms": [
+      "CVID"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

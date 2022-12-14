@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cercarial Dermatitis",
+    "taxonomy_synonyms": [
+      "Swimmer\u0027s Itch"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

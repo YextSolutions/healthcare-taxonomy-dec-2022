@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vomiting",
+    "taxonomy_synonyms": [
+      "Emesis",
+      "Throwing Up",
+      "Throw up"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

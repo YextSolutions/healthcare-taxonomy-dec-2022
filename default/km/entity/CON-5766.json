@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5766",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intraocular Pressure",
+    "taxonomy_synonyms": [
+      "IOP"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

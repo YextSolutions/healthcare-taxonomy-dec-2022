@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1188",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "High Cholesterol in Children and Teens",
+    "taxonomy_synonyms": [
+      "High Cholesterol in a Child",
+      "High Cholesterol in Teen",
+      "High Cholesterol in Adolescent"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

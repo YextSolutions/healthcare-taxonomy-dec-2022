@@ -1,0 +1,10 @@
+{
+  "$id": "CON-858",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Strangulated Hernia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

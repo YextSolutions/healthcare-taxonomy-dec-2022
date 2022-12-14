@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Lichen Planus",
+    "taxonomy_synonyms": [
+      "Pediatric Lichen Ruber Planus",
+      "Child with Lichen Planus",
+      "Child with Lichen Ruber Planus",
+      "Pediatric LP"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

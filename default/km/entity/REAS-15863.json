@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15863",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vitreous Surgery Consultation",
+    "taxonomy_synonyms": [
+      "Vitrectomy Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

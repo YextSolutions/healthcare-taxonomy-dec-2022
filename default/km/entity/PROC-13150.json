@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Barium Enema Test",
+    "taxonomy_synonyms": [
+      "Colon XRay"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

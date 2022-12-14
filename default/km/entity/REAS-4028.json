@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-4028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood Transfusion Follow Up"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tumor of schwann cells"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

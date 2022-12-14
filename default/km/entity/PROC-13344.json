@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colorectal Cancer Screening",
+    "taxonomy_synonyms": [
+      "Rectal Cancer Screening",
+      "Bowel Cancer Screening",
+      "Colon Cancer Screening"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

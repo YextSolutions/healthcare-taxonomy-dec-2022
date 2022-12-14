@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4867",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Amyotrophic Lateral Sclerosis",
+    "taxonomy_synonyms": [
+      "Amyotrophic Lateral Sclerosis",
+      "ALS",
+      "Lou Gehrig\u0027s Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

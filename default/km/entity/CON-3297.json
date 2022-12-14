@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

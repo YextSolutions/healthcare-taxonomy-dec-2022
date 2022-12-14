@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11907",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hereditary Hemorrhagic Telangiectasia",
+    "taxonomy_synonyms": [
+      "HHT",
+      "Osler-Rendu-Weber Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

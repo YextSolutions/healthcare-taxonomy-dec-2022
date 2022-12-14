@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Angular Cheilitis",
+    "taxonomy_synonyms": [
+      "Child with Angular Cheilitis",
+      "Child with Perleche",
+      "Pediatric Cheilosis",
+      "Pediatric Stomatitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

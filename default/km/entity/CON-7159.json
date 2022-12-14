@@ -1,0 +1,14 @@
+{
+  "$id": "CON-7159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Muscle Spasm",
+    "taxonomy_synonyms": [
+      "Muscle Cramp",
+      "Muscle Tightening"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

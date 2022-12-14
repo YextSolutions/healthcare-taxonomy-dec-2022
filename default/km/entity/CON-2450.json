@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2450",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Growth Disorders",
+    "taxonomy_synonyms": [
+      "Growth Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

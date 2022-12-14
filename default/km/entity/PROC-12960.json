@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12960",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Radio Frequency Skin Tightening",
+    "taxonomy_synonyms": [
+      "RF Therapy",
+      "Radio Frequency Skin Tightening"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

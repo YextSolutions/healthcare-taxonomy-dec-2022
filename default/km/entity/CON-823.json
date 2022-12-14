@@ -1,0 +1,10 @@
+{
+  "$id": "CON-823",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Proctitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

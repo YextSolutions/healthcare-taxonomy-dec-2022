@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1811",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Constrictive Pericarditis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

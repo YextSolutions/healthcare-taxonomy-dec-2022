@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1632",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Primary Hypertension",
+    "taxonomy_synonyms": [
+      "Essential Hypertension",
+      "Idiopathic Hypertension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

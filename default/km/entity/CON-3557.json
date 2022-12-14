@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3557",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adrenogenital Syndrome",
+    "taxonomy_synonyms": [
+      "Congenital Adrenal Hyperplasia",
+      "CAH",
+      "Classic Congenital Adrenal Hyperplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

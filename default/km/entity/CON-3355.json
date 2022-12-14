@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "small lymphocytic lymphoma",
+    "taxonomy_synonyms": [
+      "Chronic Lymphocytic Leukemia",
+      "CLL",
+      "SLL"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11397",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Muscle Weakness"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

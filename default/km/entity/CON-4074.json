@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ITP",
+    "taxonomy_synonyms": [
+      "Immune Thrombocytopenia",
+      "Immune Thrombocytopenic Purpura",
+      "Immune Thrombocytopenia Purpura"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

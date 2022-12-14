@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2437",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Follicular Thyroid Cancer",
+    "taxonomy_synonyms": [
+      "FTC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

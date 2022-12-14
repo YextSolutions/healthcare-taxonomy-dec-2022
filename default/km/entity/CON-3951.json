@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3951",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postmenopause"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

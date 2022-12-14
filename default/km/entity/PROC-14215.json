@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14215",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Oculoplastic Surgery",
+    "taxonomy_synonyms": [
+      "Oculoplastics"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

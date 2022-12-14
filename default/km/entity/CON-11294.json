@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric common cold",
+    "taxonomy_synonyms": [
+      "Common Cold in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11796",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Seniors mental health"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

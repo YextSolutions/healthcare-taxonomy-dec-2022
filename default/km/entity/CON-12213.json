@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12213",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sleep Studies",
+    "taxonomy_synonyms": [
+      "Sleep Study",
+      "Polysomnogram",
+      "Polysomnography"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-30",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eating Disorders"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

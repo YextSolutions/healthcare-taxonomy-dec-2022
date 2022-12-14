@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2685",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anemia",
+    "taxonomy_synonyms": [
+      "Lack of Blood"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

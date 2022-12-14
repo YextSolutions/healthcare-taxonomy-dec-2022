@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cystic Fibrosis",
+    "taxonomy_synonyms": [
+      "CF"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

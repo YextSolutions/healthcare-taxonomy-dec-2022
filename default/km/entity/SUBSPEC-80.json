@@ -1,0 +1,16 @@
+{
+  "$id": "SUBSPEC-80",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ocular Oncology",
+    "taxonomy_relatedConditions": [
+      "CON-6672",
+      "CON-6678",
+      "CON-6685",
+      "CON-6686"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

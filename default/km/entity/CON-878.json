@@ -1,0 +1,16 @@
+{
+  "$id": "CON-878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Whipple\u0027s Disease",
+    "taxonomy_synonyms": [
+      "Intestinal Lipodystrophy",
+      "Intestinal Lipophagic Granulomatosis",
+      "Secondary Non-Tropical Sprue",
+      "Tropheryma Whippelii Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

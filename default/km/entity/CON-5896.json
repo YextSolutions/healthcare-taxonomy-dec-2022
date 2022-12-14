@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5896",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Short Sighted",
+    "taxonomy_synonyms": [
+      "Myopia",
+      "Short-Sightedness",
+      "Nearsightedness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

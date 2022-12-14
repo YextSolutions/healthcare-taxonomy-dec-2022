@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3412",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "substance/medication-induced depressive disorder"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

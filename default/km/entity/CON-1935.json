@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Trench Mouth"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Neck Mass",
+    "taxonomy_synonyms": [
+      "Child with Neck Mass"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

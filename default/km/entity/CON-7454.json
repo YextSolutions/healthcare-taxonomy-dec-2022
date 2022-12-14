@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Gallbladder Disease",
+    "taxonomy_synonyms": [
+      "Child with Gallbladder Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Anterior Segment Surgery",
+    "taxonomy_synonyms": [
+      "Anterior Segment Surgery on Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

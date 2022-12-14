@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Onychophagia",
+    "taxonomy_synonyms": [
+      "Nail-Biting",
+      "Onychophagy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

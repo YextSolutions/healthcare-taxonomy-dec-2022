@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lichen Sclerosis",
+    "taxonomy_synonyms": [
+      "LS",
+      "White Spot Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

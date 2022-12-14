@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13097",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mohs Surgery",
+    "taxonomy_synonyms": [
+      "Mohs Procedure",
+      "MOH\u0027s Micrographic Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

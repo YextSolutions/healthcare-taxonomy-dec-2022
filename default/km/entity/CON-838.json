@@ -1,0 +1,10 @@
+{
+  "$id": "CON-838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Schatzki\u0027s Ring"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Arrest"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11246",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bladder Infection",
+    "taxonomy_synonyms": [
+      "Child with Bladder Infection",
+      "Cystitis in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

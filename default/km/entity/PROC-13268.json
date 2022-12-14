@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13268",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood Thinning Therapy",
+    "taxonomy_synonyms": [
+      "Anticoagulation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

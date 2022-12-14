@@ -1,0 +1,49 @@
+{
+  "$id": "SPEC-86",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Endocrinology and Diabetes",
+    "taxonomy_relatedConditions": [
+      "CON-1059",
+      "CON-2161",
+      "CON-2185",
+      "CON-2188",
+      "CON-2189",
+      "CON-2196",
+      "CON-2197",
+      "CON-2230",
+      "CON-2231",
+      "CON-2234",
+      "CON-2236",
+      "CON-2498",
+      "CON-2518",
+      "CON-2605",
+      "CON-3534",
+      "CON-3565",
+      "CON-3895",
+      "CON-4100",
+      "CON-4401",
+      "CON-4412",
+      "CON-4418",
+      "CON-4419",
+      "CON-4420",
+      "CON-4421",
+      "CON-4423",
+      "CON-4424",
+      "CON-4434",
+      "CON-4435",
+      "CON-4436",
+      "CON-4447",
+      "CON-4477",
+      "CON-4755",
+      "CON-4757",
+      "CON-7152"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Endocrinology"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

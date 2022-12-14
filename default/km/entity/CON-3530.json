@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3530",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Yeast infections",
+    "taxonomy_synonyms": [
+      "Vaginal Candidiasis",
+      "VulvoVaginal Candidiasis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

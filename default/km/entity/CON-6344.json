@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Klippel-Feil Syndrome",
+    "taxonomy_synonyms": [
+      "KTS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

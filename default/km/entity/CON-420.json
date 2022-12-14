@@ -1,0 +1,15 @@
+{
+  "$id": "CON-420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Disorders of Cornification 11",
+    "taxonomy_synonyms": [
+      "DOC 11",
+      "Disorders of Keratinization",
+      "Mendelian Disorders of Cornification"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

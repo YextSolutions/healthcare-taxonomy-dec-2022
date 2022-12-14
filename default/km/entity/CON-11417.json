@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11417",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric right arm Pain",
+    "taxonomy_synonyms": [
+      "Child with Right Arm Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

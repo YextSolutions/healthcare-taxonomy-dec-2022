@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13679",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intra-Aortic Balloon Pump Placement",
+    "taxonomy_synonyms": [
+      "IABP Placement"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

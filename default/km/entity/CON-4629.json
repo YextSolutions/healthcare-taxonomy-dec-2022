@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4629",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HIE",
+    "taxonomy_synonyms": [
+      "Hypoxic-ischemic Encephalopathy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

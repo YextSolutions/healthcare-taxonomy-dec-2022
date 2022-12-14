@@ -1,0 +1,19 @@
+{
+  "$id": "CON-3541",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "22q11 Deletion Syndrome",
+    "taxonomy_synonyms": [
+      "Velo-Cardio-Facial Syndrome",
+      "VCFS",
+      "Shprintzen Syndrom",
+      "Craniofacial Syndrome",
+      "DiGeorge Syndrome",
+      "Conotruncal Anomaly Face Syndrome",
+      "CTAFS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2703",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Athlete\u0027s Foot",
+    "taxonomy_synonyms": [
+      "Tinea Pedis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

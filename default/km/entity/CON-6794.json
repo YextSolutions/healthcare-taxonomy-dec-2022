@@ -1,0 +1,18 @@
+{
+  "$id": "CON-6794",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Animal Allergies in Children",
+    "taxonomy_synonyms": [
+      "Animal Allergies in Kids",
+      "Animal Allergies in Child",
+      "Animal Allergy in Kid",
+      "Animal Allergy in Child",
+      "Animal Allergy in Children",
+      "Pediatric Animal Allergy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

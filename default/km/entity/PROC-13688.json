@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13688",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Radial Artery Catheterization",
+    "taxonomy_synonyms": [
+      "Radial Artery Cath"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1197",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acanthosis Nigricans in Child",
+    "taxonomy_synonyms": [
+      "Pediatric Acanthosis Nigricans",
+      "Child with Acanthosis Nigricans",
+      "AN in Child",
+      "Pediatric AN"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

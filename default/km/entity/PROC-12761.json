@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Rhizotomy",
+    "taxonomy_synonyms": [
+      "RF Radiofrequency Ablation",
+      "Radiofrequency Ablation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

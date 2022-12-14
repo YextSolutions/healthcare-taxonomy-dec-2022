@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Type 2 Diabetes"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

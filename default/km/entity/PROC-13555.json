@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13555",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Labiaplasty",
+    "taxonomy_synonyms": [
+      "Vagina Renewal",
+      "Vaginal Correction",
+      "Labiaplasty Vaginal Correction"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

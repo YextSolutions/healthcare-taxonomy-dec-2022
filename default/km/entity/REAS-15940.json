@@ -1,0 +1,14 @@
+{
+  "$id": "REAS-15940",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Obesity Consultation",
+    "taxonomy_synonyms": [
+      "Weight Loss Consultation for Child",
+      "Obesity Consultation for Child"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

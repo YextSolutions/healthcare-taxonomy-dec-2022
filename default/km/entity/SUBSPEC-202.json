@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-202",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Recreational Therapy"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

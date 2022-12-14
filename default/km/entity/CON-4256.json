@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4256",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anisakiasis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

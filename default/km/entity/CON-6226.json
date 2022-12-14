@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6226",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Spinal Abnormality",
+    "taxonomy_synonyms": [
+      "Congenital Spinal Anomaly",
+      "Congenital Spinal Deformity"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

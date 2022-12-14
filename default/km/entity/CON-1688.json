@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1688",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heart Valve Damage",
+    "taxonomy_synonyms": [
+      "Rheumatic Aortic Valve Disease",
+      "Heart Valve Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

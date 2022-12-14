@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13496",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cryotherapy of the Cervix",
+    "taxonomy_synonyms": [
+      "Cervical Cryotherapy",
+      "Cervical Ablation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

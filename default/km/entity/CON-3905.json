@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3905",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypothalamic Anxiety-Induced Amenorrhea"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

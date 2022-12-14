@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2404",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cystic Fibrosis-Related Diabetes",
+    "taxonomy_synonyms": [
+      "CFRD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9427",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric patellofemoral Pain syndrome",
+    "taxonomy_synonyms": [
+      "Child with Patellofemoral Pain Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

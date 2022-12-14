@@ -1,0 +1,16 @@
+{
+  "$id": "CON-6158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ankylosing Vertebral Hyperostosis",
+    "taxonomy_synonyms": [
+      "HVA",
+      "Diffuse Idiopathic Skeletal Hyperostosis",
+      "DISH",
+      "Forestier\u0027s Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

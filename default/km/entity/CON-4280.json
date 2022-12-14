@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4280",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dengue",
+    "taxonomy_synonyms": [
+      "Dengue Fever"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

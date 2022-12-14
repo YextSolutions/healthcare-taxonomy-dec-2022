@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1667",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Giant Cell Arteritis",
+    "taxonomy_synonyms": [
+      "GCA\tTemporal Arteritis",
+      "Vasculitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

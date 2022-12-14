@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lower Extremity Swelling"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

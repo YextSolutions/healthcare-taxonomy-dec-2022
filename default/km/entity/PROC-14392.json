@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cartilage Restoration"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

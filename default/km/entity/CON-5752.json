@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5752",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HIV-related Eye Disease",
+    "taxonomy_synonyms": [
+      "AIDS Related Eye Problems",
+      "AIDS-Related Eye Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

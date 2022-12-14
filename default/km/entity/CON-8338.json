@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8338",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Muscle Disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

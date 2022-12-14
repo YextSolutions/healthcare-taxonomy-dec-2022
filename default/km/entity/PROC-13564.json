@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13564",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Natural Family Planning",
+    "taxonomy_synonyms": [
+      "Fertility Awareness"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

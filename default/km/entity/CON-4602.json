@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4602",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bronchopulmonary Dysplasia",
+    "taxonomy_synonyms": [
+      "Chronic Lung Disease in Premature Babies",
+      "Lung Disease of Prematurity",
+      "BPD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

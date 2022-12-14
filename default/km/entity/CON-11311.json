@@ -1,0 +1,16 @@
+{
+  "$id": "CON-11311",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cyclosporiasis",
+    "taxonomy_synonyms": [
+      "Child with Cyclosporiasis",
+      "Pediatric Cyclosporiasis",
+      "Child with Cyclospora Infection",
+      "Pediatric Cyclospora Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

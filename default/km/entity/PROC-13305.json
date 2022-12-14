@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Myofascial Trigger Point Injection",
+    "taxonomy_synonyms": [
+      "TPI"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

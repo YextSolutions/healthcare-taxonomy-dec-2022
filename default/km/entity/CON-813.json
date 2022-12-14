@@ -1,0 +1,10 @@
+{
+  "$id": "CON-813",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peritonitis from Peritoneal Dialysis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

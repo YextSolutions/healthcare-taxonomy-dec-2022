@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15321",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Biliary Surgery",
+    "taxonomy_synonyms": [
+      "Bile Duct Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5348",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cervical Insufficiency",
+    "taxonomy_synonyms": [
+      "Short Cervix",
+      "Cervical Incompetence",
+      "Incompetent Cervix"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

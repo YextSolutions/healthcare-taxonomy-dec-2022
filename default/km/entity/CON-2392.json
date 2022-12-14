@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Continuous Glucose Monitoring",
+    "taxonomy_synonyms": [
+      "CGM",
+      "Continuous Glucose Meters"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9693",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aging Brain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

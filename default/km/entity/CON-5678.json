@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Reye Syndrome",
+    "taxonomy_synonyms": [
+      "Reye-Johnson Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1825",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anorectal Problems",
+    "taxonomy_synonyms": [
+      "Anus Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

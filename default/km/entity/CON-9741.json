@@ -1,0 +1,15 @@
+{
+  "$id": "CON-9741",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Childhood Disintegrative Disorder",
+    "taxonomy_synonyms": [
+      "CDD",
+      "Heller\u0027s Syndrome",
+      "Disintegrative Psychosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

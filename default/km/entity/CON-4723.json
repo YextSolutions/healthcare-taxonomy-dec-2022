@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4723",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HBP",
+    "taxonomy_synonyms": [
+      "Elevated Blood Pressure",
+      "High Blood Pressure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4499",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cutaneous Oncology"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

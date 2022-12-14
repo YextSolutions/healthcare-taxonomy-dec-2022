@@ -1,0 +1,21 @@
+{
+  "$id": "CON-9938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Respiratory Distress Syndrome in Kids",
+    "taxonomy_synonyms": [
+      "Acute Respiratory Distress Syndrome in Child",
+      "Child with Acute Respiratory Distress Syndrome in Children",
+      "Pediatric Acute Respiratory Distress Syndrome",
+      "PARDS",
+      "ARDS in Children",
+      "ARDS in Child",
+      "ARDS in Kids",
+      "Child with ARDS",
+      "Pediatric ARDS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

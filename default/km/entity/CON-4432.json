@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4432",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Spina Bifida",
+    "taxonomy_synonyms": [
+      "Spina Bifida in Child",
+      "Spina Bifida in Fetus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

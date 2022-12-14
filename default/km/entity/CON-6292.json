@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6292",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hallux Valgus",
+    "taxonomy_synonyms": [
+      "Bunion",
+      "Hallux Vulgus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lumbar puncture and intrathecal chemotherapy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

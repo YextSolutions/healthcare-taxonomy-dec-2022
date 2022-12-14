@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3165",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Phlebitis",
+    "taxonomy_synonyms": [
+      "Vein Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

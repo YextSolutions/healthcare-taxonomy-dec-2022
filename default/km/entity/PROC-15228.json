@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15228",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Assisted Reproductive Technology",
+    "taxonomy_synonyms": [
+      "IVF",
+      "ART"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

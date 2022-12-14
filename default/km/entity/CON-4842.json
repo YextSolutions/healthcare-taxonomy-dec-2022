@@ -1,0 +1,18 @@
+{
+  "$id": "CON-4842",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dementia",
+    "taxonomy_synonyms": [
+      "Cognitive Impairment",
+      "Memory Impairment",
+      "Age Related Memory Decline",
+      "Age-Related Cognitive Decline",
+      "Memory Problems",
+      "Senility"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

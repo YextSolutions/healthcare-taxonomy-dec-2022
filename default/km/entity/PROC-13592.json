@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13592",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Needle Aponeurotomy for Dupuytren\u0027s disease"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

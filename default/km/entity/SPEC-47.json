@@ -1,0 +1,61 @@
+{
+  "$id": "SPEC-47",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Weight-Loss Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-312",
+      "CON-1525",
+      "CON-1526",
+      "CON-1527",
+      "CON-1164"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12614",
+      "PROC-12645",
+      "PROC-12646",
+      "PROC-12654",
+      "PROC-12712",
+      "PROC-12713",
+      "PROC-12714",
+      "PROC-12715",
+      "PROC-12716",
+      "PROC-12717",
+      "PROC-12718",
+      "PROC-12719",
+      "PROC-12720",
+      "PROC-12721",
+      "PROC-12722",
+      "PROC-12723",
+      "PROC-12724",
+      "PROC-12725",
+      "PROC-12727",
+      "PROC-12728",
+      "PROC-12729"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15589",
+      "REAS-15591",
+      "REAS-15592",
+      "REAS-15593",
+      "REAS-15594",
+      "REAS-15595",
+      "REAS-15596",
+      "REAS-15718",
+      "REAS-15719",
+      "REAS-15720",
+      "REAS-15726",
+      "REAS-15728",
+      "REAS-15765"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-4156"
+    ],
+    "taxonomy_synonyms": [
+      "Bariatric Surgeon"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

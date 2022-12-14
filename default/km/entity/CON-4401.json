@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hashimoto\u0027s Disease"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

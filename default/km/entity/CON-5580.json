@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5580",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "AMD",
+    "taxonomy_synonyms": [
+      "Age-Related Macular Degeneration",
+      "Age Related Macular Degeneration"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12591",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Motivational Enhancement Therapy",
+    "taxonomy_synonyms": [
+      "MET"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

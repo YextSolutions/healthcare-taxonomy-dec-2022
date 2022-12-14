@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11951",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pickwickian syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

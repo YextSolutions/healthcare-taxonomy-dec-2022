@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4824",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brachial Plexus Palsy",
+    "taxonomy_synonyms": [
+      "Erb\u0027s Palsy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

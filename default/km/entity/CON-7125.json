@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Milk Tooth Filling"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

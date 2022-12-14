@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13481",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pressure Injuries Treatment",
+    "taxonomy_synonyms": [
+      "Bed Sores Treatement",
+      "Bedsores Treatment",
+      "Pressure Injury Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

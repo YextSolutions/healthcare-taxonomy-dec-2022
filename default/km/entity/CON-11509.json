@@ -1,0 +1,16 @@
+{
+  "$id": "CON-11509",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vesicoureteral Reflux",
+    "taxonomy_synonyms": [
+      "VUR",
+      "Urinary Reflux",
+      "Vesico Ureteral",
+      "Vesicoureteral"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

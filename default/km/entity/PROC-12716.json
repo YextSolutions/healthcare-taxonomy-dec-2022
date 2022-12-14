@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12716",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastric Bypass",
+    "taxonomy_synonyms": [
+      "Bariatric Surgery",
+      "Weight Loss Surgery",
+      "Lap Band"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

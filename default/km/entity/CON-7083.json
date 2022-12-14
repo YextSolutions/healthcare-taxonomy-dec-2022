@@ -1,0 +1,15 @@
+{
+  "$id": "CON-7083",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Congenitally Corrected Transposition of the Great Arteries",
+    "taxonomy_synonyms": [
+      "Pediatric CCTGA",
+      "Child with Congenitally Corrected Transposition of the Great Arteries",
+      "Child with CCTGA"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

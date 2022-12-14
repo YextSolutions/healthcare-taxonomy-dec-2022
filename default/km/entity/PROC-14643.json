@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Lumbar Puncture",
+    "taxonomy_synonyms": [
+      "Child with Lumbar Puncture"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

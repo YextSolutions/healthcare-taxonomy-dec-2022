@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2478",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hyperparathyroidism",
+    "taxonomy_synonyms": [
+      "Overactive Parathyroid"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

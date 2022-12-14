@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Herpes Simplex Encephalitis",
+    "taxonomy_synonyms": [
+      "HSE"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

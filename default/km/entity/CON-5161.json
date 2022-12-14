@@ -1,0 +1,16 @@
+{
+  "$id": "CON-5161",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Schwannoma",
+    "taxonomy_synonyms": [
+      "Neurilemomas",
+      "Neurolemomas",
+      "Neuromas",
+      "Tumor of Schwann Cells"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

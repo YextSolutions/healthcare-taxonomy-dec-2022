@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14068",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Down Syndrome Screening",
+    "taxonomy_synonyms": [
+      "Trisomy 21 Screening",
+      "Prenatal Test for Down Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

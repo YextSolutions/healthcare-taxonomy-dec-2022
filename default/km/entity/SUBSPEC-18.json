@@ -1,0 +1,16 @@
+{
+  "$id": "SUBSPEC-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cancer Genetics",
+    "taxonomy_relatedConditions": [
+      "CON-6666",
+      "CON-6667",
+      "CON-6668",
+      "CON-6669"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

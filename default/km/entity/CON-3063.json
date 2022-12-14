@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lumbago"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

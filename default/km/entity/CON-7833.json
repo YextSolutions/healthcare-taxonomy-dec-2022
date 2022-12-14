@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Japanese encephalitis",
+    "taxonomy_synonyms": [
+      "Child with Japanese Encephalitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

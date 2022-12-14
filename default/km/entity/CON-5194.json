@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5194",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Traumatic Brain Injury",
+    "taxonomy_synonyms": [
+      "TBI",
+      "Craniocerebral Trauma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

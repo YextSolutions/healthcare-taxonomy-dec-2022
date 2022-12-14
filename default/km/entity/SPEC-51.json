@@ -1,0 +1,26 @@
+{
+  "$id": "SPEC-51",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vascular Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-922",
+      "CON-938",
+      "CON-939",
+      "CON-12485",
+      "CON-12495",
+      "CON-12496",
+      "CON-12564"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-16015",
+      "REAS-16016"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-230"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

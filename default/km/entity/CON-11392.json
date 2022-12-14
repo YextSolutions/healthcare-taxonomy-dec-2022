@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Low Back Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

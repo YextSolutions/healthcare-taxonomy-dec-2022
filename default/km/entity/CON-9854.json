@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Attention Deficit Hyperactivity Disorder with Focus Issues in Children",
+    "taxonomy_synonyms": [
+      "Pediatric ADHD with Focus Issues"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

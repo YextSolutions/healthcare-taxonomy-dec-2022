@@ -1,0 +1,14 @@
+{
+  "$id": "CON-9909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Asperger Syndrome",
+    "taxonomy_synonyms": [
+      "Child with Asperger\u0027s",
+      "Child with Asperger Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

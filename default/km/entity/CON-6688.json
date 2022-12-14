@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6688",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Noisy Breathing",
+    "taxonomy_synonyms": [
+      "Stridor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

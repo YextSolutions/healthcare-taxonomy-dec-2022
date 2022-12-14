@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12110",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Joint Disease",
+    "taxonomy_synonyms": [
+      "Degenerative Joint Disease",
+      "Joint Degeneration",
+      "Arthropathy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

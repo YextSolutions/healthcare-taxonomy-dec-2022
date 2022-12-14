@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1742",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Right-Sided Heart Failure",
+    "taxonomy_synonyms": [
+      "Right-Ventricular Heart Failure",
+      "RV Heart Failure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

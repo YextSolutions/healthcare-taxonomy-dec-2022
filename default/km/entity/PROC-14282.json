@@ -1,0 +1,17 @@
+{
+  "$id": "PROC-14282",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Braces",
+    "taxonomy_synonyms": [
+      "Malocclusion Treatment",
+      "Misaligned Teeth Treatment",
+      "Invisalign",
+      "Dental Braces",
+      "Orthodontic Braces"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

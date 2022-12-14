@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13965",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hearing Tests for Children",
+    "taxonomy_synonyms": [
+      "Pediatric Hearing Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

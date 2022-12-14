@@ -1,0 +1,16 @@
+{
+  "$id": "CON-12116",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lupus Erythematosus",
+    "taxonomy_synonyms": [
+      "Lupus Erythematosus",
+      "SLE",
+      "Systemic Lupus Erythematosus",
+      "Systemic Lupus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

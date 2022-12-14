@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15603",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Device Monitoring"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

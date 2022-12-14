@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2599",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "septicemia",
+    "taxonomy_synonyms": [
+      "Sepsis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

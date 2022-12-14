@@ -1,0 +1,15 @@
+{
+  "$id": "REAS-12868",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "CABG Bypass Surgery Follow Up",
+    "taxonomy_synonyms": [
+      "CABG Bypass Surgery Follow Up",
+      "CABG Follow Up",
+      "Coronary Artery Bypass Grafting Surgery Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

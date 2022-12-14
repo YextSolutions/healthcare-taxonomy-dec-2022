@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11559",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lines on Face"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

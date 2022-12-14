@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-15372",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Living Organ Donation"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anal Fistulotomy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

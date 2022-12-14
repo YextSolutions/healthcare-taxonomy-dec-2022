@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1802",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aortic Root Aneurysm"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

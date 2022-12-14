@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Polycystic Kidney in Children",
+    "taxonomy_synonyms": [
+      "PDK in Children"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Otitis Externa",
+    "taxonomy_synonyms": [
+      "Swimmer\u0027s Ear"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

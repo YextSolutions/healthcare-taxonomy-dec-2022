@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14940",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ECT"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

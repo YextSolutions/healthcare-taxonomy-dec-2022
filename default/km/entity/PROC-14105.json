@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14105",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Removal of Intraocular Foreign Body"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

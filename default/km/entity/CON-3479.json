@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3479",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Unexplained medical symptoms",
+    "taxonomy_synonyms": [
+      "Persistent Symptoms",
+      "Persistent Pain",
+      "Functional NeUrological Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12665",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Splenectomy",
+    "taxonomy_synonyms": [
+      "Spleen Removal",
+      "Spleen Removal Surgery",
+      "Splenectomy and Splenorrhaphy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

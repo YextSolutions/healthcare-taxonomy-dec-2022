@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-12741",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Breast Augmentation",
+    "taxonomy_synonyms": [
+      "Boob Job",
+      "Augmentation Mammaplasty",
+      "Breast Enlargement",
+      "Breast Implant"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

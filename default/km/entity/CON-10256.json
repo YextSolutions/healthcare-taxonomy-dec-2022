@@ -1,0 +1,14 @@
+{
+  "$id": "CON-10256",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric ACL Insufficiency",
+    "taxonomy_synonyms": [
+      "Child with ACL Insufficiency",
+      "Child with Anterior Cruciate Ligament Insufficiency"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

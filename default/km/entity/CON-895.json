@@ -1,0 +1,13 @@
+{
+  "$id": "CON-895",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Renal Cyst",
+    "taxonomy_synonyms": [
+      "Kidney Cyst"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

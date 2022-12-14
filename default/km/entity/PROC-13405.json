@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Small Bowel Transplant",
+    "taxonomy_synonyms": [
+      "Intestinal Transplant"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

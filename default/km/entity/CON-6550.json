@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6550",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Trigger Finger",
+    "taxonomy_synonyms": [
+      "Trigger Thumb"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

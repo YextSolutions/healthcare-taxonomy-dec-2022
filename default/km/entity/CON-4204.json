@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4204",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fatty Liver Disease",
+    "taxonomy_synonyms": [
+      "Hepatic Steatosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

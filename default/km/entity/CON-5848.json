@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5848",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Presbyopia",
+    "taxonomy_synonyms": [
+      "Far-sightedness",
+      "Difficulty Focusing on Near Objects",
+      "Age-Related Farsightedness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

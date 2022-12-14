@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8907",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Blindness (and Low Vision)",
+    "taxonomy_synonyms": [
+      "Blindness and Low Vision in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

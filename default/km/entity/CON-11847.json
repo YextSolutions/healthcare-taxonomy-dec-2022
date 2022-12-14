@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sedative Dependence",
+    "taxonomy_synonyms": [
+      "Drug Dependence"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11940",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mycobacteria other than Tuberculosis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2188",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetic Autonomic Neuropathy",
+    "taxonomy_synonyms": [
+      "DAN",
+      "Diabetic Nerve Damage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

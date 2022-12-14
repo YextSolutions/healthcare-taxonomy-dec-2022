@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Conversion Disorder",
+    "taxonomy_synonyms": [
+      "Functional neUrologic Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

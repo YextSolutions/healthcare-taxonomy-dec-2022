@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-12670",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hysterosalpingogram",
+    "taxonomy_synonyms": [
+      "HSG",
+      "Sonohysterosalpingogram",
+      "Sono-HSG",
+      "Fluid Contrast Ultrasounds"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

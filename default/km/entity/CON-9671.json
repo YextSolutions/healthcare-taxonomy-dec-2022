@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9671",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Tooth Avulsion",
+    "taxonomy_synonyms": [
+      "Child with Tooth Avulsion"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

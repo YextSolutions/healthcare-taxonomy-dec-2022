@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4396",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Deep Vein Thrombosis",
+    "taxonomy_synonyms": [
+      "Chronic DVT"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

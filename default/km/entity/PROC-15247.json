@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intracytoplasmic Sperm Injection",
+    "taxonomy_synonyms": [
+      "ICSI"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

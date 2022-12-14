@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-14031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Oophorectomy",
+    "taxonomy_synonyms": [
+      "Ovary Removal",
+      "Ovary Removal Surgery",
+      "Open Oophorectomy",
+      "Laparoscopic Oophorectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

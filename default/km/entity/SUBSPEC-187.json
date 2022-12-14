@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-187",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Obstetric Anesthesia"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "CON-11794",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Schizophrenia",
+    "taxonomy_synonyms": [
+      "Schizoaffective Disorder",
+      "Mood Disorder",
+      "Schizophreniform",
+      "Psychotic Features"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

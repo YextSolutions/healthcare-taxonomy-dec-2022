@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric HHT",
+    "taxonomy_synonyms": [
+      "Child with HHT"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

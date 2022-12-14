@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Skin Excision"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

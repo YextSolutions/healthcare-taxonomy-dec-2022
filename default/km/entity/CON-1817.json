@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1817",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pseudo-Aneurysm",
+    "taxonomy_synonyms": [
+      "Pseudo-Aneurysm of the Vessels"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

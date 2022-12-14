@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "High-Intensity Focused Ultrasound",
+    "taxonomy_synonyms": [
+      "HIFU"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

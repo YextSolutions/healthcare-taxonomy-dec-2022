@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11593",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foot Health For Seniors",
+    "taxonomy_synonyms": [
+      "Geriatric Foot Care"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

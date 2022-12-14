@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retinal Vein Occlusion",
+    "taxonomy_synonyms": [
+      "RAO.Retinal Artery Occlusion",
+      "Artery Occlusion"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

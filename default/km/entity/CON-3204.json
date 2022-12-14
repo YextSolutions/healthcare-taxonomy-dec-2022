@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3204",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "recurrent knee subluxation",
+    "taxonomy_synonyms": [
+      "Recurrent Patellar Dislocation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

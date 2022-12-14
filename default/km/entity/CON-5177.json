@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5177",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Supraorbital neuralgia",
+    "taxonomy_synonyms": [
+      "Neuralgia",
+      "Forehead Pain",
+      "Swimmers Headache"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Low Testosterone",
+    "taxonomy_synonyms": [
+      "Testosterone Deficiency Syndrome",
+      "TD",
+      "Low T"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

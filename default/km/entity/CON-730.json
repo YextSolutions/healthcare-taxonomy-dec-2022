@@ -1,0 +1,10 @@
+{
+  "$id": "CON-730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hepatitis Type Delta"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4143",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Myelogenous Leukemia",
+    "taxonomy_synonyms": [
+      "Chronic Myeloid Leukemia",
+      "Chronic Granulocytic Leukemia",
+      "CML"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

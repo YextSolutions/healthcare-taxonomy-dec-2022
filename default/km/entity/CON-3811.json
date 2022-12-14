@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3811",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal Pap Smear",
+    "taxonomy_synonyms": [
+      "Abnormal Pap",
+      "Pap Smear Abnormalities",
+      "Abnormal Pap Test"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

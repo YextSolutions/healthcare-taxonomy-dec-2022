@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pelvic Peritonitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

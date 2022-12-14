@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Radial Head Subluxation",
+    "taxonomy_synonyms": [
+      "Child with Radial Head Subluxation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

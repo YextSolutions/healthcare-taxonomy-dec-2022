@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nutrition for cancer patients"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13483",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lymph Node Removal for Endometrial Cancer",
+    "taxonomy_synonyms": [
+      "Lymph Node Dissection",
+      "Lymphadenectomy for Endometrial Cancer"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

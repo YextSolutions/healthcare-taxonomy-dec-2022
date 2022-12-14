@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "MODY"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

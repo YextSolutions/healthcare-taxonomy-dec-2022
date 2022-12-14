@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Thoracoscopy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

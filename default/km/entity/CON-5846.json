@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5846",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Posterior Uveitis",
+    "taxonomy_synonyms": [
+      "Posterior Inflammation of the Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

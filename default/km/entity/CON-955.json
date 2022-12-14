@@ -1,0 +1,17 @@
+{
+  "$id": "CON-955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Canker Sore",
+    "taxonomy_synonyms": [
+      "Pediatric Canker Sore",
+      "Canker Sore in Children",
+      "Child with Canker Sore",
+      "Pediatric Aphthous Ulcer",
+      "Child with Aphthous Ulcer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

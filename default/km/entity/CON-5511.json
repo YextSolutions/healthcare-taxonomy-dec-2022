@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5511",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Complex Regional Pain Syndrome type 1",
+    "taxonomy_synonyms": [
+      "CRPS Type 1",
+      "Reflex Sympathetic Dystrophy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

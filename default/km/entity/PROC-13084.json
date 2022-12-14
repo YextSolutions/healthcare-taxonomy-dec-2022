@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13084",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laser Treatment for Varicose Veins"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

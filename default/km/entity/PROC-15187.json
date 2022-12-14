@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15187",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stereotactic and Ultrasound-Guided Needle Biopsy for the Breast",
+    "taxonomy_synonyms": [
+      "Stereotactic Biopsy",
+      "Stereotactic Breast Biopsy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

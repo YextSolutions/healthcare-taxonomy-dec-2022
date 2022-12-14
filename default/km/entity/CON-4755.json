@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4755",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Parathyroid Disorders",
+    "taxonomy_synonyms": [
+      "Child with Parathyroid Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

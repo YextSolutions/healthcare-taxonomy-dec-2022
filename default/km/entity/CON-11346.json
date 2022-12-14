@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric groin Pain",
+    "taxonomy_synonyms": [
+      "Groin Pain Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

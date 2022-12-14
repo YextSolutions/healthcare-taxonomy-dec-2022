@@ -1,0 +1,18 @@
+{
+  "$id": "CON-6718",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sleep Disorders",
+    "taxonomy_synonyms": [
+      "Jet Lag",
+      "Restless Leg Syndrome",
+      "Sleepwalking",
+      "Sleep Problems",
+      "Problems Staying Asleep",
+      "Snoring"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

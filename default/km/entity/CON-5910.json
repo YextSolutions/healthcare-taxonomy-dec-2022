@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tear Duct Repair",
+    "taxonomy_synonyms": [
+      "DacryoCystorhinostomy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

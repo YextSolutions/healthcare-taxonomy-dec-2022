@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1619",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiovascular Distress"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

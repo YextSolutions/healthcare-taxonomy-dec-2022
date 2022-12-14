@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Irregular Menstruation",
+    "taxonomy_synonyms": [
+      "Irregular Periods"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5923",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vernal Conjunctivitis",
+    "taxonomy_synonyms": [
+      "Vernal Keratoconjunctivitis",
+      "VKC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

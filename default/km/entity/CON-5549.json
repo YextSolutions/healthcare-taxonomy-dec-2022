@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5549",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Small Cell Lung Cancer",
+    "taxonomy_synonyms": [
+      "Small-Cell Carcinoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

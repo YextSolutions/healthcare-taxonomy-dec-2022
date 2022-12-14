@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14256",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Temporomandibular Arthroplasty",
+    "taxonomy_synonyms": [
+      "TMD Arthroplasty"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

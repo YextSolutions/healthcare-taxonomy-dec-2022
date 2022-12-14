@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Scaphoid Fracture",
+    "taxonomy_synonyms": [
+      "Wrist Fracture",
+      "Navicular Fracture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5916",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Trichiasis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

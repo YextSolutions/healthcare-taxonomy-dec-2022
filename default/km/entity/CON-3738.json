@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3738",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cervical Spondylosis",
+    "taxonomy_synonyms": [
+      "Neck Arthritis",
+      "Spinal Osteoarthritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

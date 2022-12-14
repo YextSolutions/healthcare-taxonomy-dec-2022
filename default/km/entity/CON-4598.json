@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4598",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anemia of Prematurity",
+    "taxonomy_synonyms": [
+      "AOP"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

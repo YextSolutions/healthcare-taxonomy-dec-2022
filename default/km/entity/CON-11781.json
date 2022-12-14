@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11781",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postpartum"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

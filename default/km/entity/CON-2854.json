@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Crab louse"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

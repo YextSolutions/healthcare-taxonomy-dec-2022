@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2780",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cap Bacterial Pneumonia",
+    "taxonomy_synonyms": [
+      "Community Acquired Bacterial Pneumonia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

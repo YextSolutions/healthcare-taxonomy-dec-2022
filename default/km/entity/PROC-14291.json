@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-14291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Invisalign",
+    "taxonomy_synonyms": [
+      "Malocclusion Treatment",
+      "Misaligned Teeth Treatment",
+      "Invisible Braces",
+      "Clear Braces"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

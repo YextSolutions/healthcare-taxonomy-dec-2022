@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3575",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bloom Syndrome",
+    "taxonomy_synonyms": [
+      "Child with Bloom Syndrome",
+      "Bsyn"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

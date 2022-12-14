@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eyelid Laceration"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

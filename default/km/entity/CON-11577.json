@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11577",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arch Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3506",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vitamin Deficiency Anemia",
+    "taxonomy_synonyms": [
+      "Pernicious Anemia",
+      "Addison\u0027s Anemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Neuromuscular Diseases"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

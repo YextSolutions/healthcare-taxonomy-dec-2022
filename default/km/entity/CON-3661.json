@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3661",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "IgG Deficiency",
+    "taxonomy_synonyms": [
+      "Immunoglobulin G Deficiency",
+      "IgG Deficiencies",
+      "Hypogammaglobulinemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

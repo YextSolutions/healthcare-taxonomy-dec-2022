@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12387",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Erectile Dysfunction",
+    "taxonomy_synonyms": [
+      "Impotence",
+      "Male Sexual Dysfunction",
+      "ED"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

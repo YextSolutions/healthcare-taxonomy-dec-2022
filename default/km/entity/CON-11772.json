@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11772",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Perinatal Mental Health"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

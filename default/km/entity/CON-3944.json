@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Plugged Breast Duct"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

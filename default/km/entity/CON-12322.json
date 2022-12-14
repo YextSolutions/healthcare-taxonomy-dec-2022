@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Organ Transplant Rejection"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

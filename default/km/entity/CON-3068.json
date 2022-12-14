@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3068",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lung Fluke Infection"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

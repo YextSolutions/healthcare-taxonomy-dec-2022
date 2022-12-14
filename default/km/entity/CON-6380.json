@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6380",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mallet Finger"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

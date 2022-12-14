@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Percutaneous Endoscopic Jejunostomy",
+    "taxonomy_synonyms": [
+      "PEJ"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

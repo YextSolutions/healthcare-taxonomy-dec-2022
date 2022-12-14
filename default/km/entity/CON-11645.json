@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bipolar Disorder I",
+    "taxonomy_synonyms": [
+      "Bipolar Disorder 1"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

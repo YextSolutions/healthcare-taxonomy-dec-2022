@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1950",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Paronychia of the Toe",
+    "taxonomy_synonyms": [
+      "Toenail Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

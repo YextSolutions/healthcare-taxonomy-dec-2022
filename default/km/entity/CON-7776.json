@@ -1,0 +1,17 @@
+{
+  "$id": "CON-7776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital toxoplasmosis in Children",
+    "taxonomy_synonyms": [
+      "Congenital Toxoplasmosis in Children",
+      "Congenital Toxoplasmosis in Child",
+      "Congenital Toxoplasmosis in Kids",
+      "Child with Congenital Toxoplasmosis",
+      "Pediatric Congenital Toxoplasmosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

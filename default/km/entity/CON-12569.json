@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12569",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pelvic Organ Prolapse",
+    "taxonomy_synonyms": [
+      "Pelvic Prolapse"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

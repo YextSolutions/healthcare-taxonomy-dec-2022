@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11333",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Excess Abdominal Fluid",
+    "taxonomy_synonyms": [
+      "Child with Excess Abdominal Fluid",
+      "Child with Ascites",
+      "Child with Extra Fluid in the Gut"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

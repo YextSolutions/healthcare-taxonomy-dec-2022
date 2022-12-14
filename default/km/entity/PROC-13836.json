@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13836",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Electronystagmogram",
+    "taxonomy_synonyms": [
+      "ENG"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

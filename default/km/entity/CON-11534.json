@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ear Molding"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

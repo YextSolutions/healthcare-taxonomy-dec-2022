@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Larynx Polyp",
+    "taxonomy_synonyms": [
+      "Vocal Cord Nodule",
+      "Singer\u0027s Nodes",
+      "Singer\u0027s Nodules"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

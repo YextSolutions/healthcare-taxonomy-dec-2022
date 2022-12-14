@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Insulin Pump"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

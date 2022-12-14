@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12648",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laparoscopic Hernia Repair",
+    "taxonomy_synonyms": [
+      "Laparoscopic Herniorrhaphy",
+      "Laparoscopic Hernia Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

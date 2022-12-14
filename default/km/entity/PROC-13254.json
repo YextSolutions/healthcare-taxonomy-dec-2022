@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13254",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transsphenoidal Adenomectomy",
+    "taxonomy_synonyms": [
+      "Pituitary Tumor Removal",
+      "Adenoma Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

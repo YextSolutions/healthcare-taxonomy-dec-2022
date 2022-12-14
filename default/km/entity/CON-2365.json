@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2365",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adrenal Gland Diseases",
+    "taxonomy_synonyms": [
+      "Adrenal Gland Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

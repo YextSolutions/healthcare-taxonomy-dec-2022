@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15293",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Percutaneous Lung Biopsy",
+    "taxonomy_synonyms": [
+      "Needle Biopsy of the Lung",
+      "Percutaneous CT-guided Lung Biopsy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "SPEC-48",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wound Healing",
+    "taxonomy_relatedConditions": [
+      "CON-1135"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15511"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2907",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Essential Hypertension",
+    "taxonomy_synonyms": [
+      "Primary Hypertension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

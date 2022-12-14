@@ -1,0 +1,10 @@
+{
+  "$id": "CON-318",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gaucher Disease"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

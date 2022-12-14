@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7424",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Abdominal Disorders",
+    "taxonomy_synonyms": [
+      "Child with Abdominal Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

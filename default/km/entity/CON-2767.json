@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2767",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Burning Mouth Syndrome",
+    "taxonomy_synonyms": [
+      "GLossodynia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

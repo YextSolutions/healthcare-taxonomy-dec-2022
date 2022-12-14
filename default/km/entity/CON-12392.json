@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "GreenLight Laser Prostatectomy",
+    "taxonomy_synonyms": [
+      "Greenlight Laser Photo Prostate"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

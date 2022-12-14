@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1835",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Metastatic Colorectal Cancer",
+    "taxonomy_synonyms": [
+      "Metastatic Colon Cancer",
+      "Metastatic Bowel Cancer",
+      "Metastatic Rectal Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

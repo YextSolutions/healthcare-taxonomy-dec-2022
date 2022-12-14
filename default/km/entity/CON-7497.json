@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ulcerative colitis pediatrician"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11846",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Schizotypal Personality Disorder",
+    "taxonomy_synonyms": [
+      "Schizophrenia",
+      "Mood Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

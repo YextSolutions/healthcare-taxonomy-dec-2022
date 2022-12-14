@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2540",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hyponatremia",
+    "taxonomy_synonyms": [
+      "Low Sodium Levels in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

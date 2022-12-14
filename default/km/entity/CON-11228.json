@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11228",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Asthma Attack",
+    "taxonomy_synonyms": [
+      "Child with Asthma Attack"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

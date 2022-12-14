@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3829",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bartholin Cyst",
+    "taxonomy_synonyms": [
+      "Vaginal Abscess"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

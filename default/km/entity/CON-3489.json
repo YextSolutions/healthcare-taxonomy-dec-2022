@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3489",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Valley Fever",
+    "taxonomy_synonyms": [
+      "Coccidioidomycosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

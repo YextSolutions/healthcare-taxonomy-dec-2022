@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12805",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Implantable Cardioverter Placement",
+    "taxonomy_synonyms": [
+      "ICD Placement",
+      "ICD Replacement",
+      "Implantable Cardioverter Replacement"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-14200",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laser Assisted In-Situ Keratomileusis",
+    "taxonomy_synonyms": [
+      "LASIK",
+      "LASIK Surgery",
+      "LASIK Eye Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

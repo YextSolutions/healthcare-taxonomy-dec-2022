@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-14734",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Renal Scan",
+    "taxonomy_synonyms": [
+      "Renal Function Imaging",
+      "Kidney Scan",
+      "Kidney Funcational Imaging"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

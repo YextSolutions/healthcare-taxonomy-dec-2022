@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Electrocardiogram",
+    "taxonomy_synonyms": [
+      "EKG",
+      "ECG"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11718",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fear Of Flying",
+    "taxonomy_synonyms": [
+      "Aerophobia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

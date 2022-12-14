@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Halitosis",
+    "taxonomy_synonyms": [
+      "Bad Breath"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

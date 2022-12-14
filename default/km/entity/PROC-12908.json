@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colon Resection",
+    "taxonomy_synonyms": [
+      "Bowel Resection",
+      "Partial Colectomy",
+      "Colorectal Resection"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

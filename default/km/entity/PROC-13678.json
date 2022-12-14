@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Insertion of Left Ventricular Lead for Pacemaker or Cardioverter or Defibrillator",
+    "taxonomy_synonyms": [
+      "Insertion of Left Ventricular Lead for Cardioverter",
+      "Insertion of Left Ventricular Lead for Defibrillator"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

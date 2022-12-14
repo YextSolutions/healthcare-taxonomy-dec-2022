@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11620",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Outoe",
+    "taxonomy_synonyms": [
+      "Child with Outoe"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

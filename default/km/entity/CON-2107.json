@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2107",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acrochordon",
+    "taxonomy_synonyms": [
+      "Skin Tag"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

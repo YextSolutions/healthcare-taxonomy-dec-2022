@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Arterial Blood Gas Test",
+    "taxonomy_synonyms": [
+      "Arterial Blood Gas Test in Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

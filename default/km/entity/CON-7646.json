@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7646",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Iron Metabolism Disorder",
+    "taxonomy_synonyms": [
+      "Child with Iron Metabolism Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

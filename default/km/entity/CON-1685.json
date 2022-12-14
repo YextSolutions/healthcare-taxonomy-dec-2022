@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1685",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heart Tamponade",
+    "taxonomy_synonyms": [
+      "Cardiac Tamponade"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

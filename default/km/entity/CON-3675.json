@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3675",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Long QT Syndrome",
+    "taxonomy_synonyms": [
+      "LQTS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

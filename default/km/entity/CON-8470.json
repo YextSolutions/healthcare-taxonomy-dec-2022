@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8470",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Brain Malformation",
+    "taxonomy_synonyms": [
+      "Child with a Brain Malformation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

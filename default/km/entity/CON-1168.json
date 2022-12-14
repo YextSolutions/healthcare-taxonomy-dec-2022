@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1168",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ADHD in Children and Teens",
+    "taxonomy_synonyms": [
+      "Teen ADHD",
+      "ADHD in Child",
+      "ADHD in Children",
+      "Pediatric ADHD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15674",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endocrinology Follow Up"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

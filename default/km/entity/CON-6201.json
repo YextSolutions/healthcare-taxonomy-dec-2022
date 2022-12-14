@@ -1,0 +1,17 @@
+{
+  "$id": "CON-6201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cervical Spine Fracture",
+    "taxonomy_synonyms": [
+      "Broken Cervical Spine",
+      "Cervical Fracture",
+      "Neck Fracture",
+      "Broken Neck",
+      "Cervical Vertebral Fracture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

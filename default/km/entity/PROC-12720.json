@@ -1,0 +1,17 @@
+{
+  "$id": "PROC-12720",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Reflux Surgery",
+    "taxonomy_synonyms": [
+      "Nissen Fundoplication",
+      "Fundoplication",
+      "Anti-Reflux Surgery",
+      "Laparoscopic Nissen Fundoplication",
+      "Laparoscopic GERD Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

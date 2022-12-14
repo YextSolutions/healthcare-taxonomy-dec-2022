@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12220",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Upper Airway Resistance Syndrome",
+    "taxonomy_synonyms": [
+      "UARS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

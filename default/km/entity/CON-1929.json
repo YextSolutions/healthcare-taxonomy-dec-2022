@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1929",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "TMJ",
+    "taxonomy_synonyms": [
+      "Temporomandibular Joint Disorder",
+      "TMJ Syndrome",
+      "TMJ Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

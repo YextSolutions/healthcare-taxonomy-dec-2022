@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2474",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hyperglycemic Hyperosmolar Syndrome",
+    "taxonomy_synonyms": [
+      "HHS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

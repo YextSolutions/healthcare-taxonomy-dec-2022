@@ -1,0 +1,16 @@
+{
+  "$id": "CON-12362",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Prostatic Hyperplasia",
+    "taxonomy_synonyms": [
+      "Benign Prostatic Hypertrophy",
+      "BPH",
+      "Enlarged Prostate",
+      "Prostate Gland Enlargement"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

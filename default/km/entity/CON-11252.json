@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Blood in Urine / Hematuria",
+    "taxonomy_synonyms": [
+      "Child with Blood in the Urine",
+      "Hematuria in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuropathic Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

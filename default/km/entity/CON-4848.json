@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4848",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Alcoholic Hepatitis",
+    "taxonomy_synonyms": [
+      "Alcoholic Liver Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

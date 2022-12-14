@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cholangiopancreatography",
+    "taxonomy_synonyms": [
+      "Endoscopic Retrograde Cholangiopancreatography",
+      "ERCP",
+      "Endoscopic Retrograde Cholangiopancreatogram"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

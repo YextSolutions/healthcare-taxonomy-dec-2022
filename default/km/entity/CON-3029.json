@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "lack of immunoglobulin M"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

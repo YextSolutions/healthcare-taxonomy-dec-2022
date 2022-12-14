@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pulmonary Nodule"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14967",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acceptance and Commitment Therapy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

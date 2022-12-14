@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sensorineural Hearing Loss",
+    "taxonomy_synonyms": [
+      "SNHL"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypertriglyceridemia",
+    "taxonomy_synonyms": [
+      "High Cholesterol",
+      "High Triglyceride Levels"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

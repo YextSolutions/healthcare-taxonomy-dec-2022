@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Organophosphate Poisoning"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5706",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eye Infection"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

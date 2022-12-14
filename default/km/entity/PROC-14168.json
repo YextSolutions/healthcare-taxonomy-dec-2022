@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14168",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "DSEAK",
+    "taxonomy_synonyms": [
+      "DSEK",
+      "Descemet Stripping Automated Endothelial Keratoplasty"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

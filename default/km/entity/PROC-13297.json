@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Herbal Supplements and Weight Management"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

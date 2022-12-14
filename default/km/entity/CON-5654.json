@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5654",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Corneal Inflammation",
+    "taxonomy_synonyms": [
+      "Keratitis",
+      "Corneal Ulcer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

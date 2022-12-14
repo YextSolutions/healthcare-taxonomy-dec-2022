@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tic Disorders",
+    "taxonomy_synonyms": [
+      "Tourette Syndrome",
+      "Tourette\u0027s Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

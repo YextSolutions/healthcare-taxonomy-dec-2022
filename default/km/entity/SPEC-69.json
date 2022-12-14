@@ -1,0 +1,17 @@
+{
+  "$id": "SPEC-69",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Diagnostic and Complex Care",
+    "taxonomy_relatedConditions": [
+      "CON-984",
+      "CON-10460"
+    ],
+    "taxonomy_synonyms": [
+      "Child Abuse"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

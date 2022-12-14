@@ -1,0 +1,16 @@
+{
+  "$id": "CON-3247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Salivary gland disorders",
+    "taxonomy_synonyms": [
+      "Salivary Gland Swelling",
+      "Mumps",
+      "Bacterial Infection in Mouth\tCysts",
+      "Sjogren\u0027s Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

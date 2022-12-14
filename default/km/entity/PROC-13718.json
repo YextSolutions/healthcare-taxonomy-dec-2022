@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13718",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Inferior Vena Cava Filter Insertion",
+    "taxonomy_synonyms": [
+      "IVC Filter Insertion",
+      "Vena Cava Filter Placement",
+      "Vena Cava Filter"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

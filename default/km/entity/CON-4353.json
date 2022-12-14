@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4353",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal EKG",
+    "taxonomy_synonyms": [
+      "Abnormal Echocardiogram"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "CON-394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Arrhythmia",
+    "taxonomy_synonyms": [
+      "Arrhythmia Diagnosis",
+      "Irregular Heartbeat",
+      "Arrhythmia",
+      "Heart Rhythm Problem",
+      "Palpitations",
+      "Tachycardia",
+      "Fast Heart Rate",
+      "Heart Rate Over 100bpm",
+      "Atrial Flutter",
+      "Irregular Heart Rate"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

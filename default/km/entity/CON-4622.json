@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4622",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Group B Strep in Newborns",
+    "taxonomy_synonyms": [
+      "GBS in Newborns",
+      "Group B Streptococcal Infection in Newborns"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

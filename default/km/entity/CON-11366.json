@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11366",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric intractable singultus",
+    "taxonomy_synonyms": [
+      "Child with Intractable Singultus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

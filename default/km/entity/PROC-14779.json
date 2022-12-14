@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14779",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bronchoscopy for Child",
+    "taxonomy_synonyms": [
+      "Bronchoscopy for Children",
+      "Bronchoscopy for Kids"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15140",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Magnetic Resonance Neurography",
+    "taxonomy_synonyms": [
+      "MRN"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

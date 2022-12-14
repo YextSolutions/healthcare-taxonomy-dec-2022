@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11242",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bicep Injury",
+    "taxonomy_synonyms": [
+      "Child with a Bicep Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

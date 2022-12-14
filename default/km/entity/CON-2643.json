@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal Breast Milk",
+    "taxonomy_synonyms": [
+      "Abnormal Breast Milk Production"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

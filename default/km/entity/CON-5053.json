@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5053",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Muscle Disease"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

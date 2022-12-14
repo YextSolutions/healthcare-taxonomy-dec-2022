@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Human Papillomavirus",
+    "taxonomy_synonyms": [
+      "HPV"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

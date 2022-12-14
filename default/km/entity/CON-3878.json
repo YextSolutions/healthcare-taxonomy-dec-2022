@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dysmenorrhea",
+    "taxonomy_synonyms": [
+      "Menstrual Cramps",
+      "Painful Period"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

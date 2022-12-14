@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13961",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Myringotomy",
+    "taxonomy_synonyms": [
+      "Ear Tube Surgery",
+      "Tympanostomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

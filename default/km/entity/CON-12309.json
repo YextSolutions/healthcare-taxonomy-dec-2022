@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12309",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pleural Empyema",
+    "taxonomy_synonyms": [
+      "Empyema",
+      "Pyothorax",
+      "Purulent Pleuritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

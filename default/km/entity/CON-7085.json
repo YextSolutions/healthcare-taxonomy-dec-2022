@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cough Syncope",
+    "taxonomy_synonyms": [
+      "Child Fainting from Cough"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

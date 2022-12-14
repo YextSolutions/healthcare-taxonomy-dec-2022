@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bone Abnormality",
+    "taxonomy_synonyms": [
+      "Bone Abnormality in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

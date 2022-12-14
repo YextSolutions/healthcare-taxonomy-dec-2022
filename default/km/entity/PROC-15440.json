@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15440",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tension-Free Vaginal Tape for Stress Incontinence",
+    "taxonomy_synonyms": [
+      "TVT"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

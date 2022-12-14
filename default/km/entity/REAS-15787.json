@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Right Heart Catheterization",
+    "taxonomy_synonyms": [
+      "Right Heart Cath"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

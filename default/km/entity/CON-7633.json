@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bone Marrow Aplasia",
+    "taxonomy_synonyms": [
+      "Child with Bone Marrow Aplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

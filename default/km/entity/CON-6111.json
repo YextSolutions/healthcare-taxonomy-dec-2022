@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6111",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vertebral Stress Fracture"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

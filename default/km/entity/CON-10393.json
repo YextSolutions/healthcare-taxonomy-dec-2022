@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10393",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bladder Botox",
+    "taxonomy_synonyms": [
+      "Bladder Botox for Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

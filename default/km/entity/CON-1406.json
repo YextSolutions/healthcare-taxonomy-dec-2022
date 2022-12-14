@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1406",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Allergic Reaction",
+    "taxonomy_synonyms": [
+      "Anaphylaxis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

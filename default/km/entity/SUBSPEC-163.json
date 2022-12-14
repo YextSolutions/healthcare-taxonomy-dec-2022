@@ -1,0 +1,21 @@
+{
+  "$id": "SUBSPEC-163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thoracic Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-12032",
+      "CON-12504",
+      "CON-1538"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15194",
+      "PROC-15469",
+      "PROC-15507",
+      "PROC-15509"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

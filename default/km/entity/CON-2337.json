@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sports Concussion",
+    "taxonomy_synonyms": [
+      "Head Injury",
+      "Head Concussion",
+      "Concussion During Sports"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

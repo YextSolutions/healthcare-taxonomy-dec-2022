@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12550",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thoracoabdominal Aneurysm",
+    "taxonomy_synonyms": [
+      "TAAA",
+      "T Triple A",
+      "Thoracoabdominal Aneurysm"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Duplex Kidney",
+    "taxonomy_synonyms": [
+      "Duplicated Ureters",
+      "Duplicated Collecting System",
+      "Two Ureters"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

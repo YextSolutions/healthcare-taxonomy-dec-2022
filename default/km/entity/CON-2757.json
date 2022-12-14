@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2757",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bruise",
+    "taxonomy_synonyms": [
+      "Bruising",
+      "Contusion",
+      "Ecchymosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

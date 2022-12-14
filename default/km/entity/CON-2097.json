@@ -1,0 +1,16 @@
+{
+  "$id": "CON-2097",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Skin Allergy",
+    "taxonomy_synonyms": [
+      "Skin Allergies",
+      "Redness of Skin",
+      "Allergic Reaction on Skin",
+      "Cutaneous Condition"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

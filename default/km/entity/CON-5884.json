@@ -1,0 +1,16 @@
+{
+  "$id": "CON-5884",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retinoschisis",
+    "taxonomy_synonyms": [
+      "Congential Retinal Cyst",
+      "Congenital Vascular Veils in the Retina",
+      "Giant Cyst of the Retina",
+      "Vitreoretinal Dystrophy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

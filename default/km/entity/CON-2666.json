@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2666",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adenovirus Vaccination"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

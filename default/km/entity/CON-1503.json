@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1503",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Idiopathic Intracranial Hypertension",
+    "taxonomy_synonyms": [
+      "Intracranial Pressure",
+      "Pseudotumor Cerebri",
+      "IIH"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

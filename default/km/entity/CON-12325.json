@@ -1,0 +1,17 @@
+{
+  "$id": "CON-12325",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bladder Hernia",
+    "taxonomy_synonyms": [
+      "Cystocele Bladder",
+      "Prolapsed Bladder",
+      "Fallen Bladder",
+      "Herniation of the Urinary Bladder",
+      "Bladder Prolapse"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

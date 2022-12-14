@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7952",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Acidosis",
+    "taxonomy_synonyms": [
+      "Child With Acidosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

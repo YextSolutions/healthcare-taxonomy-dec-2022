@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4386",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cerebral Brain Thrombosis",
+    "taxonomy_synonyms": [
+      "Cortical Vein Thrombosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

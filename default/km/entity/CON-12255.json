@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chondromalacia of the Patella",
+    "taxonomy_synonyms": [
+      "Runner\u0027s Knee"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

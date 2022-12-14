@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adrenogenital Problems",
+    "taxonomy_synonyms": [
+      "Adrenogenital Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cerebrovascular Accident",
+    "taxonomy_synonyms": [
+      "Stroke",
+      "CVA",
+      "Cerebrovascular Incident"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

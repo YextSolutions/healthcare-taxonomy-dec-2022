@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5954",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fractured Teeth",
+    "taxonomy_synonyms": [
+      "Chipped Teeth",
+      "Chipped Tooth",
+      "Fractured Tooth"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

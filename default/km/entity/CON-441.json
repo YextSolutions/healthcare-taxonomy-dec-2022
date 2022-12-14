@@ -1,0 +1,10 @@
+{
+  "$id": "CON-441",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Itchy Scalp"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

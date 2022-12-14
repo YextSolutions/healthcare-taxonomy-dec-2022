@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9648",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Epiglottitis",
+    "taxonomy_synonyms": [
+      "Child with Epiglottitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

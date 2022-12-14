@@ -1,0 +1,10 @@
+{
+  "$id": "CON-10984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Flu in pediatric"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

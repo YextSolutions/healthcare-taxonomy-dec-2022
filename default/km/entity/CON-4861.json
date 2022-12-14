@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4861",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "AFM"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

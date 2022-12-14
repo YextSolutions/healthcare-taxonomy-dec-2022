@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12923",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemorrhoid Coagulation Therapy",
+    "taxonomy_synonyms": [
+      "Hemorrhoid Infrared Photocoagulation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

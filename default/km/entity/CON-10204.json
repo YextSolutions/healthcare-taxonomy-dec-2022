@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10204",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Joint Inflammation",
+    "taxonomy_synonyms": [
+      "Child with Joint Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

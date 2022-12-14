@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5966",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cuts in the Mouth"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

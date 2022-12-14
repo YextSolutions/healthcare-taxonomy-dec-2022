@@ -1,0 +1,18 @@
+{
+  "$id": "CON-8285",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Adrenoleukodystrophy",
+    "taxonomy_synonyms": [
+      "Child with Adrenoleukodystrophy",
+      "Pediatric ALD",
+      "Pediatric X-linked Adrenoleukodystrophy",
+      "Pediatric X-ALD",
+      "Child with X-Linked Adrenoleukodystrophy",
+      "Child with X-ALD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

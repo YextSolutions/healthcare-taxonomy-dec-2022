@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-26",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Craniofacial Dentistry"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

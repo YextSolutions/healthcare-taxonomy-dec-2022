@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coil Embolization",
+    "taxonomy_synonyms": [
+      "Coiling"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

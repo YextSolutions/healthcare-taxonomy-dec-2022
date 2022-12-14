@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cerebral Aneurysm"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

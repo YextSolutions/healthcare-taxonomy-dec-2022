@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3377",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stomach Cramp",
+    "taxonomy_synonyms": [
+      "Stomach Pain",
+      "Sharp Pain in Abdomen"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

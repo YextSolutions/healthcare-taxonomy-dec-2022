@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Obesity Hypoventilation Syndrome",
+    "taxonomy_synonyms": [
+      "Pickwickian Syndrome",
+      "OHHS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

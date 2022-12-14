@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4517",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hodgkin\u0027s Lymphoma",
+    "taxonomy_synonyms": [
+      "Hodgkin\u0027s Disease",
+      "HL",
+      "Hodgkin Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14557",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hand and Wrist Ultrasound"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

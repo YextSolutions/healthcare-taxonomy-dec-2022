@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-65",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lung Transplantation"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

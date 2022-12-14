@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Venous Thromboembolic Disease",
+    "taxonomy_synonyms": [
+      "VTE",
+      "Venous Thromboembolism Disease",
+      "Venous Thromboembolic Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

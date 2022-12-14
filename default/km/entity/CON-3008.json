@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intractable hiccups",
+    "taxonomy_synonyms": [
+      "Intractable Singultus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

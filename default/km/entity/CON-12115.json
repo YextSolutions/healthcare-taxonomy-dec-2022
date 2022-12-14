@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Joint Swelling",
+    "taxonomy_synonyms": [
+      "Swollen Joint"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

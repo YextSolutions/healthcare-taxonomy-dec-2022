@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Foodborne Illness",
+    "taxonomy_synonyms": [
+      "Child with Foodborne Illness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

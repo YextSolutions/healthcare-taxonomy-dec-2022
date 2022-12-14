@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urge Incontinence in Women"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

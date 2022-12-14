@@ -1,0 +1,17 @@
+{
+  "$id": "CON-1357",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Lichen Sclerosis",
+    "taxonomy_synonyms": [
+      "Child with Lichen Sclerosis",
+      "Child with LS",
+      "Child with White Spot Disease",
+      "Pediatric White Spot Disease",
+      "Pediatric LS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

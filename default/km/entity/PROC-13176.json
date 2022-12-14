@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-13176",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cochlear Implant",
+    "taxonomy_synonyms": [
+      "Bone Anchored Hearing Aids",
+      "BAHA",
+      "Bone Conduction Implant",
+      "Cochlear Implant Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

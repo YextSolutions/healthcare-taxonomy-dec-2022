@@ -1,0 +1,17 @@
+{
+  "$id": "CON-4420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hyperkalemia",
+    "taxonomy_synonyms": [
+      "Child with Hyperkalemia",
+      "Child with High Potassium",
+      "High Potassium Levels",
+      "Child with Hyperpotassemia",
+      "Child with Elevated Potassium Levels"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

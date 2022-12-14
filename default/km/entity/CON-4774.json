@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4774",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pyelonephritis",
+    "taxonomy_synonyms": [
+      "Kidney Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

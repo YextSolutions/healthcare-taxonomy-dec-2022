@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13241",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Parathyroidectomy",
+    "taxonomy_synonyms": [
+      "Parathyroid Removal Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

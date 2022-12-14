@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2866",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cystic Lesion"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

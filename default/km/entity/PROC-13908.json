@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arteriovenous Malformation Repair",
+    "taxonomy_synonyms": [
+      "Repair Intracranial Vessel Malformation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

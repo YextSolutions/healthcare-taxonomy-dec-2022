@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Postinfectious Glomerulonephritis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

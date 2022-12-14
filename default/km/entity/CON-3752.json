@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3752",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hip Arthritis",
+    "taxonomy_synonyms": [
+      "Mild Hip Arthritis",
+      "Severe Arthritis of the Hip",
+      "Moderate Arthritis of the Hip"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

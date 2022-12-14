@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mammogram",
+    "taxonomy_synonyms": [
+      "Mammography",
+      "Breast Imaging",
+      "Breast Screening"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

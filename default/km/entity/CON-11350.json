@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11350",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Heel Pain",
+    "taxonomy_synonyms": [
+      "Child with Heel Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

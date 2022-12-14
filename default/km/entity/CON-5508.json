@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5508",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Occupational Infections",
+    "taxonomy_synonyms": [
+      "Occupational Infections"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

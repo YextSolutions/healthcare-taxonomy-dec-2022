@@ -1,0 +1,16 @@
+{
+  "$id": "CON-3397",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stress",
+    "taxonomy_synonyms": [
+      "Stress at Work",
+      "Stress During Holidays",
+      "Emotional Tension",
+      "Emotional Stress"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

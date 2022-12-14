@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Turner Syndrome",
+    "taxonomy_synonyms": [
+      "Gonadal Dysgenesis",
+      "Disorder of Sex Development"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

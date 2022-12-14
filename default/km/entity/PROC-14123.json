@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Trabeculotomy Ab Externo"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

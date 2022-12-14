@@ -1,0 +1,16 @@
+{
+  "$id": "CON-2601",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Salivary Gland Infection",
+    "taxonomy_synonyms": [
+      "Parotid Gland Infection",
+      "Sialadenitis",
+      "Salivary Duct Infection",
+      "Salivary Gland Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

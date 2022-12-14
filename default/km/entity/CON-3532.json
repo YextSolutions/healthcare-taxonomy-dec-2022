@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3532",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemochromatosis",
+    "taxonomy_synonyms": [
+      "Iron Overload",
+      "Excess Iron"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

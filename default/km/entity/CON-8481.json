@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8481",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Slow Onset Cauda Equina Syndrome",
+    "taxonomy_synonyms": [
+      "Slow Onset Cauda Equina Syndrome in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

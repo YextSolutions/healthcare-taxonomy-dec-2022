@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5992",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Parotid Gland Tumor",
+    "taxonomy_synonyms": [
+      "Salivary Gland Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

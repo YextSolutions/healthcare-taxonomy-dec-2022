@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Enuresis",
+    "taxonomy_synonyms": [
+      "Bedwetting"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

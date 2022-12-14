@@ -1,0 +1,20 @@
+{
+  "$id": "PROC-15037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "3D Conformal Radiation Therapy",
+    "taxonomy_synonyms": [
+      "3D Conformal RadioTherapy",
+      "3D Conformal Radiation",
+      "3D Conformal Radiation Therapy",
+      "3D CRT",
+      "3DCRT",
+      "Three-Dimensional Conformal Radiation Therapy",
+      "3D-CRT",
+      "3 Dimensional Conformal Radiation Therapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11367",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric iron deficiency anemia",
+    "taxonomy_synonyms": [
+      "Child with Iron Deficiency Anemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7837",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Parasitic Diseases",
+    "taxonomy_synonyms": [
+      "Child with Parasitic Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

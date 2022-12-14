@@ -1,0 +1,18 @@
+{
+  "$id": "CON-873",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Upper Esophageal Sphincter Dysfunction",
+    "taxonomy_synonyms": [
+      "Problems Swallowing",
+      "Progressive Dysphagia",
+      "Cricopharyngeal Dysfunction",
+      "Cricopharyngeal Achalasia",
+      "Dysphagia",
+      "UES"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

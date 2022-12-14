@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Metastases-Spine"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

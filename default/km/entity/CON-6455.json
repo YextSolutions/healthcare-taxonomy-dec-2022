@@ -1,0 +1,23 @@
+{
+  "$id": "CON-6455",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Scoliosis",
+    "taxonomy_synonyms": [
+      "Child with Scoliosis",
+      "Child with Spinal Deformities",
+      "Pediatric Spinal Deformities",
+      "Child with Spinal Deformity",
+      "Pediatric Spinal Deformity",
+      "Child with Spine Deformity",
+      "Pediatric Spine Deformity",
+      "Child with Kyphosis",
+      "Pediatric Kyphosis",
+      "Child with Spondylolisthesis",
+      "Pediatric Spondylolisthesis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

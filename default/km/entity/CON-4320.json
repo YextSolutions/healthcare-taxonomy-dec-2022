@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4320",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Necrotizing Fascitis",
+    "taxonomy_synonyms": [
+      "Necrotizing Soft Tissue Infection",
+      "Flesh-Eating Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

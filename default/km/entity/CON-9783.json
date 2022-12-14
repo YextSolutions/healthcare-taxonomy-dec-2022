@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Difficulty Falling Asleep",
+    "taxonomy_synonyms": [
+      "Child with Difficulty Falling Asleep"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "CON-1420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Angioedema",
+    "taxonomy_synonyms": [
+      "Angioneurotic Edema",
+      "Skin Swelling",
+      "Allergic Skin Swelling",
+      "Lip Swelling",
+      "Tongue Swelling",
+      "Eye Swelling"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

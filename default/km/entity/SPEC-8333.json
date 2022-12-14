@@ -1,0 +1,32 @@
+{
+  "$id": "SPEC-8333",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Orthodontics",
+    "taxonomy_relatedConditions": [
+      "CON-1876",
+      "CON-6011",
+      "CON-1880",
+      "CON-1893",
+      "CON-1912",
+      "CON-1918"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14282",
+      "PROC-14291",
+      "PROC-14297",
+      "PROC-14298",
+      "PROC-14293"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15643",
+      "REAS-15869",
+      "REAS-15870",
+      "REAS-15872",
+      "REAS-15876"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

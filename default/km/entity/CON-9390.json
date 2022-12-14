@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9390",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Achilles Tendon Injury",
+    "taxonomy_synonyms": [
+      "Child with Achilles Tendon Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

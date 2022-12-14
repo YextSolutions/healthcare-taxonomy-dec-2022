@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Baclofen Pump Therapy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

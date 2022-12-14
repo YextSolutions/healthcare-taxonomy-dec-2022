@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4481",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cancer of the Adrenal Cortex"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

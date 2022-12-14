@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Partial Hysterectomy",
+    "taxonomy_synonyms": [
+      "Uterus Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

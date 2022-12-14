@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hamstring Strain",
+    "taxonomy_synonyms": [
+      "Child with Hamstring Strain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

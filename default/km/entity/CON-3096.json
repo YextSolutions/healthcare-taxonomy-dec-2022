@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "muscular soreness"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

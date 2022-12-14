@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Minimally Invasive Colectomy",
+    "taxonomy_synonyms": [
+      "Laparoscopic Colectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

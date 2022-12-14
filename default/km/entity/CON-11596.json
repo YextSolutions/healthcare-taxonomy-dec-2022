@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11596",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foot or Ankle Tumor",
+    "taxonomy_synonyms": [
+      "Neuroma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

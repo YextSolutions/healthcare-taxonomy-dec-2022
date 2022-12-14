@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fungal Nail Infection",
+    "taxonomy_synonyms": [
+      "Nail Fungus",
+      "Onychomycosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

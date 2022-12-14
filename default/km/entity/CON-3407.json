@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3407",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Subclavian Artery Stenosis",
+    "taxonomy_synonyms": [
+      "Blood Flow Blocked in Artery",
+      "Artery Stenosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2423",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetic Peripheral Neuropathy",
+    "taxonomy_synonyms": [
+      "Diabetic Nerve Damage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

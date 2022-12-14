@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14876",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mastopexy",
+    "taxonomy_synonyms": [
+      "Breast Lift"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

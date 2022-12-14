@@ -1,0 +1,18 @@
+{
+  "$id": "CON-4716",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ESRD",
+    "taxonomy_synonyms": [
+      "End Stage Renal Disease",
+      "End Stage Kidney Disease",
+      "CKD",
+      "Chronic Kidney Disease",
+      "Chronic Renal Failure",
+      "Chronic Kidney Failure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

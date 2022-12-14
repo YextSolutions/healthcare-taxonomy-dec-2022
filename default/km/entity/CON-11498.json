@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11498",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Toxic Synovitis",
+    "taxonomy_synonyms": [
+      "Transient Synovitis",
+      "Toxic Synovitis of the Hip",
+      "Transient Synovitis of the Hip"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

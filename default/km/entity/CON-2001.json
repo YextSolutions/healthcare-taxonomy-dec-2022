@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Facial Lesion",
+    "taxonomy_synonyms": [
+      "Skin Lesion on Skin"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2836",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "communication challenges after stroke"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

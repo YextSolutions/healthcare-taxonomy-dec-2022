@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4221",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Metabolic Liver Disease"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

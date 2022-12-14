@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemorrhage From Placenta Previa"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

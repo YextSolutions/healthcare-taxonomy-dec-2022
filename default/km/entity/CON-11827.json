@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11827",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Couples Therapy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

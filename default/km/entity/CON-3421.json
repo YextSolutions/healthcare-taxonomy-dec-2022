@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "SVT",
+    "taxonomy_synonyms": [
+      "Supraventricular Tachycardia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

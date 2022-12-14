@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8220",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Infantile Spasms"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

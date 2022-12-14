@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6670",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laryngopharyngeal Reflux",
+    "taxonomy_synonyms": [
+      "LPR"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

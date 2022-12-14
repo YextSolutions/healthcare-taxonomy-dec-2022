@@ -1,0 +1,19 @@
+{
+  "$id": "CON-7721",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Acute Myelocytic Leukemia",
+    "taxonomy_synonyms": [
+      "Child with Acute Myelocytic Leukemia",
+      "Child with AML",
+      "Child with Acute Myeloid Leukemia",
+      "Child with Acute Myelogenous Leukemia",
+      "Child with AML Leukemia",
+      "Child with Acute Myeloblastic Leukemia",
+      "Child with Acute Non-lymphocytic Leukemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Donor Sperm"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

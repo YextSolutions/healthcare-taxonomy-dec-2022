@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2431",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Empty Sella Syndrome",
+    "taxonomy_synonyms": [
+      "ESS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

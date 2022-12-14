@@ -1,0 +1,17 @@
+{
+  "$id": "CON-12463",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urinary Hesitancy",
+    "taxonomy_synonyms": [
+      "Trouble Peeing",
+      "Urinary Retention",
+      "Urinary Dribbling",
+      "Slow Urinary Stream",
+      "Weak Urinary Stream"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

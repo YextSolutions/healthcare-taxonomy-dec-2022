@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ileal Pull Through"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

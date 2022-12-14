@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13749",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Kidney Exchange",
+    "taxonomy_synonyms": [
+      "Kidney Swap",
+      "Paired Kidney Exchange"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

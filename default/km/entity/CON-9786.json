@@ -1,0 +1,15 @@
+{
+  "$id": "CON-9786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Generalized Anxiety Disorder",
+    "taxonomy_synonyms": [
+      "Pediatric GAD",
+      "Child with Generalized Anxiety Disorder",
+      "Child with GAD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

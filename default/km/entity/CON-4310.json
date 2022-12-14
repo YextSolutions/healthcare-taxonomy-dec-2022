@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4310",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "legionella pneumonia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

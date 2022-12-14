@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Age Related Hearing Loss",
+    "taxonomy_synonyms": [
+      "Presbycusis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

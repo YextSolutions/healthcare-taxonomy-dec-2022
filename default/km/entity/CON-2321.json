@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2321",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cerebrovascular Accident",
+    "taxonomy_synonyms": [
+      "Pediatric Stroke",
+      "Pediatric CVA",
+      "Stroke in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

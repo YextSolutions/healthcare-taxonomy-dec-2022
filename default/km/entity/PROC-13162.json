@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13162",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fine Needle Aspiration Biopsy",
+    "taxonomy_synonyms": [
+      "FNA Biopsy",
+      "Fine Needle Breast Biopsy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

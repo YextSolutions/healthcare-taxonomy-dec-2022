@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13606",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "VWD Replacement Therapy",
+    "taxonomy_synonyms": [
+      "Von Willebrand Replacement Therapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

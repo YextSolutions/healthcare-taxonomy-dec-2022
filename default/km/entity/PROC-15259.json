@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Single Embryo Transfer",
+    "taxonomy_synonyms": [
+      "eSET",
+      "Elective Single Embryo Transfer"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

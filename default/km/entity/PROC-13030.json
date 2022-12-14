@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Electrocochleography"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Folate Deficiency Anemia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

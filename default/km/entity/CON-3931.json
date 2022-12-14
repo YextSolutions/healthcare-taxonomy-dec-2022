@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Teratoma",
+    "taxonomy_synonyms": [
+      "Mature Cystic Teratoma Of The Ovary"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

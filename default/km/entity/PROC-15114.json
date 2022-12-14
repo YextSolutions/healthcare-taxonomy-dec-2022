@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15114",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fluid Contrast Ultrasounds",
+    "taxonomy_synonyms": [
+      "Sonohysteroscopy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

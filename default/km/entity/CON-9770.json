@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9770",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Adjustment Disorder",
+    "taxonomy_synonyms": [
+      "Adjustment Disorder in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

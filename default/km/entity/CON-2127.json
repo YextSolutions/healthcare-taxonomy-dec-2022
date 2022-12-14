@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tinea Capitis",
+    "taxonomy_synonyms": [
+      "Ringworm of the Scalp"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

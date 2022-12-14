@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1361",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Nail Conditions",
+    "taxonomy_synonyms": [
+      "Child with Nail Conditions",
+      "Child with Nail Problems",
+      "Pediatric Nail Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

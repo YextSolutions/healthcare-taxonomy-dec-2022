@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2521",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Non-Diabetic High Blood Sugar",
+    "taxonomy_synonyms": [
+      "Non-Diabetic Hyperglycemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

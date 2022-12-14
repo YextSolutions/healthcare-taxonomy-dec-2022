@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dermatitis Herpetiformis",
+    "taxonomy_synonyms": [
+      "Dermatitis",
+      "Skin Rash",
+      "DH",
+      "Duhring Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

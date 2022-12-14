@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "rotavirus gastroenteritis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

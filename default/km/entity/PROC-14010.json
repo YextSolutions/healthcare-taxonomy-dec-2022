@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pessary Fitting",
+    "taxonomy_synonyms": [
+      "Pessary Fitting and Management"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

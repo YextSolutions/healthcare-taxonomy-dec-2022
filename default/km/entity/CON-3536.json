@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3536",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dwarfism",
+    "taxonomy_synonyms": [
+      "Short Stature"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

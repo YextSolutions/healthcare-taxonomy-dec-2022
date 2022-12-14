@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1434",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Common Variable Allergies \u0026 Immunology",
+    "taxonomy_synonyms": [
+      "Common Variable Allergies and Immunology"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

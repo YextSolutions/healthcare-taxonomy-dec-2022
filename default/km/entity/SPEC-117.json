@@ -1,0 +1,13 @@
+{
+  "$id": "SPEC-117",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Social Work",
+    "taxonomy_synonyms": [
+      "Licensed Clinical Social Worker"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9876",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Child Behavioral Problems",
+    "taxonomy_synonyms": [
+      "Pediatric Behavioral Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

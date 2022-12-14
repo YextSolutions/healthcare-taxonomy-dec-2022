@@ -1,0 +1,49 @@
+{
+  "$id": "SPEC-97",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Neurosurgery",
+    "taxonomy_relatedConditions": [
+      "CON-8425",
+      "CON-8461",
+      "CON-8462",
+      "CON-8463",
+      "CON-8464",
+      "CON-8465",
+      "CON-8466",
+      "CON-8467",
+      "CON-8468",
+      "CON-8469",
+      "CON-8470",
+      "CON-8471",
+      "CON-8472",
+      "CON-8473",
+      "CON-8474",
+      "CON-8475",
+      "CON-8476",
+      "CON-8477",
+      "CON-8478",
+      "CON-8479",
+      "CON-8480",
+      "CON-8481",
+      "CON-8483",
+      "CON-8484"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14652",
+      "PROC-14657",
+      "PROC-14658",
+      "PROC-14659"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15899",
+      "REAS-15900"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Neurosurgery"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

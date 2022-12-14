@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7569",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "g6pd deficiency",
+    "taxonomy_synonyms": [
+      "Glucose-6-Phosphate Dehydrogenase Deficiency"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

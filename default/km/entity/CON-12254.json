@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12254",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bicep Tendonitis",
+    "taxonomy_synonyms": [
+      "Biceps Tendinitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

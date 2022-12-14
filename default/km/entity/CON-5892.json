@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Scratched Cornea",
+    "taxonomy_synonyms": [
+      "Corneal Abrasion",
+      "Corneal Scratches"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

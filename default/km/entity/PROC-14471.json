@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Proliferation Therapy",
+    "taxonomy_synonyms": [
+      "Prolotherapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

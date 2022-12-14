@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-16096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Olecranon Fracture Surgery",
+    "taxonomy_synonyms": [
+      "Elbow Fracture Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

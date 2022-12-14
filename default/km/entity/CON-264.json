@@ -1,0 +1,18 @@
+{
+  "$id": "CON-264",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Alcohol Dependence",
+    "taxonomy_synonyms": [
+      "Alcohol Dependence",
+      "Alcohol Dependency",
+      "Alcohol Dependence and Addiction",
+      "Alcohol Intoxication",
+      "Alcohol Use Disorder",
+      "Alcoholism"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

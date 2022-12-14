@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15439",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transurethral Needle Ablation of Prostate",
+    "taxonomy_synonyms": [
+      "TUNA Procedure"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

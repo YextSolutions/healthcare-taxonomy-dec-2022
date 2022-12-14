@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3117",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "not getting enough sleep",
+    "taxonomy_synonyms": [
+      "Lack of Sleep",
+      "Sleep Problems",
+      "Problem Staying Asleep"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

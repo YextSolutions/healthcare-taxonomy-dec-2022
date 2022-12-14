@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2785",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cecal Volvulus",
+    "taxonomy_synonyms": [
+      "Twisted Colon"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

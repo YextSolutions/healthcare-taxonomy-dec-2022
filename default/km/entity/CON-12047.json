@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Same-Sex Couple Infertility"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

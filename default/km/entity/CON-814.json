@@ -1,0 +1,13 @@
+{
+  "$id": "CON-814",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pharyngeal Pouch",
+    "taxonomy_synonyms": [
+      "Zenker\u0027s Diverticulum"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

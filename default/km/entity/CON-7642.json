@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric hereditary spherocytosis",
+    "taxonomy_synonyms": [
+      "Child with Hereditary Spherocytosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

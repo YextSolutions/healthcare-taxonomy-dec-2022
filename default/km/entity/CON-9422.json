@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9422",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric non displaced wrist fracture"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

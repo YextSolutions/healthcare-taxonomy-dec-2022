@@ -1,0 +1,15 @@
+{
+  "$id": "REAS-15593",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastric Bypass Consultation",
+    "taxonomy_synonyms": [
+      "Bariatric Surgery Consultation",
+      "Weight Loss Surgery Consultation",
+      "Lap Band Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

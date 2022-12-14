@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HIV Neuropathy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

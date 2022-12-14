@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lump in Breast",
+    "taxonomy_synonyms": [
+      "Breast Mass"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

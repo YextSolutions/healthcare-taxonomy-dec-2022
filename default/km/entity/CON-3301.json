@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Tenosynovitis",
+    "taxonomy_synonyms": [
+      "Shoulder Tendinitis",
+      "Shoulder Bursitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

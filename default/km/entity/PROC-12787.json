@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Carotid Artery Stenting",
+    "taxonomy_synonyms": [
+      "Carotid Stenting"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

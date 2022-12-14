@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hot Flashes"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Helicobacter Pylori Infection",
+    "taxonomy_synonyms": [
+      "H. Pylori Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

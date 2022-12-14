@@ -1,0 +1,19 @@
+{
+  "$id": "CON-937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spine Pain",
+    "taxonomy_synonyms": [
+      "Back Pain",
+      "Pain in Spine",
+      "Spinal Cord Pain",
+      "Spinal Pain",
+      "Upper Back Pain",
+      "Thoracic Spine Pain",
+      "Lower Back Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

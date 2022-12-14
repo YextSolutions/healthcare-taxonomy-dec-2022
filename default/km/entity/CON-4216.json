@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4216",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hepatolenticular Degeneration",
+    "taxonomy_synonyms": [
+      "Wilson\u0027s Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

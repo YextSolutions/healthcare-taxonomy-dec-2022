@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Central Auditory Processing Disorder",
+    "taxonomy_synonyms": [
+      "CAPD",
+      "Auditory Processing Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

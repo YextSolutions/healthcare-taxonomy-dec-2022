@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Impetigo",
+    "taxonomy_synonyms": [
+      "School Sores"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

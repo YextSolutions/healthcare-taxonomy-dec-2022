@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4740",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Iga Nephropathy",
+    "taxonomy_synonyms": [
+      "Berger\u0027s Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

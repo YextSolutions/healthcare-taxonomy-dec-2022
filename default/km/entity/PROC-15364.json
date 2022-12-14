@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15364",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Transplant",
+    "taxonomy_synonyms": [
+      "Heart Transplant",
+      "Heart Transplantation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

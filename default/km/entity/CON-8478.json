@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8478",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Craniopharyngioma",
+    "taxonomy_synonyms": [
+      "Child with Craniopharyngioma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

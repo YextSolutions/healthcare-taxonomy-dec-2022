@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12853",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aortic Aneurysm Treatment",
+    "taxonomy_synonyms": [
+      "AAA Treatment",
+      "Abdominal Aortic Aneurysm Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

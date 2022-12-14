@@ -1,0 +1,18 @@
+{
+  "$id": "CON-3497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Velo-Cardio-Facial Syndrome",
+    "taxonomy_synonyms": [
+      "VCFS",
+      "22q11 Deletion Syndrome",
+      "Shprintzen Syndrom",
+      "Craniofacial Syndrome",
+      "DiGeorge Syndrome",
+      "Conotruncal Anomaly Face Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

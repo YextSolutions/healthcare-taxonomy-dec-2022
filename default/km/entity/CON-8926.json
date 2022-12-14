@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8926",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Corneal Dystrophies",
+    "taxonomy_synonyms": [
+      "Child with Corneal Dystrophies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

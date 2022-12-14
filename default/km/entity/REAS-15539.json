@@ -1,0 +1,17 @@
+{
+  "$id": "REAS-15539",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Alcoholics Anonymous",
+    "taxonomy_synonyms": [
+      "AA",
+      "12 Step",
+      "12 Step Program",
+      "AA Program",
+      "12-Step Recovery Program"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

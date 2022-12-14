@@ -1,0 +1,13 @@
+{
+  "$id": "CON-219",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aggression",
+    "taxonomy_synonyms": [
+      "Aggressive Behavior"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

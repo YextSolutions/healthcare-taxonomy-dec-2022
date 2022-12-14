@@ -1,0 +1,35 @@
+{
+  "$id": "SPEC-66",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "General Pediatric Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-10271",
+      "CON-10293",
+      "CON-10302",
+      "CON-10307",
+      "CON-10309",
+      "CON-10310",
+      "CON-10311",
+      "CON-10312",
+      "CON-10313",
+      "CON-325",
+      "CON-10291",
+      "CON-12018",
+      "CON-348",
+      "CON-357"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14806",
+      "PROC-14813",
+      "PROC-14814",
+      "PROC-22344"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Surgeons"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

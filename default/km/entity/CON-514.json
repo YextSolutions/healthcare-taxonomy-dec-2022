@@ -1,0 +1,15 @@
+{
+  "$id": "CON-514",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Gastritis",
+    "taxonomy_synonyms": [
+      "Stomach Inflammation",
+      "Gastritis",
+      "Chronic Stomach Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

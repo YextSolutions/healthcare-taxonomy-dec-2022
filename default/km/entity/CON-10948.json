@@ -1,0 +1,15 @@
+{
+  "$id": "CON-10948",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "EBV Mononucleosis",
+    "taxonomy_synonyms": [
+      "Epstein-Barr and Infectious Mononucleosis",
+      "Mono",
+      "Infectious Mononucleosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

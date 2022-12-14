@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Scleral Buckle Procedure",
+    "taxonomy_synonyms": [
+      "Scleral Buckling Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

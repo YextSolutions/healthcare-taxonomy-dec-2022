@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5229",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arnold-Chiari Malformation",
+    "taxonomy_synonyms": [
+      "Chiari Malformation",
+      "Chiari\u0027s Deformity",
+      "Arnold Chiari Deformity"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

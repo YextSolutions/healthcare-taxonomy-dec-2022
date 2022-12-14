@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15455",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urology Emergency",
+    "taxonomy_synonyms": [
+      "Urologic Emergencies"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pneumonitis Due to Solids or Liquids"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

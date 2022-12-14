@@ -1,0 +1,16 @@
+{
+  "$id": "CON-4113",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Angiohemophilia",
+    "taxonomy_synonyms": [
+      "Von Willebrand Disease",
+      "VWD",
+      "Acquired Von Willebrand Disease",
+      "Inherited von Willebrand Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

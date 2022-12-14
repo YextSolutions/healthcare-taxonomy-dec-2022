@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pilonidal Cyst",
+    "taxonomy_synonyms": [
+      "Pilonidal Sinus",
+      "Pilonidal Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

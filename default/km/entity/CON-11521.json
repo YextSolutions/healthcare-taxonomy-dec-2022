@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11521",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Radial Tunnel Syndrome",
+    "taxonomy_synonyms": [
+      "Radial Nerve Entrapment"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

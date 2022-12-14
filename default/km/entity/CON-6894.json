@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Anaphylaxis Due To Fish",
+    "taxonomy_synonyms": [
+      "Anaphylaxis in Child Due to Fish"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

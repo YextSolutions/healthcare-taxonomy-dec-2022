@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14108",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Repair of Eye Laceration"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12261",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Iliotibial Band Friction Syndrome",
+    "taxonomy_synonyms": [
+      "Iliotibial Band Syndrome",
+      "ITBS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

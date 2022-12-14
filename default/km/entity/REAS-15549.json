@@ -1,0 +1,14 @@
+{
+  "$id": "REAS-15549",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Quitting Smoking",
+    "taxonomy_synonyms": [
+      "Smoking Cessation",
+      "Stop Smoking"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

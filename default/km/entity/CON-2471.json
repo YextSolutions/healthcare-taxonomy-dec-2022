@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypercalcemia",
+    "taxonomy_synonyms": [
+      "High Calcium Level",
+      "High Blood Calcium"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

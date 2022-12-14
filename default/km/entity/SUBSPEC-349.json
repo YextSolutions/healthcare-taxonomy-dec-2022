@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-349",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adult Critical Care Medicine"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

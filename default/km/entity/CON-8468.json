@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8468",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Brain Compression",
+    "taxonomy_synonyms": [
+      "Child with Brain Compression"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

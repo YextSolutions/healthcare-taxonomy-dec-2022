@@ -1,0 +1,14 @@
+{
+  "$id": "CON-357",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Umbilical Hernia",
+    "taxonomy_synonyms": [
+      "Protruding Belly Button",
+      "Ventral Hernia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

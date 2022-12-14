@@ -1,0 +1,10 @@
+{
+  "$id": "CON-538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Atrophic Gastritis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

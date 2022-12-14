@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2508",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Latent Autoimmune Diabetes of Adults",
+    "taxonomy_synonyms": [
+      "LADA"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

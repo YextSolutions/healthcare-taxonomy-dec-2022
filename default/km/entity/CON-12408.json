@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12408",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Low Libido",
+    "taxonomy_synonyms": [
+      "Low Sex Drive"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5278",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Paroxysmal Positional Vertigo",
+    "taxonomy_synonyms": [
+      "BPPV"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

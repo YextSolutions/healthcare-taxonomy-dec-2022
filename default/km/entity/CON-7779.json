@@ -1,0 +1,14 @@
+{
+  "$id": "CON-7779",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Enlarged Lymph Nodes in Children",
+    "taxonomy_synonyms": [
+      "Child with Enlarged Lymph Nodes",
+      "Child with Swollen Lymph Nodes"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

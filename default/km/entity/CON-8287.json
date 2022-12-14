@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8287",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Aseptic Meningitis",
+    "taxonomy_synonyms": [
+      "Child with Aseptic Meningitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

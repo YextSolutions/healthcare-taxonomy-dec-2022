@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1656",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "End Stage Heart Failure",
+    "taxonomy_synonyms": [
+      "Late Stage Heart Failure",
+      "End-Stage Heart Failure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

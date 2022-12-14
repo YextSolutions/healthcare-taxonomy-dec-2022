@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diastrophic Dysplasia",
+    "taxonomy_synonyms": [
+      "DTD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1785",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wolff-Parkinson-White Syndrome",
+    "taxonomy_synonyms": [
+      "WPW Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

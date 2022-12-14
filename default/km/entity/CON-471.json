@@ -1,0 +1,13 @@
+{
+  "$id": "CON-471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pyoderma Gangrenosum",
+    "taxonomy_synonyms": [
+      "PG"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

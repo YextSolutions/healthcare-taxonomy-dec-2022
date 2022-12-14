@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12178",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Excess Sleepiness",
+    "taxonomy_synonyms": [
+      "Drowsiness",
+      "Hypersomnia",
+      "IH"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Breast Reconstruction Surgery",
+    "taxonomy_synonyms": [
+      "Breast Reconstruction"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

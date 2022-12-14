@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6267",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Huntington\u0027s Disease",
+    "taxonomy_synonyms": [
+      "HD",
+      "Huntington\u0027s Chorea"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

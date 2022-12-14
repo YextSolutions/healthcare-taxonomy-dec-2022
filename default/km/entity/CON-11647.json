@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Social Anxiety",
+    "taxonomy_synonyms": [
+      "Avoid Social Activities",
+      "Social Anxiety Disorder",
+      "Social Phobia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2575",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Syndrome of Inappropriate Antidiuretic Hormone Secretion",
+    "taxonomy_synonyms": [
+      "SIADH",
+      "Retaining Water"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

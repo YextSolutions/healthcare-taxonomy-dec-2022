@@ -1,0 +1,16 @@
+{
+  "$id": "CON-2693",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aphthous Oral Ulcer",
+    "taxonomy_synonyms": [
+      "Canker Sore",
+      "Mouth Ulcer",
+      "Tongue Ulcer",
+      "Aphthous Ulcer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Women\u0027s Mood Disorders"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

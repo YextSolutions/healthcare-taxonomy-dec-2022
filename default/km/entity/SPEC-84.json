@@ -1,0 +1,29 @@
+{
+  "$id": "SPEC-84",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Radiology",
+    "taxonomy_relatedConditions": [
+      "CON-4393",
+      "CON-10109",
+      "CON-2518"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13701",
+      "PROC-14793",
+      "PROC-14794",
+      "PROC-14795",
+      "PROC-14796",
+      "PROC-14797"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-295"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Radiologists"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

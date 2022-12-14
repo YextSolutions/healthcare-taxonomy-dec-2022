@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6696",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Epistaxis",
+    "taxonomy_synonyms": [
+      "Nosebleed",
+      "Nose Bleed"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

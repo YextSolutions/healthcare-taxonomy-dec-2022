@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3269",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Seasonal Affective Disorder",
+    "taxonomy_synonyms": [
+      "SAD",
+      "Seasonal Depression"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood and Lymph Conditions"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

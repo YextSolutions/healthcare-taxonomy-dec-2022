@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12641",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laparoscopic Cholecystectomy with Robotic Assistance",
+    "taxonomy_synonyms": [
+      "Laparoscopic Gall Bladder Removal with Robotic Assistance",
+      "Laparoscopic Gall Bladder Removal Surgery with Robotic Assistance"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Leriche\u0027s Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5207",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vertebral Artery Stenosis",
+    "taxonomy_synonyms": [
+      "Vertebrobasilar Disease",
+      "Vertebrobasilar Insufficiency"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

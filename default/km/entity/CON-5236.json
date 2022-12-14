@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brain Aneurysm Coiling",
+    "taxonomy_synonyms": [
+      "Brain AVM Embolization",
+      "Brain Arteriovenous Malformation Embolization"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

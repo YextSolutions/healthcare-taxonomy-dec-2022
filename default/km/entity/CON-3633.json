@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ehlers-Danlos Syndrome",
+    "taxonomy_synonyms": [
+      "EDS",
+      "Elastic Skin"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

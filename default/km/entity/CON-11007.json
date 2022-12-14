@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Medial Collateral Ligament Injury",
+    "taxonomy_synonyms": [
+      "MCL Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

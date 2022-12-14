@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6883",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Allergic Rhinitis Due To Food",
+    "taxonomy_synonyms": [
+      "Child with Allergy Due to Food"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

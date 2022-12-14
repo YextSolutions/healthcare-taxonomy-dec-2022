@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4895",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brain Injury",
+    "taxonomy_synonyms": [
+      "Brain Trauma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

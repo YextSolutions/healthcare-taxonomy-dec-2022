@@ -1,0 +1,15 @@
+{
+  "$id": "CON-922",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arteriovenous Malformation",
+    "taxonomy_synonyms": [
+      "AVM",
+      "Vascular Abnormalities",
+      "Arteriovenous Malformation Repair"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

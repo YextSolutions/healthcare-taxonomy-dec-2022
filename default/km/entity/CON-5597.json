@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5597",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bleeding in Eye",
+    "taxonomy_synonyms": [
+      "Subconjunctival Hemorrhage",
+      "Conjunctival Hemorrhage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

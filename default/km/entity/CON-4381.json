@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Non-Coronary Angioplasty"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

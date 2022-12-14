@@ -1,0 +1,18 @@
+{
+  "$id": "CON-7468",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric inflammatory bowel disease",
+    "taxonomy_synonyms": [
+      "Child with IBD",
+      "Pediatric Irritable Bowel Syndrome",
+      "Pediatric Inflammatory Bowel Disease",
+      "Child with IBS",
+      "Pediatric IBD",
+      "Pediatric IBS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cancer of the Uterus",
+    "taxonomy_synonyms": [
+      "Uterine Cancer",
+      "Uterus Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

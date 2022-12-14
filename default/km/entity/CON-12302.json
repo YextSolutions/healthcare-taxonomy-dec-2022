@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Malignant Mediastinal Tumors",
+    "taxonomy_synonyms": [
+      "Mediastinal Tumor",
+      "Mediastinal Mass"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

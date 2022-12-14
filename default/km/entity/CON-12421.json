@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Priapism",
+    "taxonomy_synonyms": [
+      "Painful Erection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

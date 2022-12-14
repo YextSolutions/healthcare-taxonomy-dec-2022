@@ -1,0 +1,15 @@
+{
+  "$id": "CON-966",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "congenital nevus in Children",
+    "taxonomy_synonyms": [
+      "Mole",
+      "Congenital Melanocytic Nevi",
+      "CMN"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

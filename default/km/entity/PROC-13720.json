@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13720",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intravascular Ultrasound",
+    "taxonomy_synonyms": [
+      "IVUS"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

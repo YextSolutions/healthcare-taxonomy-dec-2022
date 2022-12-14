@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lambert-Eaton Myasthenic Syndrome",
+    "taxonomy_synonyms": [
+      "LEMS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

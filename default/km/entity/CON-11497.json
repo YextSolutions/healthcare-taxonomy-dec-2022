@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tinea",
+    "taxonomy_synonyms": [
+      "Ringworm"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

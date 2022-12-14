@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2487",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypogonadism",
+    "taxonomy_synonyms": [
+      "Sex Hormone Disorder",
+      "Low Testosterone",
+      "Low T"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3288",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shin Pain",
+    "taxonomy_synonyms": [
+      "Shin Splints"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

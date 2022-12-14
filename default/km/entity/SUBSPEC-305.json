@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Benign Hematology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

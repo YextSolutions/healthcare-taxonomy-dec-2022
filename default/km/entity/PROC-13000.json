@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13000",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mouth Condition",
+    "taxonomy_synonyms": [
+      "Dental Condition",
+      "Dental and Mouth Conditions"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

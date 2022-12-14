@@ -1,0 +1,10 @@
+{
+  "$id": "CON-812",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peritonitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

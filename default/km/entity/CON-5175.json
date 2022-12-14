@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5175",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Subarachnoid Hemorrhage",
+    "taxonomy_synonyms": [
+      "SAH"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

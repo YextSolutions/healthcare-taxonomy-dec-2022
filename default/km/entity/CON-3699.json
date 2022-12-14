@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3699",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections",
+    "taxonomy_synonyms": [
+      "Child with Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "High-Output Heart Failure",
+    "taxonomy_synonyms": [
+      "High Output HF"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ADD Evaluation",
+    "taxonomy_synonyms": [
+      "Attention Deficit Disorder Evaluation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

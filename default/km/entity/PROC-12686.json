@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12686",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Epidural Anesthesia",
+    "taxonomy_synonyms": [
+      "Epidural",
+      "Epidural Block",
+      "Epidural Injection"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

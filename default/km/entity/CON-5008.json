@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hydrocephalus",
+    "taxonomy_synonyms": [
+      "Increased Intracranial Pressure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

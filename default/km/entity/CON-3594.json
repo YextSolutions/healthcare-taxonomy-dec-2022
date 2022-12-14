@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chediak-Higashi Syndrome",
+    "taxonomy_synonyms": [
+      "CHS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

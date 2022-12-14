@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4370",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Groin Injury",
+    "taxonomy_synonyms": [
+      "Groin Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

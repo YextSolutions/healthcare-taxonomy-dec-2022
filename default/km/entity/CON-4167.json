@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Marginal Zone Lymphoma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

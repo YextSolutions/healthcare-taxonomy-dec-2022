@@ -1,0 +1,14 @@
+{
+  "$id": "SPEC-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Burn Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-2016",
+      "CON-2019"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

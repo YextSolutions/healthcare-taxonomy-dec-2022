@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Uvulopalatoplasty",
+    "taxonomy_synonyms": [
+      "Snoring Reduction Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

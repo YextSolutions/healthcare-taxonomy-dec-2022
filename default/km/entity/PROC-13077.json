@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laser Resurfacing",
+    "taxonomy_synonyms": [
+      "Laser Skin Resurfacing",
+      "Laser Skin Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

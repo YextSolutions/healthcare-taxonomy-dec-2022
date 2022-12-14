@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heart Cachexia",
+    "taxonomy_synonyms": [
+      "Cardiac Cachexia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

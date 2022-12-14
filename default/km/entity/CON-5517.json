@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5517",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Cancer"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anembryonic Gestation",
+    "taxonomy_synonyms": [
+      "Blighted Ovum"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

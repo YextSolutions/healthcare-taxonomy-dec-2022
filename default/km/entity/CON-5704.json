@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5704",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eye Fatigue",
+    "taxonomy_synonyms": [
+      "Asthenopia",
+      "Eye Strain",
+      "Eyestrain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

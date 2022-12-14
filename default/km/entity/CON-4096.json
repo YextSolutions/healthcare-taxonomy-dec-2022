@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "PNH",
+    "taxonomy_synonyms": [
+      "Paroxysmal Nocturnal Hemoglobinuria"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

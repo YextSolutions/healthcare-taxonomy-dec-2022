@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14868",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abdominoplasty",
+    "taxonomy_synonyms": [
+      "Tummy Tuck",
+      "Abdomonoplasty"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

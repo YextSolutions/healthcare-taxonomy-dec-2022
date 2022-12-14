@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11872",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aspergillosis, allergic bronchopulmonary",
+    "taxonomy_synonyms": [
+      "ABPA",
+      "Allergic Bronchopulmonary Mycosis",
+      "Hinson-Pepys Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

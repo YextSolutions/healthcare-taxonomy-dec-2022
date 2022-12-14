@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bladder Diseases",
+    "taxonomy_synonyms": [
+      "Child with Bladder Diseases"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Menstrual Cycle",
+    "taxonomy_synonyms": [
+      "Period Cycle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

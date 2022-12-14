@@ -1,0 +1,24 @@
+{
+  "$id": "SPEC-76",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Dermatology",
+    "taxonomy_relatedConditions": [
+      "CON-1197",
+      "CON-7132",
+      "CON-7133",
+      "CON-7142",
+      "CON-7146",
+      "CON-962",
+      "CON-963",
+      "CON-966"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Dermatologist",
+      "Pediatric Dermatologists"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

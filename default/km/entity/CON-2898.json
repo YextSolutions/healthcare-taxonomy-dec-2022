@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2898",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "emotional Stress",
+    "taxonomy_synonyms": [
+      "Emotional Tension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

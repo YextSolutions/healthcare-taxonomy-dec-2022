@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Large local reaction to fire ant bite",
+    "taxonomy_synonyms": [
+      "Large Local Reaction to Fire Ant Envenomation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

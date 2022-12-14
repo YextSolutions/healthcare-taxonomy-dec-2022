@@ -1,0 +1,14 @@
+{
+  "$id": "CON-402",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heart Murmur",
+    "taxonomy_synonyms": [
+      "Valve Disorder",
+      "Heart Valve Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

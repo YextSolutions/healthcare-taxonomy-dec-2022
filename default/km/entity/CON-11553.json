@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Face Fractures",
+    "taxonomy_synonyms": [
+      "Broken Face",
+      "Broken Bones in the Face"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Penile Cancer",
+    "taxonomy_synonyms": [
+      "Penis Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

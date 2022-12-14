@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5240",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brain Cyst",
+    "taxonomy_synonyms": [
+      "Cystic Brain Lession"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

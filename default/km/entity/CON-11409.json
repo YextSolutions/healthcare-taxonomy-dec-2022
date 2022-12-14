@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric Pain on Top of Foot",
+    "taxonomy_synonyms": [
+      "Child with Pain on the Top of the Foot"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

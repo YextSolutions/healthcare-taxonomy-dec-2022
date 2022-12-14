@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12584",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Addiction Therapy",
+    "taxonomy_synonyms": [
+      "Substance Abuse Therapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

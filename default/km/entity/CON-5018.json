@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Juvenile Myoclonic Epilepsy",
+    "taxonomy_synonyms": [
+      "JME",
+      "Janz Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

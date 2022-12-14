@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1967",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bullous Pemphigoid",
+    "taxonomy_synonyms": [
+      "Bullous Pemphigoid",
+      "Pemphigoid"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

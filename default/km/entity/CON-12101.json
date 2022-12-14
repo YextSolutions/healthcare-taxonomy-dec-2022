@@ -1,0 +1,17 @@
+{
+  "$id": "CON-12101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Granulomatosis with polyangiitis",
+    "taxonomy_synonyms": [
+      "Wegener\u0027s Granulomatosis",
+      "GPA",
+      "Midline Granulomatosis",
+      "Nectrotizing Respiratory Granulomatosis",
+      "Granulomatosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

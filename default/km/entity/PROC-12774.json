@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12774",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiopulmonary Exercise Testing",
+    "taxonomy_synonyms": [
+      "CPET"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

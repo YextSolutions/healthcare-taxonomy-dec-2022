@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14513",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cardiovascular Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

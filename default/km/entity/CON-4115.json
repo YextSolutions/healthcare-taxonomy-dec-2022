@@ -1,0 +1,18 @@
+{
+  "$id": "CON-4115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Granulocytic Leukemia",
+    "taxonomy_synonyms": [
+      "Acute Myelogenous Leukemia",
+      "AML",
+      "AML Leukemia",
+      "Acute Myeloblastic Leukemia",
+      "Acute Myeloid Leukemia",
+      "Acute Myelocytic Leukemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

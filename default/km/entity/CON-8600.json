@@ -1,0 +1,17 @@
+{
+  "$id": "CON-8600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spinal Tumors in Children",
+    "taxonomy_synonyms": [
+      "Spinal Tumor in Child",
+      "Spine Tumor in Child",
+      "Spine Tumor in Children",
+      "Pediatric Spine Tumor",
+      "Pediatric Spinal Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5188",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tics"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

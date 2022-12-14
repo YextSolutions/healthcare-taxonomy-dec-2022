@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Clinical Informatics",
+    "taxonomy_synonyms": [
+      "Clinical Chemistry"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

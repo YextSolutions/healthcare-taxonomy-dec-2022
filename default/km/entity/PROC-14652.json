@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14652",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Baclofen Pump Therapy for Child",
+    "taxonomy_synonyms": [
+      "Baclofen Pump Therapy for Children",
+      "Baclofen Pump Therapy for Kid"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

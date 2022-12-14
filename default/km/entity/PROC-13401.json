@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pyloromyotomy",
+    "taxonomy_synonyms": [
+      "Pyloric Stenosis Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

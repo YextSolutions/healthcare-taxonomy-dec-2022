@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12718",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lap Band adjustment and care",
+    "taxonomy_synonyms": [
+      "Gastric Band Adjustment and Care"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "CON-5550",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Testicle Cancer",
+    "taxonomy_synonyms": [
+      "Testis Cancer",
+      "Testicular Cancer",
+      "Malignant Neoplasm of the Testis",
+      "Testicular Abnormality",
+      "Scrotal Mass"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

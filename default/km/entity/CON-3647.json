@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "GM2 Gangliosidosis",
+    "taxonomy_synonyms": [
+      "Tay-Sachs Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

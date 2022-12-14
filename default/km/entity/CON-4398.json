@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Leg Ulcer",
+    "taxonomy_synonyms": [
+      "Active Leg Ulceration"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

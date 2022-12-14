@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "interscapular Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

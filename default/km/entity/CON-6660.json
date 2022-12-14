@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Imbalance",
+    "taxonomy_synonyms": [
+      "Balance Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

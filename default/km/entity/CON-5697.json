@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eye Allergy",
+    "taxonomy_synonyms": [
+      "Eye Allergies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

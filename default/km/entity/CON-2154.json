@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2154",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetic Retinopathy",
+    "taxonomy_synonyms": [
+      "Diabetic Eye Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

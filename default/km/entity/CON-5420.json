@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pelvic Floor Dysfunction",
+    "taxonomy_synonyms": [
+      "Pelvic Floor Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

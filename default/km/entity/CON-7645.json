@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Immune Thrombocytopenic Purpura in Children",
+    "taxonomy_synonyms": [
+      "Child with Immune Thrombocytopenic Purpura"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4813",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Non-arteritic Anterior Ischemic Optic Neuropathy",
+    "taxonomy_synonyms": [
+      "NAION"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

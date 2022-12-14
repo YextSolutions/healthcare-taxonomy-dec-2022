@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Overweight",
+    "taxonomy_synonyms": [
+      "Overweight Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

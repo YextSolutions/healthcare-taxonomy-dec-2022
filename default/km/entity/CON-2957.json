@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2957",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Head Lice",
+    "taxonomy_synonyms": [
+      "Head Louse"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

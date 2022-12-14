@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eye Stroke",
+    "taxonomy_synonyms": [
+      "Retinal Artery Occlusion"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

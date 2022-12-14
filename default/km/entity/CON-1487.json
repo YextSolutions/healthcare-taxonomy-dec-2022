@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1487",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sarcoidosis",
+    "taxonomy_synonyms": [
+      "Sarcoid"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

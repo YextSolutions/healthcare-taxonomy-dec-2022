@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1695",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypotension",
+    "taxonomy_synonyms": [
+      "Low Blood Pressure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

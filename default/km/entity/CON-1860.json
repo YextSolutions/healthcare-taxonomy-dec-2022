@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1860",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sepsis in Newborns"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

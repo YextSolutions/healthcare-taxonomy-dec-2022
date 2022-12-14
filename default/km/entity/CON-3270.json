@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "seasonal depression"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

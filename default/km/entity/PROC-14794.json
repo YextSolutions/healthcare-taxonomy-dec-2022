@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14794",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric CT Scan",
+    "taxonomy_synonyms": [
+      "Pediatric CT"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

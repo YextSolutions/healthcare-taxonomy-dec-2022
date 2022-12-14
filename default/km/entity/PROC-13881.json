@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neurologist Procedures"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

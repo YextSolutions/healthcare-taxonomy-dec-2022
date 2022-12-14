@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12289",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "reduced blood flow to heart"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

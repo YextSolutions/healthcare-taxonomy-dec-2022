@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Child Medical Neglect",
+    "taxonomy_synonyms": [
+      "Pediatric Medical Neglect"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

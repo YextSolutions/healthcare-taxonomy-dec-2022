@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14985",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Post Divorce Therapy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

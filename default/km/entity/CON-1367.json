@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1367",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Partial Thickness Burn",
+    "taxonomy_synonyms": [
+      "Child with Partial Thickness Burn",
+      "Second Degree Burn in Child",
+      "severe Burn in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

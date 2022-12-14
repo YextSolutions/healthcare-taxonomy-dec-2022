@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Little League Shoulder"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5399",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Maternal Hypertension"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

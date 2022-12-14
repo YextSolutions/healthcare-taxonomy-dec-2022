@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anticoagulation Management",
+    "taxonomy_synonyms": [
+      "Anticoagulation Management Services",
+      "Blood Thinning Therapy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

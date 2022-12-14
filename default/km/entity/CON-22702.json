@@ -1,0 +1,13 @@
+{
+  "$id": "CON-22702",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Auditory Evoked Potentials",
+    "taxonomy_synonyms": [
+      "AEPs"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

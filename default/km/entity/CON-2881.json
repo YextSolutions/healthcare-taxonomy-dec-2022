@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ear Discharge",
+    "taxonomy_synonyms": [
+      "Ear Drainage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

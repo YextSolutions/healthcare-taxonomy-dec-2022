@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Carpal Tunnel Syndrome",
+    "taxonomy_synonyms": [
+      "Carpal Tunnel",
+      "Median Nerve Compression"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3380",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stomach Diseases",
+    "taxonomy_synonyms": [
+      "Problems in Stomach",
+      "Infection in Stomach",
+      "Disease in Stomach"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

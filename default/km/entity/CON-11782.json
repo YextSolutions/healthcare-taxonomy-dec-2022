@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11782",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postpartum Depression",
+    "taxonomy_synonyms": [
+      "Postpartum Psychiatric Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arthritis of the Knee"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

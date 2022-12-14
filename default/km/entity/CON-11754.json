@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11754",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mental health, older adults",
+    "taxonomy_synonyms": [
+      "Senior Mental Health",
+      "Geriatric Mental Health"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

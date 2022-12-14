@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9848",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Attention Deficit Hyperactivity Disorder Predominately Hyperactive/Impulsive Type in Children",
+    "taxonomy_synonyms": [
+      "Pediatric ADHD Predominately Hyperactive/Impulsive Type"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

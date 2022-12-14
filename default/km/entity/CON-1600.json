@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bacterial Endocarditis",
+    "taxonomy_synonyms": [
+      "Infective Endocarditis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

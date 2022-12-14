@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dental Filling",
+    "taxonomy_synonyms": [
+      "Filling"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

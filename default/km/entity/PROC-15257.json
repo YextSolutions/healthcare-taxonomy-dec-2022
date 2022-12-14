@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pre-Implantation Genetic Diagnosis",
+    "taxonomy_synonyms": [
+      "PIGD"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-15395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Pre-Invasive and Cancer Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-637",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eosinophilic Gastroenteritis",
+    "taxonomy_synonyms": [
+      "EGE"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

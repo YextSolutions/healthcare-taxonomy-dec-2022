@@ -1,0 +1,16 @@
+{
+  "$id": "CON-2577",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Testosterone Deficiency",
+    "taxonomy_synonyms": [
+      "Testosterone Deficiency Syndrome",
+      "LOH",
+      "Late Onset Hypogonadism",
+      "TDS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

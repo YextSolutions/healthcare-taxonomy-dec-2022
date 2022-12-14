@@ -1,0 +1,15 @@
+{
+  "$id": "784771645",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Ortho Specialties",
+  "filter": {
+    "relatedEntity": [
+      {
+        "entityId": [
+          "SPEC-28"
+        ],
+        "fieldId": "taxonomy_relatedConditions"
+      }
+    ]
+  }
+}

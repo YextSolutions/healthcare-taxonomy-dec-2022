@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2494",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypothyroidism",
+    "taxonomy_synonyms": [
+      "Underactive Thyroid"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

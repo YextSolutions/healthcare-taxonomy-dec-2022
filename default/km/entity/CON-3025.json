@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Knee Injury"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

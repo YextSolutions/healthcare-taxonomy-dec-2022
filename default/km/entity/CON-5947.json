@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5947",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Digital Eye Strain",
+    "taxonomy_synonyms": [
+      "Computer Vision Syndrome",
+      "Computer-Related Eye Fatigue"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

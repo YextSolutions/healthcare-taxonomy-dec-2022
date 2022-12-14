@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4743",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Kidney and Urinary Conditions"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

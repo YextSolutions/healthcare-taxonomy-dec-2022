@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13764",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fetal Echocardiogram",
+    "taxonomy_synonyms": [
+      "Fetal Echocardiography",
+      "Fetal EKG",
+      "Fetal ECG"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

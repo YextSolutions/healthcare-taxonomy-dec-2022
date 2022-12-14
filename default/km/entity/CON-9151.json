@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hip dysplasia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

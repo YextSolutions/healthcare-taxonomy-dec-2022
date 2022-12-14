@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4727",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Recurrent Respiratory Papillomatosis",
+    "taxonomy_synonyms": [
+      "Juvenile-Onset Laryngeal Papillomatosis",
+      "Laryngeal Papillomatosis",
+      "RRP"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

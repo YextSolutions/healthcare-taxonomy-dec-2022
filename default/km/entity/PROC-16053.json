@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-16053",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Biceps Tendon Rupture Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

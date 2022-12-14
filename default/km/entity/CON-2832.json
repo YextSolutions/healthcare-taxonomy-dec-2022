@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2832",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "cognitive effects from stroke",
+    "taxonomy_synonyms": [
+      "Communication Challenges After a Stroke"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

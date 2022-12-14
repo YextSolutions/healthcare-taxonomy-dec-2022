@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Herniated Disk"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

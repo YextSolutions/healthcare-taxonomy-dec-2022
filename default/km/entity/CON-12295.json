@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12295",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bronchopleural Fistula",
+    "taxonomy_synonyms": [
+      "BPF"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

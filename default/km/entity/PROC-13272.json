@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13272",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colon Cancer Screening"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

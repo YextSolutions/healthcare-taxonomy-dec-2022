@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12714",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bariatric Revision Surgery",
+    "taxonomy_synonyms": [
+      "Revisional Bariatric Surgery",
+      "Revisional Weight Loss Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

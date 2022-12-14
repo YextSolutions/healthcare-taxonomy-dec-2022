@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endometrial Cancer",
+    "taxonomy_synonyms": [
+      "Endometrium Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

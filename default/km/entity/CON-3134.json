@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3134",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pain in belly"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

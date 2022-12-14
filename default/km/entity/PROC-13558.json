@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13558",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laparoscopic Tubal Ligation"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

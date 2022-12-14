@@ -1,0 +1,70 @@
+{
+  "$id": "SPEC-125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diagnostic Radiology",
+    "taxonomy_relatedConditions": [
+      "CON-12006",
+      "CON-4398",
+      "CON-4399",
+      "CON-10109",
+      "CON-4405",
+      "CON-1146",
+      "CON-15986"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15214",
+      "PROC-14619",
+      "PROC-15525",
+      "PROC-14617",
+      "PROC-14616",
+      "PROC-14607",
+      "PROC-14606",
+      "PROC-14734",
+      "PROC-13734",
+      "PROC-14605",
+      "PROC-15167",
+      "PROC-15162",
+      "PROC-14577",
+      "PROC-14566",
+      "PROC-15135",
+      "PROC-15132",
+      "PROC-13981",
+      "PROC-15118",
+      "PROC-15213",
+      "PROC-15077",
+      "PROC-13150",
+      "PROC-14526",
+      "PROC-14525",
+      "PROC-13973",
+      "PROC-14524",
+      "PROC-14523"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15895"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-321",
+      "SUBSPEC-172",
+      "SUBSPEC-292",
+      "SUBSPEC-320",
+      "SUBSPEC-173",
+      "SUBSPEC-167",
+      "SUBSPEC-174",
+      "SUBSPEC-319",
+      "SUBSPEC-169",
+      "SUBSPEC-170",
+      "SUBSPEC-326",
+      "SUBSPEC-325",
+      "SUBSPEC-318",
+      "SUBSPEC-323",
+      "SUBSPEC-315",
+      "SUBSPEC-166",
+      "SUBSPEC-327",
+      "SUBSPEC-168"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

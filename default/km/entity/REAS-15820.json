@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15820",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Genetic Counseling for Pregnancy Screening",
+    "taxonomy_synonyms": [
+      "Pregnancy Screening"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

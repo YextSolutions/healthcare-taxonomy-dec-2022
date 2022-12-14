@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15590",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastric Band",
+    "taxonomy_synonyms": [
+      "Lap Band"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

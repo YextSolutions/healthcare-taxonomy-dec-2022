@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5581",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Angle-Closure Glaucoma",
+    "taxonomy_synonyms": [
+      "Closed-Angle Glaucoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

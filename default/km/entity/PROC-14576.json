@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14576",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Magnetic Resonance Angiogram of the Head",
+    "taxonomy_synonyms": [
+      "Head MRA"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

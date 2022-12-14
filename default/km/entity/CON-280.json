@@ -1,0 +1,15 @@
+{
+  "$id": "CON-280",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cocaine Dependence",
+    "taxonomy_synonyms": [
+      "Coke Dependence",
+      "Coke Addiction",
+      "Cocaine Addiction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

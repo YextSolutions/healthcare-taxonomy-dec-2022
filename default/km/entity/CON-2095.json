@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2095",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Skin Abscess",
+    "taxonomy_synonyms": [
+      "Pus Pocket in Skin"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

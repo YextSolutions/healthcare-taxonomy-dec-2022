@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1340",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Alopecia Areata",
+    "taxonomy_synonyms": [
+      "Alopecia Areata in Child",
+      "Child with Patchy Hair Loss",
+      "Pediatric Patchy Hair Loss"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

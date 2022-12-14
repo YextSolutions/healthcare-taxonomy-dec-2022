@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Aortic Valve Disorders in Children",
+    "taxonomy_synonyms": [
+      "Pediatric Aortic Valve Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

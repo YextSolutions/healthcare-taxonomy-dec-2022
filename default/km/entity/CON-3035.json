@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laryngitis",
+    "taxonomy_synonyms": [
+      "Laryngeal Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

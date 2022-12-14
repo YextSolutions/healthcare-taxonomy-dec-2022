@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Hyperstimulation Syndrome",
+    "taxonomy_synonyms": [
+      "OHSS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ear Nose Throat Cancer"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

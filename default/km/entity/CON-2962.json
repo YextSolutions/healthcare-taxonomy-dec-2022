@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heat Illness",
+    "taxonomy_synonyms": [
+      "Heat Stroke",
+      "Heat Exhaustion",
+      "Sun Stroke"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

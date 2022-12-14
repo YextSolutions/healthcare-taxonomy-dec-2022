@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11665",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aquaphobia",
+    "taxonomy_synonyms": [
+      "Fear of Water"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

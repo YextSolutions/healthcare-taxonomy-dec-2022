@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2330",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Stroke",
+    "taxonomy_synonyms": [
+      "Stroke in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

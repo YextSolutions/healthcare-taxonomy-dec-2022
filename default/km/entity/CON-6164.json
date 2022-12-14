@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arthrogryposis",
+    "taxonomy_synonyms": [
+      "Arthrogryposis multiplex congenita"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6245",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Distal Radius Fracture",
+    "taxonomy_synonyms": [
+      "Broken Wrist"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

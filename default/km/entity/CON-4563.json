@@ -1,0 +1,16 @@
+{
+  "$id": "CON-4563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pseudomyxoma Peritonei",
+    "taxonomy_synonyms": [
+      "PMP",
+      "Syndrome of Pseudomyxoma Peritonei",
+      "Adenomucinosis",
+      "Gelatinous Ascites"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

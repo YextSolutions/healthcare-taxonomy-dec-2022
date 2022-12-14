@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13610",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Autologous Stem Cell Transplant"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

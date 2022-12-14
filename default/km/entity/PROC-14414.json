@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Orthopaedic Surgery",
+    "taxonomy_synonyms": [
+      "Orthopedic Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

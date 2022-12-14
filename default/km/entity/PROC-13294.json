@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hand Fracture Care",
+    "taxonomy_synonyms": [
+      "Wrist Fracture Care"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2472",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypercortisolism",
+    "taxonomy_synonyms": [
+      "Addison\u0027s Disease",
+      "Primary Adrenal Insufficiency",
+      "Low Cortisol Levels"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

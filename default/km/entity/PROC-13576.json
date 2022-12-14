@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13576",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Small Bowel Prolapse Surgery",
+    "taxonomy_synonyms": [
+      "Enerocele"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

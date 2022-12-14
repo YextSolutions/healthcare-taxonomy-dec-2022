@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12639",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laparoendoscopic Single-Site Surgery",
+    "taxonomy_synonyms": [
+      "LESS Surgery",
+      "LESS"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

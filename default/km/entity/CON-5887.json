@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5887",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Rod Cone Dystrophy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

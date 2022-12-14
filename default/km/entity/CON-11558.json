@@ -1,0 +1,16 @@
+{
+  "$id": "CON-11558",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypoplasia of Breast",
+    "taxonomy_synonyms": [
+      "Hypoplastic Breasts",
+      "Underdeveloped Breasts",
+      "Tubular Breasts",
+      "Breasts with Insufficient Glandular Tissue"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

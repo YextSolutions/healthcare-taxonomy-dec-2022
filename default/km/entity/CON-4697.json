@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Anomalies of Kidney",
+    "taxonomy_synonyms": [
+      "Congenital Kidney Abnormality"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

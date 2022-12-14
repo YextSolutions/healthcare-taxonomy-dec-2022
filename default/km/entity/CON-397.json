@@ -1,0 +1,17 @@
+{
+  "$id": "CON-397",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Angina",
+    "taxonomy_synonyms": [
+      "Ischemic Chest Pain",
+      "Angina",
+      "Stable Angina",
+      "Angina Pectoris",
+      "Variant Angina Pectoris"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

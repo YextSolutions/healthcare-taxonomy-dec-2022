@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "High Arch",
+    "taxonomy_synonyms": [
+      "Pes Cavus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

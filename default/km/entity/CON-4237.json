@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4237",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cancer-Related Constipation"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

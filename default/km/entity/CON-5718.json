@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5718",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eye Trauma",
+    "taxonomy_synonyms": [
+      "Eye Injuries",
+      "Eye Contusion",
+      "Eye Injuries and Trauma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

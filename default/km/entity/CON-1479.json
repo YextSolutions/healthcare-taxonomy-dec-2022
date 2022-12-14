@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1479",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Exercise-Induced Asthma",
+    "taxonomy_synonyms": [
+      "Child with Exercise-Induced Asthma",
+      "Sports Induced Asthma in Child",
+      "Child with Exercise-Induced Bronchoconstriction",
+      "Pediatric Exercise-Induced Bronchoconstriction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

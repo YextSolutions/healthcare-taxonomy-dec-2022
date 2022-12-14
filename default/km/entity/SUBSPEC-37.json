@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-37",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Functional Gastrointestinal and Motility Disorders"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

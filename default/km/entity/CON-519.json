@@ -1,0 +1,13 @@
+{
+  "$id": "CON-519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Addison\u0027s Anemia",
+    "taxonomy_synonyms": [
+      "Pernicious Anemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

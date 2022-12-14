@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3531",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Youth Sports Injury"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

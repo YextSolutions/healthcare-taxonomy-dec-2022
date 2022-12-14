@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11671",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Attention Deficit Disorder with Hyperactivity",
+    "taxonomy_synonyms": [
+      "ADHD",
+      "Attention Deficit Hyperactivity Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

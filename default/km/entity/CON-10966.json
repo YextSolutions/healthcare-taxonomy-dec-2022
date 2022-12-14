@@ -1,0 +1,10 @@
+{
+  "$id": "CON-10966",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Epistaxis in Pediatrics"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

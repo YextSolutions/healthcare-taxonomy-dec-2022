@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2869",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cytomegalovirus",
+    "taxonomy_synonyms": [
+      "CMV",
+      "CMV Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

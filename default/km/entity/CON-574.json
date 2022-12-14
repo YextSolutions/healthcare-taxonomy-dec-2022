@@ -1,0 +1,10 @@
+{
+  "$id": "CON-574",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Pancreatitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

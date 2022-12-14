@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9851",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Attention Deficit Hyperactivity Disorder Predominately Inattentive Type in Children",
+    "taxonomy_synonyms": [
+      "Pediatric ADHD Predominately Inattentive Type"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

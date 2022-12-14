@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Leg Swelling"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

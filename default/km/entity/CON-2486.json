@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2486",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypoglycemic Unawareness",
+    "taxonomy_synonyms": [
+      "Impaired Awareness of Hypoglycemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

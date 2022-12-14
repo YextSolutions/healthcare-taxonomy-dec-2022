@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-303",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adolescent Medicine"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

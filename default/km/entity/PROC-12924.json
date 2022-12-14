@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-12924",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ileoanal Anastomosis",
+    "taxonomy_synonyms": [
+      "J Pouch Surgery",
+      "J-Pouch Surgery",
+      "J Pouch",
+      "J-Pouch"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

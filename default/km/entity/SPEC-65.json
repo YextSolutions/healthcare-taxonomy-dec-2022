@@ -1,0 +1,29 @@
+{
+  "$id": "SPEC-65",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cardiac Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-916",
+      "CON-917",
+      "CON-918",
+      "CON-920",
+      "CON-921",
+      "CON-5006",
+      "CON-7119"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14510",
+      "PROC-14511",
+      "PROC-14512",
+      "PROC-14513",
+      "PROC-14514"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Cardiovascular Surgeons"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

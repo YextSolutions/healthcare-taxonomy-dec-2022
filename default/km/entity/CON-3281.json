@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sexual and Gender Identity Disorders",
+    "taxonomy_synonyms": [
+      "Gender Idenity Disorder",
+      "GID",
+      "Gender Dysphoria"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

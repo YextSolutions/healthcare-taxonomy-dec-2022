@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cryotherapy for Warts",
+    "taxonomy_synonyms": [
+      "Freezing of Warts"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12263",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "IT Band Syndrome",
+    "taxonomy_synonyms": [
+      "ITBS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

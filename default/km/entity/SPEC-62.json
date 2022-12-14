@@ -1,0 +1,35 @@
+{
+  "$id": "SPEC-62",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Rheumatology",
+    "taxonomy_relatedConditions": [
+      "CON-10117",
+      "CON-10162",
+      "CON-10183",
+      "CON-10185",
+      "CON-10191",
+      "CON-10192",
+      "CON-10195",
+      "CON-10196",
+      "CON-10197",
+      "CON-10198",
+      "CON-10200",
+      "CON-10201",
+      "CON-10202",
+      "CON-10203",
+      "CON-10204",
+      "CON-10205",
+      "CON-10206",
+      "CON-10207",
+      "CON-1481",
+      "CON-1122"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Rheumatology"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

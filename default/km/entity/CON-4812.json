@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4812",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "NMO",
+    "taxonomy_synonyms": [
+      "Neuromyelitis Optica"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

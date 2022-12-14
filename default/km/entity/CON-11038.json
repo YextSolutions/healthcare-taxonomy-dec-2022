@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Flat Foot",
+    "taxonomy_synonyms": [
+      "Flat Feet"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

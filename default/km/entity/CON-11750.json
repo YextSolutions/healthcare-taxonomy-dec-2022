@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11750",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mental Development Evaluation"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

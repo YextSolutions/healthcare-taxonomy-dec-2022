@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2361",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adenoma of the Adrenal Gland",
+    "taxonomy_synonyms": [
+      "Benign Adrenal Tumor",
+      "Adrenocortical Adenoma",
+      "Benign Adrenal Gland Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

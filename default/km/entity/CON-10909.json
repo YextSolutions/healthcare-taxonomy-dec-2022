@@ -1,0 +1,10 @@
+{
+  "$id": "CON-10909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Delayed Menarche"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

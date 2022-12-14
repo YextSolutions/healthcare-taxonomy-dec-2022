@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12287",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Persistent chest Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

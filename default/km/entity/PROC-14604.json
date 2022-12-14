@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14604",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "RBC Nuclear Scan",
+    "taxonomy_synonyms": [
+      "GI Bleeding Scan"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

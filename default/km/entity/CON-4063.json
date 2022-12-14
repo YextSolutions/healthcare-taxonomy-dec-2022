@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hgb H disease",
+    "taxonomy_synonyms": [
+      "Hemoglobin H Disease",
+      "HbH Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

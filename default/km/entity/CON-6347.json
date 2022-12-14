@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Knee Disorders",
+    "taxonomy_synonyms": [
+      "Knee Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hypernatremia",
+    "taxonomy_synonyms": [
+      "Child with Hypernatremia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

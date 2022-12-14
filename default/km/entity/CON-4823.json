@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4823",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Childhood Focal Epilepsy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

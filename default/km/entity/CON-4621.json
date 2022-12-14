@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Group B Strep",
+    "taxonomy_synonyms": [
+      "GBS",
+      "Group B Streptococcal Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

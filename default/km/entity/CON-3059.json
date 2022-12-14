@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3059",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lower Back Pain",
+    "taxonomy_synonyms": [
+      "Lumbago",
+      "Mechanical Idiopathic Chronic Low Back Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

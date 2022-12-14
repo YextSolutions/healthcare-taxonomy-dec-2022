@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13249",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transgender Care",
+    "taxonomy_synonyms": [
+      "Transgender Medicine",
+      "Transgender Services"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

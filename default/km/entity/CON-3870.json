@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3870",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Abnormalities of the Uterus"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13235",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Early Puberty Onset",
+    "taxonomy_synonyms": [
+      "Early Puberty",
+      "Precocious Puberty"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

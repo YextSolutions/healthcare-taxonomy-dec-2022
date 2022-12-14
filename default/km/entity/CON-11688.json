@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11688",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Borderline Personality Disorder",
+    "taxonomy_synonyms": [
+      "BPD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

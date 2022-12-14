@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12939",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ulcerative Colitis Surgery",
+    "taxonomy_synonyms": [
+      "UC Surgery",
+      "Colitis Ulcerosa Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

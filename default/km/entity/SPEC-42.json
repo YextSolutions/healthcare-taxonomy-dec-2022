@@ -1,0 +1,38 @@
+{
+  "$id": "SPEC-42",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Surgical Oncology",
+    "taxonomy_relatedConditions": [
+      "CON-12019",
+      "CON-12020",
+      "CON-12021"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15326",
+      "PROC-15327",
+      "PROC-15328",
+      "PROC-15329",
+      "PROC-15330",
+      "PROC-15331",
+      "PROC-15332",
+      "PROC-15333",
+      "PROC-15334",
+      "PROC-15335",
+      "PROC-15336"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-17",
+      "SUBSPEC-23",
+      "SUBSPEC-31",
+      "SUBSPEC-45",
+      "SUBSPEC-50",
+      "SUBSPEC-67",
+      "SUBSPEC-85",
+      "SUBSPEC-207"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

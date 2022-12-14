@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4054",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemolytic Disease in Newborns",
+    "taxonomy_synonyms": [
+      "HDN",
+      "Hemolytic Disease of the Fetus and Newborn"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

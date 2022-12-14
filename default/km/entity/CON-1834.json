@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1834",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hereditary Nonpolyposis Colorectal Cancer",
+    "taxonomy_synonyms": [
+      "HNPCC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

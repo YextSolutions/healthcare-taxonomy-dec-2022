@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arterial Disease Wound"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

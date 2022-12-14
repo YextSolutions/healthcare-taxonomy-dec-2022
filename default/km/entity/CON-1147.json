@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1147",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cerebral Palsy",
+    "taxonomy_synonyms": [
+      "CP"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

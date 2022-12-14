@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12852",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anomalous Coronary Artery Angiography",
+    "taxonomy_synonyms": [
+      "ARCA",
+      "CAA"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thyroglossal duct cyst",
+    "taxonomy_synonyms": [
+      "TGDC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13518",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Radical Cervicectomy",
+    "taxonomy_synonyms": [
+      "Radical Trachelectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

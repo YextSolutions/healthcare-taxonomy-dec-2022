@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15360",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thyroid Surgery",
+    "taxonomy_synonyms": [
+      "Thyroidectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

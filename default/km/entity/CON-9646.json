@@ -1,0 +1,14 @@
+{
+  "$id": "CON-9646",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Enlarged Tonsils",
+    "taxonomy_synonyms": [
+      "Child with Enlarged Tonsils",
+      "Child with Large Tonsils"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

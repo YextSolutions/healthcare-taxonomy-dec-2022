@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12426",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypospadias",
+    "taxonomy_synonyms": [
+      "Penis Malformation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

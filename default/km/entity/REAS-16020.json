@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-16020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vascular Surgery Consultation"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

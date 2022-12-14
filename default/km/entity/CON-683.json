@@ -1,0 +1,17 @@
+{
+  "$id": "CON-683",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastroesophageal Reflux Disease",
+    "taxonomy_synonyms": [
+      "GERD",
+      "Esophageal Stricture",
+      "Acid Reflux",
+      "Esophageal Reflux",
+      "Reflux"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

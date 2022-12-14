@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11050",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Prophylactic Fixation"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

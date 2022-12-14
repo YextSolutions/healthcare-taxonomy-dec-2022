@@ -1,0 +1,15 @@
+{
+  "$id": "CON-214",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Autism Spectrum Disorder",
+    "taxonomy_synonyms": [
+      "ASD",
+      "Autism",
+      "Autistic Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

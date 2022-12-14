@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9181",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Spinal Disc herniation",
+    "taxonomy_synonyms": [
+      "Child with Spinal Disc Herniation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

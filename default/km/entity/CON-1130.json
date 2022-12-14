@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Parasomnias",
+    "taxonomy_synonyms": [
+      "Child with Parasomnias"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

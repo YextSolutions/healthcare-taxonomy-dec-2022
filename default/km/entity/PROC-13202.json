@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13202",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transoral Robotic Surgery",
+    "taxonomy_synonyms": [
+      "TORS"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

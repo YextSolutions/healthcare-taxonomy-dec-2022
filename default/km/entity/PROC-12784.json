@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12784",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardioverter-Defibrillator",
+    "taxonomy_synonyms": [
+      "Implantable Cardioverter-Defibrillator",
+      "ICD"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

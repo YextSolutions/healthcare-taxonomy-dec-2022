@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3658",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hyper Ige Syndrome",
+    "taxonomy_synonyms": [
+      "HIES",
+      "Job\u0027s Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1597",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "AV Block",
+    "taxonomy_synonyms": [
+      "Heart Block"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

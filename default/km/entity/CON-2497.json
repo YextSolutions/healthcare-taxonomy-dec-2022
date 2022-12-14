@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Insulinoma",
+    "taxonomy_synonyms": [
+      "Pancreas Tumor",
+      "Pancreatic Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

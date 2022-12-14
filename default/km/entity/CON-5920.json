@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Uveitis",
+    "taxonomy_synonyms": [
+      "Eye Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

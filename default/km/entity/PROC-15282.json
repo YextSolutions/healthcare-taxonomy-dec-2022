@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-15282",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Continuous Positive Airway Pressure Management",
+    "taxonomy_synonyms": [
+      "CPAP Management",
+      "Continuous Positive Airway Pressure Therapy",
+      "CPAP Therapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4080",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Megaloblastic Anemia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

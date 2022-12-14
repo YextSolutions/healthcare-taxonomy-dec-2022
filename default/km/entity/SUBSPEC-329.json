@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-329",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Medical Microbiology Pathology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

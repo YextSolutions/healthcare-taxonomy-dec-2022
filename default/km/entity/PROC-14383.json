@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14383",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arthroscopic Surgery",
+    "taxonomy_synonyms": [
+      "Arthroscopy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

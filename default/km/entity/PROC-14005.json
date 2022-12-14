@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abortion",
+    "taxonomy_synonyms": [
+      "Fetal Termination",
+      "Pregnancy Termination"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

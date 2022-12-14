@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Teenagers",
+    "taxonomy_synonyms": [
+      "Teen"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

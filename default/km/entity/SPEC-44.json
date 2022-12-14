@@ -1,0 +1,13 @@
+{
+  "$id": "SPEC-44",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urgent Care",
+    "taxonomy_relatedProcedures": [
+      "PROC-13221"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

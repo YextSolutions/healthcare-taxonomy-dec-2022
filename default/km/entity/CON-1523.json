@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Central Auditory Processing Disorder",
+    "taxonomy_synonyms": [
+      "Central Auditory Processing Disorder in Child",
+      "Central Auditory Processing Disorder in Kid",
+      "Central Auditory Processing Disorder in Children"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

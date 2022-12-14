@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5306",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nutrition Issues",
+    "taxonomy_synonyms": [
+      "Nutritional Issues"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

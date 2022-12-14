@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1666",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fluid Restriction"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

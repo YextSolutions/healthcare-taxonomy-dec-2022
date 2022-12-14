@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "PseudoTumor Cerebri",
+    "taxonomy_synonyms": [
+      "IIH",
+      "Idiopathic Hypertension",
+      "Idiopathic Intracranial Hypertension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

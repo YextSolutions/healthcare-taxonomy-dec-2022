@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4843",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "GBS",
+    "taxonomy_synonyms": [
+      "Group B Strep",
+      "Group B Streptococcal Infection",
+      "Group B Strep During Pregnancy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

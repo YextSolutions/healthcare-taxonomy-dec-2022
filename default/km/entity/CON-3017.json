@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "IUD",
+    "taxonomy_synonyms": [
+      "Contraception"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

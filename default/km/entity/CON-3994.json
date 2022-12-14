@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3994",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Rashes and Sores"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

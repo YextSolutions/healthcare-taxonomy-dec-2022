@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tapeworm",
+    "taxonomy_synonyms": [
+      "Cestodes",
+      "Cestode Infections"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

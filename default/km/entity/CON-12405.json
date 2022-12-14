@@ -1,0 +1,19 @@
+{
+  "$id": "CON-12405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nephrolithiasis",
+    "taxonomy_synonyms": [
+      "Kidney Stone",
+      "Renal Calculi",
+      "Nephrolithiasis",
+      "Urolithiasis",
+      "Renal Stones",
+      "Urinary Tract Stones",
+      "Ureteral Stones"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12410",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Male Infertility"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

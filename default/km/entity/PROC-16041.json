@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-16041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lumbar Surgery",
+    "taxonomy_synonyms": [
+      "Lower Back Pain Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

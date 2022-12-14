@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Finger Sprain",
+    "taxonomy_synonyms": [
+      "Sprained Finger"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

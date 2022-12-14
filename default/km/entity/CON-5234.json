@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brachial Plexus Injury",
+    "taxonomy_synonyms": [
+      "Brachial Plexus Lesion"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Melanoma Surveillance",
+    "taxonomy_synonyms": [
+      "Skin Cancer Surveillance"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hand Complications",
+    "taxonomy_synonyms": [
+      "Hand Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

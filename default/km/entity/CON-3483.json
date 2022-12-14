@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3483",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "ureter obstruction"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

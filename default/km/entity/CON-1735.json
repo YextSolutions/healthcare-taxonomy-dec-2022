@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1735",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pulmonary Valve Disease"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

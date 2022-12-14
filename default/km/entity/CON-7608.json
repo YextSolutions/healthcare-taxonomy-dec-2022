@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Isoimmune Thrombocytopenia Of The Newborn"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "PROC-14254",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Malocclusion Treatment",
+    "taxonomy_synonyms": [
+      "Treatment for Crooked Teeth",
+      "Malocclusion Consultation",
+      "Braces",
+      "Invisalign",
+      "Malocclusion Treatment",
+      "Misaligned Teeth Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

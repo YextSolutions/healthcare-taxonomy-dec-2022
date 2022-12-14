@@ -1,0 +1,28 @@
+{
+  "$id": "SPEC-20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hospice and Palliative Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-4234",
+      "CON-4235",
+      "CON-4236",
+      "CON-4237",
+      "CON-4238",
+      "CON-4239",
+      "CON-4240",
+      "CON-4241",
+      "CON-4242"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15775",
+      "REAS-15776"
+    ],
+    "taxonomy_synonyms": [
+      "Palliative Medicine"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

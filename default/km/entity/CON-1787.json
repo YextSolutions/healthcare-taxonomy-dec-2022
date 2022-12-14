@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Squamous Cell Carcinoma",
+    "taxonomy_synonyms": [
+      "SCC",
+      "Squamous Cell Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

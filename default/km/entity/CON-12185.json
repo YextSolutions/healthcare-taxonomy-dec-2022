@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Narcolepsy",
+    "taxonomy_synonyms": [
+      "Excessive Uncontrollable Daytime Sleepiness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

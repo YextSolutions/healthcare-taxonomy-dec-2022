@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11354",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Herpes Labialis",
+    "taxonomy_synonyms": [
+      "Child with Herpes Labialis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

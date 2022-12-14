@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15389",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sacral Nerve Stimulation Therapy",
+    "taxonomy_synonyms": [
+      "Sacral Nerve Stimulation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

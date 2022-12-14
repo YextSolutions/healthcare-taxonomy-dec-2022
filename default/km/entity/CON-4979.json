@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "fingers or wrist falling asleep"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

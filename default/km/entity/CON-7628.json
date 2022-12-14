@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7628",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Autoimmune Hemolytic Anemia",
+    "taxonomy_synonyms": [
+      "Child with Autoimmune Hemolytic Anemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

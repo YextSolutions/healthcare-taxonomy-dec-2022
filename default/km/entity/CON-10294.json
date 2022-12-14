@@ -1,0 +1,14 @@
+{
+  "$id": "CON-10294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Craniofacial Microsomia",
+    "taxonomy_synonyms": [
+      "Craniofacial Microsomia and Goldenhar Syndrome",
+      "Goldenhar Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

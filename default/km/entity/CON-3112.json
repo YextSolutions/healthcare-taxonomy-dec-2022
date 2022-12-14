@@ -1,0 +1,17 @@
+{
+  "$id": "CON-3112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neck Strain",
+    "taxonomy_synonyms": [
+      "Neck Sprain",
+      "Neck Pain",
+      "Neck Ache",
+      "Neck Discomfort",
+      "Neck Soreness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

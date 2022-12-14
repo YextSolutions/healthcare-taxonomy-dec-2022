@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-630",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endoscopic Mucosal Resection",
+    "taxonomy_synonyms": [
+      "EMR"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

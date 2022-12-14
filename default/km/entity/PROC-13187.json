@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13187",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pharygectomy",
+    "taxonomy_synonyms": [
+      "Removal of the Pharynx"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "SPEC-75",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Dentistry",
+    "taxonomy_relatedConditions": [
+      "CON-337",
+      "CON-7125",
+      "CON-7126",
+      "CON-7127",
+      "CON-7128",
+      "CON-955"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14518",
+      "PROC-14520",
+      "PROC-14521"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15894"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2385",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood Sugar Levels",
+    "taxonomy_synonyms": [
+      "Glucose Levels"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

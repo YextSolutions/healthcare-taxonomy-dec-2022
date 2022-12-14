@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4974",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Facial Paralysis",
+    "taxonomy_synonyms": [
+      "Facial Palsy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

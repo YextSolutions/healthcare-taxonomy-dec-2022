@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12731",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal Breast Ultrasound"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

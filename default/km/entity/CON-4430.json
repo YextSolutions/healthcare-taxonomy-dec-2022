@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spinal Dysraphisms",
+    "taxonomy_synonyms": [
+      "Neural Tube Defects"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11349",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Headache",
+    "taxonomy_synonyms": [
+      "Headache in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

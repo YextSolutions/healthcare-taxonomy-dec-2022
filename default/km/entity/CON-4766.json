@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4766",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nephrotic Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

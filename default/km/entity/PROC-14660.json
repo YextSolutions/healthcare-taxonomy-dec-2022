@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Biological Therapy for Child",
+    "taxonomy_synonyms": [
+      "Biological Therapy for Children",
+      "Biological Therapy for Kid"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

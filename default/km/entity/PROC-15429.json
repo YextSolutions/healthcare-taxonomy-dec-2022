@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Prostate Cancer Screening",
+    "taxonomy_synonyms": [
+      "PSA Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

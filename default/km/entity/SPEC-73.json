@@ -1,0 +1,58 @@
+{
+  "$id": "SPEC-73",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cardiology",
+    "taxonomy_relatedConditions": [
+      "CON-362",
+      "CON-6625",
+      "CON-7000",
+      "CON-7001",
+      "CON-7005",
+      "CON-7010",
+      "CON-7013",
+      "CON-7026",
+      "CON-7032",
+      "CON-7064",
+      "CON-7065",
+      "CON-7066",
+      "CON-7067",
+      "CON-7068",
+      "CON-7071",
+      "CON-7072",
+      "CON-7073",
+      "CON-7074",
+      "CON-7075",
+      "CON-7076",
+      "CON-7078",
+      "CON-7079",
+      "CON-7083",
+      "CON-7084",
+      "CON-7085",
+      "CON-7086",
+      "CON-7088",
+      "CON-7089",
+      "CON-7092",
+      "CON-7093",
+      "CON-7094",
+      "CON-7095",
+      "CON-7096",
+      "CON-7098",
+      "CON-7100",
+      "CON-7101",
+      "CON-7113",
+      "CON-916",
+      "CON-917",
+      "CON-918"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14502"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Cardiology"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

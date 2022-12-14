@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15969",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Talk Therapy"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

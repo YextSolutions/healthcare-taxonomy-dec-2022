@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Personality disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

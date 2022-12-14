@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12745",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nipple Correction",
+    "taxonomy_synonyms": [
+      "Areola Correction"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

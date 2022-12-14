@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4433",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Placental Disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

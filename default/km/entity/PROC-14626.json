@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14626",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Anti-Reflux Surgery",
+    "taxonomy_synonyms": [
+      "Anti-Reflux Surgery in Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11790",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Psychotic Depression"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

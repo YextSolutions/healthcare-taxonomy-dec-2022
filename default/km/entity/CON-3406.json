@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3406",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Structural Heart Disease",
+    "taxonomy_synonyms": [
+      "Heart Disease",
+      "Structural Cardiac Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

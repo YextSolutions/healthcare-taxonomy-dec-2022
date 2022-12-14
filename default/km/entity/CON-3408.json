@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3408",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Subdural Hematoma",
+    "taxonomy_synonyms": [
+      "Subdural Hemorrhage",
+      "SDH",
+      "Brain Bleed"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

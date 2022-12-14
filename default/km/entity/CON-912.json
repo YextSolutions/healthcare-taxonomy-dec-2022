@@ -1,0 +1,13 @@
+{
+  "$id": "CON-912",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gout",
+    "taxonomy_synonyms": [
+      "Gouty Arthritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Defects",
+    "taxonomy_synonyms": [
+      "Congenital Deformities"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

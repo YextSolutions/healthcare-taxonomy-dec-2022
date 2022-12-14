@@ -1,0 +1,14 @@
+{
+  "$id": "REAS-15635",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cosmetic Dermatology Consultation",
+    "taxonomy_synonyms": [
+      "Aesthetic Dermatology Consultation",
+      "Derm Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spinal Radiosurgery",
+    "taxonomy_synonyms": [
+      "SRS"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

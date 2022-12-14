@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intense Pulsed Light Treatment",
+    "taxonomy_synonyms": [
+      "IPL Treatment",
+      "Skin Rejuvenation with Intense Pulsed Light"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

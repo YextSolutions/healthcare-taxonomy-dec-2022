@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1628",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Heart Disease",
+    "taxonomy_synonyms": [
+      "CHD",
+      "Adult Congenital Heart Disease",
+      "Adult CHD",
+      "Congenital Cardiac Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "CON-335",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Clostridium Difficile Infection",
+    "taxonomy_synonyms": [
+      "Child with Clostridium Difficile Infection",
+      "Child with C Diff",
+      "Pediatric C. Diff",
+      "Pediatric C Diff"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

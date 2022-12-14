@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5590",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Astigmatic Keratotomy",
+    "taxonomy_synonyms": [
+      "AK"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

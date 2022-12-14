@@ -1,0 +1,16 @@
+{
+  "$id": "CON-6533",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tendinosis",
+    "taxonomy_synonyms": [
+      "Tendinopathy",
+      "Chronic Overuse of Tendon",
+      "Damaged Tendon",
+      "Chronic Tendon Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bilevel Positive Airway Pressure Titration",
+    "taxonomy_synonyms": [
+      "BiPAP"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

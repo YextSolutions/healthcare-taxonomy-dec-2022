@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric cyclic vomiting syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

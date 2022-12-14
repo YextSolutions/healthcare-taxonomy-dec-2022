@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4258",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ascariasis",
+    "taxonomy_synonyms": [
+      "Roundworm"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

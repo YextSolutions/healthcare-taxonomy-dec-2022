@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-14677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Biotherapy",
+    "taxonomy_synonyms": [
+      "Biotherapy for Child",
+      "Biotherapy for Children",
+      "Biotherapy for Kid"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

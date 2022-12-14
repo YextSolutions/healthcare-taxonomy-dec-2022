@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nosocomial infections",
+    "taxonomy_synonyms": [
+      "Hospital-Acquired Infections"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

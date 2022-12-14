@@ -1,0 +1,15 @@
+{
+  "$id": "CON-622",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dyspepsia",
+    "taxonomy_synonyms": [
+      "Indigestion",
+      "Functional Dyspepsia",
+      "Sour Stomach"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

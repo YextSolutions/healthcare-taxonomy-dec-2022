@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ultherapy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

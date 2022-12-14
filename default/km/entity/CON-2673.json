@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Agammaglobulinemia",
+    "taxonomy_synonyms": [
+      "Bruton\u0027s Agammaglobulinemia",
+      "Bruton Type Agammaglobulinemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

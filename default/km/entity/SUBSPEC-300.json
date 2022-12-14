@@ -1,0 +1,15 @@
+{
+  "$id": "SUBSPEC-300",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cleft and Craniofacial Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-934",
+      "CON-10270",
+      "CON-10294"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

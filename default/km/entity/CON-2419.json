@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2419",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetes Type 2 Screening"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

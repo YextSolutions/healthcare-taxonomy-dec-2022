@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13713",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thrombolysis",
+    "taxonomy_synonyms": [
+      "Dissolve Blood Clots"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

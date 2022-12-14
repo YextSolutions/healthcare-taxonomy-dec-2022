@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Therapeutic Exercise",
+    "taxonomy_synonyms": [
+      "Therapeutic Exercise for Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

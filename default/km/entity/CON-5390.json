@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5390",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Infections of the Genitourinary Tract In Pregnancy",
+    "taxonomy_synonyms": [
+      "GI Tract Infections In Pregnancy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

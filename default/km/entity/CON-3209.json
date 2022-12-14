@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3209",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Repetitive Strain Injury"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

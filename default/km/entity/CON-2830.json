@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2830",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coccygeal Pain",
+    "taxonomy_synonyms": [
+      "Coccygodynia",
+      "Tailbone Pain",
+      "Coccydynia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5772",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Itchy Corner of Eye"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

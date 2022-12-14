@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Exercise Physiology"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

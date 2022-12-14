@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15882",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Posterior Cruciate Ligament Consultation",
+    "taxonomy_synonyms": [
+      "PCL Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

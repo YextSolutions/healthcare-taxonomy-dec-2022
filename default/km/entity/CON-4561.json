@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4561",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "PMP"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

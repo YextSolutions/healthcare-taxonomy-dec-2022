@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spasmodic Dysphonia",
+    "taxonomy_synonyms": [
+      "Voice Disorder",
+      "Crackling Voice"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

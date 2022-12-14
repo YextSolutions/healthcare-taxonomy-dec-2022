@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Workplace injuries",
+    "taxonomy_synonyms": [
+      "Workers Compensation - Injury or Impairment",
+      "Worker\u0027s Comp Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

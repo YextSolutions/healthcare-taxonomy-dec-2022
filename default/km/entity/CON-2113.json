@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2113",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stasis Dermatitis",
+    "taxonomy_synonyms": [
+      "Stasis Pigmentation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

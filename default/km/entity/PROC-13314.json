@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13314",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Premarital Conflict Resolution"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

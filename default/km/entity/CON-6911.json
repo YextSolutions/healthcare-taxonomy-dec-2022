@@ -1,0 +1,15 @@
+{
+  "$id": "CON-6911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Job Syndrome",
+    "taxonomy_synonyms": [
+      "Child with Job Syndrome",
+      "Autosomal Dominant Hyper-IgE Syndrome in Child",
+      "AD-HIES in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

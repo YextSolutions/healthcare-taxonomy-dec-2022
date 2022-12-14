@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foot and Ankle Arthritis",
+    "taxonomy_synonyms": [
+      "Arthritis of the Foot and Ankle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

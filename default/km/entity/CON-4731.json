@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4731",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HUS",
+    "taxonomy_synonyms": [
+      "Hemolytic Uremic Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

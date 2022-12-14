@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lung Strengthening",
+    "taxonomy_synonyms": [
+      "Lung Recovery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

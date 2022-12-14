@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-338",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuropathology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5485",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Laceration",
+    "taxonomy_synonyms": [
+      "Vaginal Tear",
+      "Perineal Laceration"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

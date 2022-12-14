@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14905",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Midface Cheek Lift",
+    "taxonomy_synonyms": [
+      "Midface Lift",
+      "Cheek Lift"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

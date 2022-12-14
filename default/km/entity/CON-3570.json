@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3570",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Autosomal Recessive Conditions"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

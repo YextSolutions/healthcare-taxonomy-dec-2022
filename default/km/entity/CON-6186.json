@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Broken Foot",
+    "taxonomy_synonyms": [
+      "Foot Fracture",
+      "Fractured Foot"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4574",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Solid Tumors",
+    "taxonomy_synonyms": [
+      "Sarcoma",
+      "Carcinoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

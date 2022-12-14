@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5832",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cataracts",
+    "taxonomy_synonyms": [
+      "Child with Cataracts"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

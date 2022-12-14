@@ -1,0 +1,15 @@
+{
+  "$id": "SUBSPEC-142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urologic Oncology",
+    "taxonomy_relatedConditions": [
+      "CON-11470",
+      "CON-11997",
+      "CON-12016"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

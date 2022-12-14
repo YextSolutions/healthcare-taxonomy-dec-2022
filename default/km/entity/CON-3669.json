@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3669",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Learning Disability",
+    "taxonomy_synonyms": [
+      "Learning Disabilities",
+      "Learning Disorder",
+      "Learning Problem"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

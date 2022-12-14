@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4473",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Advanced Malignancies",
+    "taxonomy_synonyms": [
+      "Advanced Cancers"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

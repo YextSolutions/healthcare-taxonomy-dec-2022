@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Swine Influenza",
+    "taxonomy_synonyms": [
+      "Swine Flu"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

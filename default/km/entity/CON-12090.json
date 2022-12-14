@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12090",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Enteropathic Arthritis",
+    "taxonomy_synonyms": [
+      "EnA"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

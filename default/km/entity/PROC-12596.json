@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12596",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anti-Pain Stimulator Implantation"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

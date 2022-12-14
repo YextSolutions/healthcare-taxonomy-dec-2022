@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Insufficiency",
+    "taxonomy_synonyms": [
+      "Early Menopause",
+      "Premature Ovarian Failure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

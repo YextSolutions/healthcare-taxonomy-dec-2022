@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2824",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic pelvic Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

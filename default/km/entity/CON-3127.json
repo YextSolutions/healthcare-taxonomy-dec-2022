@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Otitis Media In Adults",
+    "taxonomy_synonyms": [
+      "Middle Ear Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

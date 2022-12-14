@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2327",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Coma",
+    "taxonomy_synonyms": [
+      "Child in a Coma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

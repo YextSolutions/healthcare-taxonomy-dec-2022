@@ -1,0 +1,10 @@
+{
+  "$id": "CON-529",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anal Pap Smear"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

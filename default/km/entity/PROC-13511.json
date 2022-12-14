@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13511",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Open Retropubic Suspension"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

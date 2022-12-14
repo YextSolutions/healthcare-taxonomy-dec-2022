@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3292",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Blade Pain",
+    "taxonomy_synonyms": [
+      "Interscapular Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

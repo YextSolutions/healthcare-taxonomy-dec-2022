@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bruise",
+    "taxonomy_synonyms": [
+      "Child with Bruise",
+      "Bruising in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

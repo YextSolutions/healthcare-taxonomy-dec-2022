@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1681",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heart Pain",
+    "taxonomy_synonyms": [
+      "Angina"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

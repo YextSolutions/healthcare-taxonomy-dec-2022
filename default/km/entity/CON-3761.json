@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Older Adult Health",
+    "taxonomy_synonyms": [
+      "Senior Health",
+      "Geriatric",
+      "Geriatric Medicine"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

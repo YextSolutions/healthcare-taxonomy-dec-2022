@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Roux en Y Gastric Bypass Surgery",
+    "taxonomy_synonyms": [
+      "RYGB"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

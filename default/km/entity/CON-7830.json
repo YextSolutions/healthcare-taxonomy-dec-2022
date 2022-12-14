@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7830",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Infectious Disease Problems"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

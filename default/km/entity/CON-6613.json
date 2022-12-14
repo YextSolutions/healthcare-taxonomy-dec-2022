@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6613",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Deformities of Auricle or Pinna",
+    "taxonomy_synonyms": [
+      "Malformation of the External Ear",
+      "Microtia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

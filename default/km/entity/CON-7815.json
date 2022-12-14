@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7815",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Aspergillosis",
+    "taxonomy_synonyms": [
+      "Aspergillosis in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

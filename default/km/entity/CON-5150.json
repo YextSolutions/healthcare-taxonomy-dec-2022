@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pseudoseizures",
+    "taxonomy_synonyms": [
+      "Psychogenic Nonepileptic Seizures",
+      "PNES"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

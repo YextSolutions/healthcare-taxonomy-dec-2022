@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Dentist Consultation",
+    "taxonomy_synonyms": [
+      "Dentist Consultation for Child"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

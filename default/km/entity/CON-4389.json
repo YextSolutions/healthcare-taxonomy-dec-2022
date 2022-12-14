@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4389",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Deep Cerebral Vein Thrombosis",
+    "taxonomy_synonyms": [
+      "Deep CVT",
+      "Cerebral Venous Thrombosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

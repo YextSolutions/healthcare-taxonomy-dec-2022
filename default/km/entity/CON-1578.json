@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1578",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anomalous Pulmonary Venous Return",
+    "taxonomy_synonyms": [
+      "Total Anomalous Pulmonary Venous Return",
+      "TAPVR"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

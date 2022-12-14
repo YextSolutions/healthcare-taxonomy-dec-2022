@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Spine Surgery",
+    "taxonomy_synonyms": [
+      "Spine Surgery for Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

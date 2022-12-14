@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5559",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retinopathy Of Prematurity",
+    "taxonomy_synonyms": [
+      "ROP.Retrolental Fibroplasia",
+      "RLF",
+      "Terry Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

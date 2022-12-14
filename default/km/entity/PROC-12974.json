@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12974",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Crown Lengthening"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

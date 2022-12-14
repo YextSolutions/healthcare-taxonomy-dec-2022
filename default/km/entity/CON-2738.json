@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2738",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bowel And Bladder Management"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

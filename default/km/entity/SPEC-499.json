@@ -1,0 +1,36 @@
+{
+  "$id": "SPEC-499",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Integrative and Alternative Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-1165",
+      "CON-1166",
+      "CON-2735",
+      "CON-2838"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12615",
+      "PROC-12616",
+      "PROC-12617",
+      "PROC-12618",
+      "PROC-12619",
+      "PROC-12620",
+      "PROC-13297"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15695",
+      "REAS-15554"
+    ],
+    "taxonomy_synonyms": [
+      "Integrative Medicine",
+      "Alt Medicine",
+      "Homeopathic Medicine",
+      "Holistic Medicine",
+      "Naturopathic Medicine"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

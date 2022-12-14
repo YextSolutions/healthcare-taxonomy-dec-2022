@@ -1,0 +1,16 @@
+{
+  "$id": "CON-874",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Upper Gastrointestinal Bleeding",
+    "taxonomy_synonyms": [
+      "Upper GI Bleeding",
+      "Blood in Stool",
+      "GI Bleeding",
+      "Upper Gastrointestinal Hemorrhage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

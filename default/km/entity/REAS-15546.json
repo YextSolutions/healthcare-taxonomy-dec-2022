@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15546",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nicotine Nasal Spray"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

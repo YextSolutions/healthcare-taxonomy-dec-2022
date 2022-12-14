@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Periventricular Leukomalacia",
+    "taxonomy_synonyms": [
+      "PVL"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

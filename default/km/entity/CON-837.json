@@ -1,0 +1,13 @@
+{
+  "$id": "CON-837",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Removal of Short Intestine",
+    "taxonomy_synonyms": [
+      "Small Bowel Resection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

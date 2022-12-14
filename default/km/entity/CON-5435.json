@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pre-Eclampsia",
+    "taxonomy_synonyms": [
+      "Toxemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

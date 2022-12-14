@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-377",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Female Pelvic Medicine And Reconstructive Surgery",
+    "taxonomy_synonyms": [
+      "Female Urology"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

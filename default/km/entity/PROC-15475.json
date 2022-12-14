@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15475",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endovascular Aneurysm Repair",
+    "taxonomy_synonyms": [
+      "EVAR",
+      "Endovascular Aortic Aneurysm Repair"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

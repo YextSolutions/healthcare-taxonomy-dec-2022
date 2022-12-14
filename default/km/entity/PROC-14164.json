@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dilation of Outflow",
+    "taxonomy_synonyms": [
+      "Dilation of Outflow Canal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

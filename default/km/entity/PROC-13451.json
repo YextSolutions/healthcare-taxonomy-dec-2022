@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Robotic Surgery for the Bladder"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

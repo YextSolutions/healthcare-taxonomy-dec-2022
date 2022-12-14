@@ -1,0 +1,17 @@
+{
+  "$id": "PROC-13972",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Myocardial Perfusion Imaging",
+    "taxonomy_synonyms": [
+      "Heart Stress Test",
+      "Cardiovascular Stress Test",
+      "Cardio Stress Test",
+      "Cardiac Stress Test",
+      "Cardiac Myocardial Perfusion Imaging"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

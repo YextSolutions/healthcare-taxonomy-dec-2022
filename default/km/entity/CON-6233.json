@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6233",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dip Joint Dislocation",
+    "taxonomy_synonyms": [
+      "Dislocation of the DIP Joint"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

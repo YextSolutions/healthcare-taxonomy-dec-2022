@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2086",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sea Bather\u0027s Eruption",
+    "taxonomy_synonyms": [
+      "Swimsuit Rash"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

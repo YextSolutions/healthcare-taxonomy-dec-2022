@@ -1,0 +1,81 @@
+{
+  "$id": "SPEC-33",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Physical Medicine and Rehabilitation",
+    "taxonomy_relatedConditions": [
+      "CON-7154",
+      "CON-7157",
+      "CON-7158",
+      "CON-7159",
+      "CON-7166",
+      "CON-937",
+      "CON-1147",
+      "CON-1149",
+      "CON-12015",
+      "CON-12487",
+      "CON-12490",
+      "CON-12492",
+      "CON-12493",
+      "CON-12494",
+      "CON-1134",
+      "CON-11516",
+      "CON-11518",
+      "CON-11519",
+      "CON-11520",
+      "CON-11521",
+      "CON-11522",
+      "CON-11523",
+      "CON-11527",
+      "CON-11529",
+      "CON-11532",
+      "CON-11533",
+      "CON-12222",
+      "CON-12225",
+      "CON-12224",
+      "CON-12235",
+      "CON-12238",
+      "CON-337",
+      "CON-12241"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12605",
+      "PROC-12619",
+      "PROC-12620",
+      "PROC-12682",
+      "PROC-12901",
+      "PROC-14436",
+      "PROC-15220",
+      "PROC-15221",
+      "PROC-15223",
+      "PROC-14849",
+      "PROC-14853",
+      "PROC-14854",
+      "PROC-14855",
+      "PROC-14856",
+      "PROC-14859",
+      "PROC-14860",
+      "PROC-14861"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15950",
+      "REAS-14858"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-74",
+      "SUBSPEC-77",
+      "SUBSPEC-200",
+      "SUBSPEC-201",
+      "SUBSPEC-202",
+      "SUBSPEC-203"
+    ],
+    "taxonomy_synonyms": [
+      "Rehabilitation and Physical Medicine",
+      "Physical Therapy and Rehabilitation",
+      "Rehabilitation and Therapy"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

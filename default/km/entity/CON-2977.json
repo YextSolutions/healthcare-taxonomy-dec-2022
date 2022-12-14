@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HSV"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

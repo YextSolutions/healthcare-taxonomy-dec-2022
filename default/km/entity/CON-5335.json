@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5335",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Recurrent Pregnancy Loss",
+    "taxonomy_synonyms": [
+      "RPL"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

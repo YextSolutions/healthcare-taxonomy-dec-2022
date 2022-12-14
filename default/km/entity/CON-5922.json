@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5922",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "VEP",
+    "taxonomy_synonyms": [
+      "Visually Evoked Potentials"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3950",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postmenopausal Bleeding"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

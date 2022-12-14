@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12640",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laparoscopic Abdominoperineal Resection of the Rectum with Robotic Assistance"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

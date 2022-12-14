@@ -1,0 +1,13 @@
+{
+  "$id": "CON-769",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mallory-Weiss Tear",
+    "taxonomy_synonyms": [
+      "Lower Esophagus Tear"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

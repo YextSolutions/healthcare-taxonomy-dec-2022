@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Renal Mass",
+    "taxonomy_synonyms": [
+      "Renal Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peripheral Artery Evaluation",
+    "taxonomy_synonyms": [
+      "Peripheral Artery Evaluation \u0026 Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

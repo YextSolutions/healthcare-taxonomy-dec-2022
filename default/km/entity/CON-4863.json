@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4863",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "AIDS/HIV Neuropathy",
+    "taxonomy_synonyms": [
+      "AIDS Neuropathy",
+      "HIV Neuropathy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

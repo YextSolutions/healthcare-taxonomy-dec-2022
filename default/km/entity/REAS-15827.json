@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15827",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Oncology Second Opinion"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "radiation therapy side effects"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

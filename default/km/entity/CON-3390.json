@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3390",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Strain",
+    "taxonomy_synonyms": [
+      "Muscle Strain",
+      "Pulled Muscle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

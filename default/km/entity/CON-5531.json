@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5531",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastrointestinal Malignancies",
+    "taxonomy_synonyms": [
+      "GI Malignancies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

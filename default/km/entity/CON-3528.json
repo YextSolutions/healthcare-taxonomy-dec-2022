@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "X-Linked Agammaglobulinemia",
+    "taxonomy_synonyms": [
+      "XLA",
+      "Bruton Type Agammaglobulinemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

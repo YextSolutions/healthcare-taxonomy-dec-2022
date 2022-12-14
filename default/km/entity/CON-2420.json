@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetic Focal Neuropathy",
+    "taxonomy_synonyms": [
+      "Mononeuropathy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

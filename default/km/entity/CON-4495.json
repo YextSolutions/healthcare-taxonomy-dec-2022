@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cholangiocarcinoma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

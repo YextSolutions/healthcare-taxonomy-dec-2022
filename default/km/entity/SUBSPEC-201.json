@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Occupational Therapy",
+    "taxonomy_relatedProcedures": [
+      "PROC-12606"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "CON-6011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Crooked or Crowded Teeth",
+    "taxonomy_synonyms": [
+      "Crooked Teeth",
+      "Crowded Teeth",
+      "Malocclusion",
+      "Misaligned Teeth",
+      "Misaligned Tooth"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sentinel Lymph Node Biopsy",
+    "taxonomy_synonyms": [
+      "SLNB"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

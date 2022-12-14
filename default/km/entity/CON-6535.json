@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6535",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thumb Dip Joint Dislocation"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

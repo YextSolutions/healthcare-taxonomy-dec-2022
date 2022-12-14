@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Keloid",
+    "taxonomy_synonyms": [
+      "Raised Scar",
+      "Keloid Scar"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4571",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sezary\u0027s Disease",
+    "taxonomy_synonyms": [
+      "Cutaneous T-cell Lymphoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

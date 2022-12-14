@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9404",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Boxer\u0027s fracture",
+    "taxonomy_synonyms": [
+      "Child with Boxer\u0027s Fracture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

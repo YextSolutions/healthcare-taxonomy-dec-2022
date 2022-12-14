@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7440",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Choledochal Cyst",
+    "taxonomy_synonyms": [
+      "Child with Choledochal Cyst"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

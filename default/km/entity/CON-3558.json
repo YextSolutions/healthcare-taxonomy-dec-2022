@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3558",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adrenoleukodystrophy",
+    "taxonomy_synonyms": [
+      "ALD",
+      "X-linked Adrenoleukodystrophy",
+      "X-ALD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

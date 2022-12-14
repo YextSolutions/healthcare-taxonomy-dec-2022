@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mole Screening",
+    "taxonomy_synonyms": [
+      "Mole Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

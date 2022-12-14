@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3440",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tension Headache",
+    "taxonomy_synonyms": [
+      "Stress Headache"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

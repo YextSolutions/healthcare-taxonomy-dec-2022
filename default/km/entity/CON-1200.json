@@ -1,0 +1,17 @@
+{
+  "$id": "CON-1200",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acne in Adolescents",
+    "taxonomy_synonyms": [
+      "Teen Acne",
+      "Adolescent with Acne",
+      "Acne in Teenagers",
+      "Pimples in Adolescents",
+      "Teen Pimples"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

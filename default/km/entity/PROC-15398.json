@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Valvuloplasty",
+    "taxonomy_synonyms": [
+      "Heart Valve Repair",
+      "Balloon Valvuloplasty"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

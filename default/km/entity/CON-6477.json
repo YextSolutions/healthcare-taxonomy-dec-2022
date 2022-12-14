@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Proximal Femur Malunion"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

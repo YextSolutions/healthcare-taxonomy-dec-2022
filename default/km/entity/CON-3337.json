@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Superior Labral Tear from Anterior to Posterior",
+    "taxonomy_synonyms": [
+      "SLAP Tear"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

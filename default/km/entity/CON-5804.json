@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5804",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nasolacrimal Duct Obstruction",
+    "taxonomy_synonyms": [
+      "NLDO"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

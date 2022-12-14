@@ -1,0 +1,17 @@
+{
+  "$id": "CON-5375",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemolysis",
+    "taxonomy_synonyms": [
+      "HELLP Syndrome",
+      "Elevated Liver Enzymes",
+      "Low Platelet Count",
+      "Haemolysis",
+      "Hematolysis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

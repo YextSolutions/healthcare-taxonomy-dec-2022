@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6629",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Enlarged Tonsils",
+    "taxonomy_synonyms": [
+      "Inflamed Tonsils"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

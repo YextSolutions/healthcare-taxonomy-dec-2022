@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4138",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Burkitt\u0027s Tumor Or Lymphoma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

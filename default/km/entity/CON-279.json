@@ -1,0 +1,13 @@
+{
+  "$id": "CON-279",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cannabis Use Disorder",
+    "taxonomy_synonyms": [
+      "Marijuana Use Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

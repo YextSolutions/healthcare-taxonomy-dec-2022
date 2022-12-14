@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3076",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "mechanical idiopathic chronic low back Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

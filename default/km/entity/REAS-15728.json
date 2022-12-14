@@ -1,0 +1,14 @@
+{
+  "$id": "REAS-15728",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lap-Band Follow Up",
+    "taxonomy_synonyms": [
+      "Gastric Band Follow Up",
+      "Lap Band Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

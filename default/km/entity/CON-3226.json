@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3226",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Rib Bruise Or Fracture",
+    "taxonomy_synonyms": [
+      "Rib Fracture",
+      "Rib Bruise"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

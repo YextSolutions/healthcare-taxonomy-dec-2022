@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Burn Blisters",
+    "taxonomy_synonyms": [
+      "Child with Burn Blisters"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

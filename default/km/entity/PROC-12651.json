@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12651",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Laparoscopic Inguinal Hernia Repair"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

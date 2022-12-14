@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nosebleed",
+    "taxonomy_synonyms": [
+      "TPI"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5379",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hereditary Uterine Cancer"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

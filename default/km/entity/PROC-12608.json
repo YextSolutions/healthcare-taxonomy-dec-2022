@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coronary Calcium Scan",
+    "taxonomy_synonyms": [
+      "Heart Scan",
+      "Calcium CT Scan"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7916",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Medullary Cystic Kidney in Children",
+    "taxonomy_synonyms": [
+      "MCKD in Children"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

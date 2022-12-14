@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3444",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "thick mucus in sinus"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

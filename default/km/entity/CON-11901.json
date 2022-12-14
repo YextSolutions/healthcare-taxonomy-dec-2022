@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Farmer\u0027s Lung"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

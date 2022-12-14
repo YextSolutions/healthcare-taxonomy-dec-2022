@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12502",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abdominal Aortic Aneurysm Rupture",
+    "taxonomy_synonyms": [
+      "AAA Rupture",
+      "Abdominal Aneurysm Rupture",
+      "Aortic Aneurysm Rupture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

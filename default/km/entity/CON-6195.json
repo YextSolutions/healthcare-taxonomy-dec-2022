@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6195",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Calf Muscle Injury",
+    "taxonomy_synonyms": [
+      "Pulled Calf Muscle",
+      "Pulled Calf"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Polyuria",
+    "taxonomy_synonyms": [
+      "Frequent Urination",
+      "Urinary Frequency"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-15453",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Uroflowmetry"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

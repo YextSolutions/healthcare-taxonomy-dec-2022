@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dental Cone Beam Computed Tomography",
+    "taxonomy_synonyms": [
+      "Dental Cone Beam CT",
+      "CBCT"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

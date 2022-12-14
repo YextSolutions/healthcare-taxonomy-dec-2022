@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Breast Surgery Follow Up",
+    "taxonomy_synonyms": [
+      "Lumpectomy"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

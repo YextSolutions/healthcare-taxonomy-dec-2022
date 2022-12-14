@@ -1,0 +1,15 @@
+{
+  "$id": "CON-810",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peptic Ulcer Disease",
+    "taxonomy_synonyms": [
+      "Peptic Ulcer",
+      "PUD",
+      "Ulcer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

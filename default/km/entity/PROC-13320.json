@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13320",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Senior Assessment"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

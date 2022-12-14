@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13947",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spinal Stenosis Surgery",
+    "taxonomy_synonyms": [
+      "Laminectomy",
+      "Cervical Laminectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

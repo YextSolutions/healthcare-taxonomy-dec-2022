@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4989",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Global Aphasia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

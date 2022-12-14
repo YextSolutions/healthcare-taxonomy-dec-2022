@@ -1,0 +1,15 @@
+{
+  "$id": "CON-9943",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Allergic Bronchopulmonary Aspergillosis in Children",
+    "taxonomy_synonyms": [
+      "Child with Allergic Bronchopulmonary Aspergillosis",
+      "Pediatric ABPA",
+      "Child with ABPA"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3263",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "School Phobia",
+    "taxonomy_synonyms": [
+      "Fear of School"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

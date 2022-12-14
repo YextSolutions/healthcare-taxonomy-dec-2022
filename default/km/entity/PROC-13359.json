@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13359",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Feces Test",
+    "taxonomy_synonyms": [
+      "Stool Test",
+      "Stool Feces Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

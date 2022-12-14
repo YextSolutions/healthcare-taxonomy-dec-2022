@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13639",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Japanese Encephalitis Vaccine",
+    "taxonomy_synonyms": [
+      "JE Vaccine"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "CON-2348",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Venous Sinus Thrombosis",
+    "taxonomy_synonyms": [
+      "Cerebral Venous Sinus Thrombosis",
+      "CVST",
+      "Dural Venous Thrombosis",
+      "DVST",
+      "Cortical Vein Thrombosis",
+      "Deep Cerebral Vein Thrombosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

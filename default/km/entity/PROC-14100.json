@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14100",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pterygium Excision",
+    "taxonomy_synonyms": [
+      "Pterygium Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

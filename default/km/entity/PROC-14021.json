@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endometrial Ablation"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

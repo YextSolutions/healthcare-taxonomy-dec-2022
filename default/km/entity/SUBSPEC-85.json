@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-85",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pancreatic Surgical Oncology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Penile and Urethral Surgery",
+    "taxonomy_synonyms": [
+      "Penile and Urethral Reconstructive Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

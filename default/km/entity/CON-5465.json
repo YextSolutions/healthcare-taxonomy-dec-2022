@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5465",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Toxoplasmosis",
+    "taxonomy_synonyms": [
+      "Toxoplasma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

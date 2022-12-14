@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-237",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brain and Pituitary Tumors"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

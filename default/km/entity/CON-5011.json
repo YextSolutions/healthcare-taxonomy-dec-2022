@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5011",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Idiopathic Inflammatory Myopathy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

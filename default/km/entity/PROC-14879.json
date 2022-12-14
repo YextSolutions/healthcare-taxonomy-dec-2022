@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14879",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brow Lift",
+    "taxonomy_synonyms": [
+      "Forehead Lift"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

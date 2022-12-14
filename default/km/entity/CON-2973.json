@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2973",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hip Pointer",
+    "taxonomy_synonyms": [
+      "Hip Bruise"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

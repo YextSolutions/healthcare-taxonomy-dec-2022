@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11288",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric chronic suppurative otitis media",
+    "taxonomy_synonyms": [
+      "Chronic Suppurative Otitis Media in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-21844",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Platelet Rich Plasma Filler Treatment",
+    "taxonomy_synonyms": [
+      "PRP Fillers"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

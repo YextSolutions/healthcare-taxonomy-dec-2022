@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Retinal Cyst"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

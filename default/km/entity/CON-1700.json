@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1700",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Isolated Systolic High Blood Pressure"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

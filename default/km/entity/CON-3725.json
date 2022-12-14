@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3725",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "William\u0027s Syndrome",
+    "taxonomy_synonyms": [
+      "WS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

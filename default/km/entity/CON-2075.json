@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Punch Skin Biopsy",
+    "taxonomy_synonyms": [
+      "Punch Biopsy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

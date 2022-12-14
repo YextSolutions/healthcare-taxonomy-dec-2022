@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Proximal Biceps Rupture"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

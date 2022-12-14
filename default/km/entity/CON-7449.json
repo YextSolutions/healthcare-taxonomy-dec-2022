@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Crohn\u0027s Colitis",
+    "taxonomy_synonyms": [
+      "Crohn\u0027s Colitis in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

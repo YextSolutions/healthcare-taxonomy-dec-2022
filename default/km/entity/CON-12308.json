@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12308",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Narrow Esophagus",
+    "taxonomy_synonyms": [
+      "Closed Esophagus",
+      "Esophageal Stricture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

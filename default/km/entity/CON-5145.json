@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Post-Concussion Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13515",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Cystectomy",
+    "taxonomy_synonyms": [
+      "Ovarian Cyst Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

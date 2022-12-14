@@ -1,0 +1,16 @@
+{
+  "$id": "CON-6357",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Kyphosis",
+    "taxonomy_synonyms": [
+      "Kyphotic Deformity",
+      "Severe Kyphotic Deformities",
+      "Hunchback",
+      "Postural Kyphosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

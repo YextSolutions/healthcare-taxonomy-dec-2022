@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Brain Surgery",
+    "taxonomy_synonyms": [
+      "Neurosurgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

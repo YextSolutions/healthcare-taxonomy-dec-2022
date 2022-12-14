@@ -1,0 +1,14 @@
+{
+  "$id": "CON-585",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colonic Dysmotility",
+    "taxonomy_synonyms": [
+      "Colonic Dysmotility Disorders",
+      "Colonic Motility Dysfunction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

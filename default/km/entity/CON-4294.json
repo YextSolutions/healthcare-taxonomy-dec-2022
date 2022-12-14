@@ -1,0 +1,16 @@
+{
+  "$id": "CON-4294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "HIV",
+    "taxonomy_synonyms": [
+      "HIV AIDS",
+      "AIDS",
+      "Acquired Autoimmunodeficiency Disorder",
+      "HIV Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

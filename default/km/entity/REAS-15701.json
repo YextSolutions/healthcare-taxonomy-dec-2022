@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15701",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Medical Clearance For Hearing Aids"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

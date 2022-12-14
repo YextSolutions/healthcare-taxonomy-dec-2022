@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Congenital Kidney Disease"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

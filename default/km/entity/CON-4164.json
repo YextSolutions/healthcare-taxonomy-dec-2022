@@ -1,0 +1,17 @@
+{
+  "$id": "CON-4164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lymphoplasmacytic Lymphoma",
+    "taxonomy_synonyms": [
+      "Macroglobulinemia",
+      "Waldenstrom\u0027s Disease",
+      "Waldenstrom\u0027s Macroglobulinemia",
+      "LPL",
+      "Leukemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11362",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Immunizations",
+    "taxonomy_synonyms": [
+      "Child Immunizations"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13664",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Implantable Devices"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

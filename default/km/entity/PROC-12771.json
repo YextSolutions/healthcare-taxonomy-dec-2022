@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12771",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Rehabilitation",
+    "taxonomy_synonyms": [
+      "Cardiac Rehab"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

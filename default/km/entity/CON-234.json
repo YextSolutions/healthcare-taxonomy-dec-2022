@@ -1,0 +1,10 @@
+{
+  "$id": "CON-234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Magnesium Metabolism Disorder"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

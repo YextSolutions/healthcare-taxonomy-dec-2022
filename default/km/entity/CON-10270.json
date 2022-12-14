@@ -1,0 +1,16 @@
+{
+  "$id": "CON-10270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Craniofacial Anomalies",
+    "taxonomy_synonyms": [
+      "Craniofacial Anomalies in Children",
+      "Craniofacial Anomalies in Child",
+      "Craniofacial Anomalies in Kids",
+      "Pediatric Craniofacial Anomalies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

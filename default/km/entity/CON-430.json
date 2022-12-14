@@ -1,0 +1,10 @@
+{
+  "$id": "CON-430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hair Disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

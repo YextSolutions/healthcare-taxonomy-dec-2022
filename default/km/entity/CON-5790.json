@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5790",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Macular Hypoplasia",
+    "taxonomy_synonyms": [
+      "Foveal Hypoplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

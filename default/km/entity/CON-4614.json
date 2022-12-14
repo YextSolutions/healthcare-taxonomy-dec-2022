@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4614",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fetal Abnormalities",
+    "taxonomy_synonyms": [
+      "Birth Defects",
+      "Congenital Malformations",
+      "Fetal Anomalies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

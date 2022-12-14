@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12399",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Incarcerated Inguinal Hernia",
+    "taxonomy_synonyms": [
+      "Incarcerated Groin Hernia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

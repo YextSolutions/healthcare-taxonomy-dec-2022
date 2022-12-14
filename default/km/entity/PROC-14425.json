@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14425",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Stabilization"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

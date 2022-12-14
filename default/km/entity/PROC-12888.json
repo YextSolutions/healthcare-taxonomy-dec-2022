@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12888",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Patent Ductus Arteriosus Surgery",
+    "taxonomy_synonyms": [
+      "PDA Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Non-24",
+    "taxonomy_synonyms": [
+      "N24",
+      "Non-24-hour Sleep-Wake Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

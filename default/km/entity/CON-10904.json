@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cysts in Children",
+    "taxonomy_synonyms": [
+      "Pediatric Cyst"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

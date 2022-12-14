@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6552",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ulnar Collateral Ligament Sprain of Thumb",
+    "taxonomy_synonyms": [
+      "UCL Thumb Sprain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

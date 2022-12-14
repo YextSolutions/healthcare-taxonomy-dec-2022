@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4655",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Intestinal Malrotation",
+    "taxonomy_synonyms": [
+      "Intestinal Malrotation in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

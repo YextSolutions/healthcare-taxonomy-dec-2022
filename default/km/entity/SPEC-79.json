@@ -1,0 +1,10 @@
+{
+  "$id": "SPEC-79",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Trauma and Critical Care Surgery"
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

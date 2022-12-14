@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "EEG Long Term Monitoring"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

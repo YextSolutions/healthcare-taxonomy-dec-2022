@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Disseminated Gonococcal Infection",
+    "taxonomy_synonyms": [
+      "DGI"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

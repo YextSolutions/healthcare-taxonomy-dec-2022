@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Amblyopia",
+    "taxonomy_synonyms": [
+      "Child with Amblyopia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

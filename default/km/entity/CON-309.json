@@ -1,0 +1,10 @@
+{
+  "$id": "CON-309",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Polyneuropathy due to Alcohol and Drugs"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9179",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Pigeon toed",
+    "taxonomy_synonyms": [
+      "Child with Pigeon Toes"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

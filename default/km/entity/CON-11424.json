@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11424",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Sprained Ankle",
+    "taxonomy_synonyms": [
+      "Child with Sprained Ankle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

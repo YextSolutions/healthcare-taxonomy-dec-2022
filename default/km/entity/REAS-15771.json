@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15771",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hepatology Consultation"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

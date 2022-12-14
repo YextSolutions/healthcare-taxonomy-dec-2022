@@ -1,0 +1,15 @@
+{
+  "$id": "CON-735",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ileitis",
+    "taxonomy_synonyms": [
+      "Crohn\u0027s Disease",
+      "Crohn\u0027s Colitis",
+      "Regional Enteritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

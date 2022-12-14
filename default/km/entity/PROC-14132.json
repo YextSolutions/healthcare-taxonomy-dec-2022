@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Canaloplasty",
+    "taxonomy_synonyms": [
+      "Transluminal Canal Dilation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

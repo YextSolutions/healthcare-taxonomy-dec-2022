@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7649",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Neutropenia",
+    "taxonomy_synonyms": [
+      "Neutropenia in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

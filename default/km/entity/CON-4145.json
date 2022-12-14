@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Myelomonocytic Leukemia",
+    "taxonomy_synonyms": [
+      "CMML"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

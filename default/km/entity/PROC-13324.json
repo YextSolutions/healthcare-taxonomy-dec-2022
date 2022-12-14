@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13324",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Steroid Injections"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

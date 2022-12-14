@@ -1,0 +1,17 @@
+{
+  "$id": "CON-2846",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coronavirus",
+    "taxonomy_synonyms": [
+      "COVID-19",
+      "COVID 19",
+      "COVID19",
+      "COVID",
+      "SARS-CoV"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

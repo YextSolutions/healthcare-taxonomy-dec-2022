@@ -1,0 +1,13 @@
+{
+  "$id": "CON-22344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nonalcoholic Fatty Liver Disease",
+    "taxonomy_synonyms": [
+      "NFLD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

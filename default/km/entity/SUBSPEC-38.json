@@ -1,0 +1,28 @@
+{
+  "$id": "SUBSPEC-38",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastrointestinal Oncology",
+    "taxonomy_relatedConditions": [
+      "CON-885",
+      "CON-1398",
+      "CON-4449",
+      "CON-4450",
+      "CON-4451",
+      "CON-6666",
+      "CON-6667",
+      "CON-6668",
+      "CON-6669"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13419",
+      "PROC-13420",
+      "PROC-13421",
+      "PROC-13422",
+      "PROC-13423"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

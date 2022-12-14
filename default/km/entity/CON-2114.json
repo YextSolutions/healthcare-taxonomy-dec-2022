@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2114",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis",
+    "taxonomy_synonyms": [
+      "SJS",
+      "Erythema Multiforme Major"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

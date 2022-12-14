@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Renal Hypertension",
+    "taxonomy_synonyms": [
+      "Renovascular Hypertension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9763",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nonverbal Learning Disorder"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

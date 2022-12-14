@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Recurrent Urinary Tract Infection"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

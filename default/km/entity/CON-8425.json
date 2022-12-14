@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8425",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hydrocephalus in Children",
+    "taxonomy_synonyms": [
+      "Pediatric Hyrdocephalus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

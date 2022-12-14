@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urologic Problems",
+    "taxonomy_synonyms": [
+      "Urologic Problems",
+      "Urologic Disease",
+      "Urology Problem"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

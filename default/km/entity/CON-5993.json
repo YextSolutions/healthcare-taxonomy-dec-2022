@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Dislocated Jaw",
+    "taxonomy_synonyms": [
+      "Child with a Dislocated Jaw"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nuclear Stress Test",
+    "taxonomy_synonyms": [
+      "Nuclear Stress Testing"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

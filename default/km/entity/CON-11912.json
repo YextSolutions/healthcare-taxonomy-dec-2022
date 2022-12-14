@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11912",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypoxemia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

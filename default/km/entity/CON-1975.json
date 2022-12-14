@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1975",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Paronychia Of The Finger",
+    "taxonomy_synonyms": [
+      "Chronic Fingernail Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1617",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiovascular Disease in Pregnancy",
+    "taxonomy_synonyms": [
+      "Heart Disease in Pregnancy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

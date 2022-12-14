@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11666",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Arachnophobia",
+    "taxonomy_synonyms": [
+      "Fear of Spinders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

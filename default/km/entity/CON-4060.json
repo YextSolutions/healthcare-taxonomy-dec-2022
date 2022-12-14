@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4060",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Heparin-Induced Thrombocytopenia",
+    "taxonomy_synonyms": [
+      "HIT"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

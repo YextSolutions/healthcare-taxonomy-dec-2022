@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bladder and Bowel Management",
+    "taxonomy_synonyms": [
+      "Bladder and Bowel Management for Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

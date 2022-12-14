@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-589",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colonic Polypectomy",
+    "taxonomy_synonyms": [
+      "Colon Polyp Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2732",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Boil",
+    "taxonomy_synonyms": [
+      "Carbuncle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

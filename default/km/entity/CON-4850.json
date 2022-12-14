@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal Brain Structure",
+    "taxonomy_synonyms": [
+      "Brain Structure Abnormalities",
+      "Brain Structure Abnormality"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

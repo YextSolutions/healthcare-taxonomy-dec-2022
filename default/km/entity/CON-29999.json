@@ -1,0 +1,26 @@
+{
+  "$id": "CON-29999",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiovascular Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-1586",
+      "CON-1582"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12834",
+      "PROC-13682",
+      "PROC-12883",
+      "PROC-12893",
+      "PROC-13653",
+      "PROC-13656",
+      "PROC-12838"
+    ],
+    "taxonomy_synonyms": [
+      "Heart Surgery"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cervical Polyp"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

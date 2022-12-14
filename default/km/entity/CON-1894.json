@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Geographic Tongue",
+    "taxonomy_synonyms": [
+      "Benign Migratory Glossitis",
+      "Glossitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

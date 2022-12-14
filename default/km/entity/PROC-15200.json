@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15200",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vascular Magnetic Resonance Angiography",
+    "taxonomy_synonyms": [
+      "Vascular MRA"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

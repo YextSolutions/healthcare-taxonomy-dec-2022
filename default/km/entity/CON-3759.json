@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3759",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "NIHL"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

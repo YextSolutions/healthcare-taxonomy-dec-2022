@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9652",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric hypersalivation",
+    "taxonomy_synonyms": [
+      "Child with Hypersalivation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

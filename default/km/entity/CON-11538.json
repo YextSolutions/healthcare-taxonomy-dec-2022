@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Breast Reconstruction",
+    "taxonomy_synonyms": [
+      "Breast Reconstruction Surgery",
+      "Implant-Based Reconstruction",
+      "Flap Reconstruction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "splenomegaly",
+    "taxonomy_synonyms": [
+      "Spleen Problems",
+      "Enlarged Spleen"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

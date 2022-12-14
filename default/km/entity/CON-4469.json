@@ -1,0 +1,19 @@
+{
+  "$id": "CON-4469",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adrenal Cortical Carcinoma",
+    "taxonomy_synonyms": [
+      "Adrenal Cortical Cancer",
+      "ACC",
+      "Adrenocortical Carcinoma",
+      "Adrenocortical Cancer",
+      "Adrenal Cortex Cancer",
+      "Adrenal Gland Cancer",
+      "Metastic Adrenal Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

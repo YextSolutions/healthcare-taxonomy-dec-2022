@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4290",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "H1N1 Influenza",
+    "taxonomy_synonyms": [
+      "Avian Flu",
+      "Bird Flu",
+      "H1N1"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

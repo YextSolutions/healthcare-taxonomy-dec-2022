@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11885",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Obstructive Pulmonary Disease",
+    "taxonomy_synonyms": [
+      "COPD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

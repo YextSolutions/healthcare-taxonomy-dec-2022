@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Labral Tear"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

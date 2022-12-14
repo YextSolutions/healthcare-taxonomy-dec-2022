@@ -1,0 +1,15 @@
+{
+  "$id": "SUBSPEC-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bladder Cancer",
+    "taxonomy_relatedConditions": [
+      "CON-10432",
+      "CON-11468",
+      "CON-11469"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

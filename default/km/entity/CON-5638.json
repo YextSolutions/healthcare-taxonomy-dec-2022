@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5638",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Conjunctival Hemorrhage From Hypertension",
+    "taxonomy_synonyms": [
+      "Conjunctival Hemorrhage from Hypertension",
+      "Bleeding in Eye from Hypertension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

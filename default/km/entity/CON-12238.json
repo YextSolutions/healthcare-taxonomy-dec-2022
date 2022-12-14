@@ -1,0 +1,16 @@
+{
+  "$id": "CON-12238",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Speech and Language Developmental and Learning Disorders",
+    "taxonomy_synonyms": [
+      "Language Problems",
+      "Language Disability",
+      "Stuttering",
+      "Language Delay"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

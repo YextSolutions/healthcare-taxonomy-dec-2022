@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetes Care Eye Exam",
+    "taxonomy_synonyms": [
+      "Diabetes Eye Exam",
+      "Diabetic Eye Disease Screening"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

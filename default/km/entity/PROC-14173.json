@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Electrophysiology Tests for the Eyes"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

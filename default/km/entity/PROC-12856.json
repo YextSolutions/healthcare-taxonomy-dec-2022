@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12856",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aortic Stenosis Repair",
+    "taxonomy_synonyms": [
+      "Aortic Valve Stenosis Repair",
+      "Aortic Valve Stenosis",
+      "Aortic Stenosis"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

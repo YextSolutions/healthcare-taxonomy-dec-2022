@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12845",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aortic Valve Repair",
+    "taxonomy_synonyms": [
+      "Aortic Valve Replacement",
+      "Aortic Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

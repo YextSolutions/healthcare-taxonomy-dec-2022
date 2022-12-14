@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-15218",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Latissimus",
+    "taxonomy_synonyms": [
+      "Strabismus",
+      "Eye Misalignment",
+      "Crossed Eyes",
+      "Amblyopia"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

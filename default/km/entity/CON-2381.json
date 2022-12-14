@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Basal-Bolus Insulin Therapy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

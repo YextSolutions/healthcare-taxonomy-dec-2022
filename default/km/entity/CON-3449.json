@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thrombocytopenia",
+    "taxonomy_synonyms": [
+      "Low Platelet Count",
+      "Low Platelet Level",
+      "Low Platelets"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-472",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Red Burning Skin Syndrome",
+    "taxonomy_synonyms": [
+      "Red Skin Syndrome",
+      "RSS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

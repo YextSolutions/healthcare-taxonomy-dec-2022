@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-13031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cosmetic Dermal Filler",
+    "taxonomy_synonyms": [
+      "Cosmetic Filler",
+      "Filler",
+      "Filler Injection",
+      "Filler Treatment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

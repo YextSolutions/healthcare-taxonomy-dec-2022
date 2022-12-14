@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3990",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Discomfort",
+    "taxonomy_synonyms": [
+      "Vaginal Burning"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

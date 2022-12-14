@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1138",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Myxedema Coma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

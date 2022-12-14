@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9857",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Atypical Autism in Children",
+    "taxonomy_synonyms": [
+      "Pediatric Atypical Autism"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

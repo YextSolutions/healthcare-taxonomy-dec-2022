@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4391",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dural Venous Thrombosis",
+    "taxonomy_synonyms": [
+      "DVST"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

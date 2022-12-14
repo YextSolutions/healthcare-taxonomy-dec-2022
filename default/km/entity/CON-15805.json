@@ -1,0 +1,15 @@
+{
+  "$id": "CON-15805",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spinal Cord Tumor",
+    "taxonomy_synonyms": [
+      "Intradural Tumor",
+      "Vertebral Column Tumors",
+      "Vertebral Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

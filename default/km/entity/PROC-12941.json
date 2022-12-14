@@ -1,0 +1,17 @@
+{
+  "$id": "PROC-12941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Botox",
+    "taxonomy_synonyms": [
+      "Botox Treatment",
+      "Botox Injection",
+      "Botulinum Injection",
+      "Botulinum Treatment",
+      "Botulinum Toxin Injection"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

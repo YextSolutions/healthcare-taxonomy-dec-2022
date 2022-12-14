@@ -1,0 +1,20 @@
+{
+  "$id": "CON-3136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pain In Extremities",
+    "taxonomy_synonyms": [
+      "Pain in Right Arm",
+      "Pain in Left Arm",
+      "Pain in Right Leg",
+      "Pain in Left Leg",
+      "Leg Pain",
+      "Arm Pain",
+      "Pain in Big Toe",
+      "Limb Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

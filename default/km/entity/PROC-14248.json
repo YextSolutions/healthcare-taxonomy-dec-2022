@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "YAG Laser Capsulotomy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

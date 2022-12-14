@@ -1,0 +1,18 @@
+{
+  "$id": "CON-2595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "High Blood Pressure",
+    "taxonomy_synonyms": [
+      "HBP",
+      "Elevated Blood Pressure",
+      "Hypertension",
+      "Hypertensive Heart Disease",
+      "Secondary High Blood Pressure",
+      "Secondary Renovascular Hypertension"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

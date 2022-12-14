@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-327",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abdominal Radiology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

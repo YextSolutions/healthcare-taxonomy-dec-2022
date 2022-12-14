@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spared Eye Injury",
+    "taxonomy_synonyms": [
+      "Sympathetic Ophthalmia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Contact Dermatitis",
+    "taxonomy_synonyms": [
+      "Contact Eczema",
+      "Skin Rash"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

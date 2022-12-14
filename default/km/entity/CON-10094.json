@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric lung abscess",
+    "taxonomy_synonyms": [
+      "Child with Lung Abscess"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

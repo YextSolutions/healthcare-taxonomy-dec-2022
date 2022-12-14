@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Airway Disorders"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

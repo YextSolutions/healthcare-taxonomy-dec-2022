@@ -1,0 +1,13 @@
+{
+  "$id": "CON-537",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Argon Plasma Coagulation",
+    "taxonomy_synonyms": [
+      "APC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

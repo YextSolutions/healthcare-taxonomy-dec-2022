@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15235",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Egg Retrieval",
+    "taxonomy_synonyms": [
+      "Extraction of Eggs"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

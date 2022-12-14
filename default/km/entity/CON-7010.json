@@ -1,0 +1,14 @@
+{
+  "$id": "CON-7010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Heart Disease in Children",
+    "taxonomy_synonyms": [
+      "Congenital Cardiac Disease in Children",
+      "Pediatric Congenital Cardiac Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

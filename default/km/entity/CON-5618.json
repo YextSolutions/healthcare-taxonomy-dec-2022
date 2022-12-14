@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5618",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chemosis",
+    "taxonomy_synonyms": [
+      "Conjunctival Edema",
+      "Conjunctival Swelling"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

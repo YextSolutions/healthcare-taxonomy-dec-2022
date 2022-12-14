@@ -1,0 +1,15 @@
+{
+  "$id": "CON-777",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Melena",
+    "taxonomy_synonyms": [
+      "Black Stool",
+      "Dark Stool",
+      "Tarry Stool"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

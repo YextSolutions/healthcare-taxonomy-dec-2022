@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13531",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Birth Control Implant",
+    "taxonomy_synonyms": [
+      "Contraception"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2372",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adrenal Pheochromocytoma",
+    "taxonomy_synonyms": [
+      "Pheochromocytoma",
+      "PCC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

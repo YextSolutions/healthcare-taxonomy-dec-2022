@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5490",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginitis",
+    "taxonomy_synonyms": [
+      "Vaginal Itch",
+      "Vaginal Itching",
+      "Vulvovaginitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

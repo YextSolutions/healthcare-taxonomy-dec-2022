@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ventricular Tachycardia Surgery",
+    "taxonomy_synonyms": [
+      "VT Surgery",
+      "V-Tach Surgery",
+      "Tachycardia Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

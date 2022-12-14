@@ -1,0 +1,13 @@
+{
+  "$id": "CON-899",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bacterial Conjunctivitis",
+    "taxonomy_synonyms": [
+      "Pink Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

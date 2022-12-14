@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2027",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Granuloma of Skin",
+    "taxonomy_synonyms": [
+      "Granuloma Annulare"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

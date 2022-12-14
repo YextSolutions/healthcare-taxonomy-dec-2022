@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11627",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pump Bump",
+    "taxonomy_synonyms": [
+      "Haglund\u0027s Deformity"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

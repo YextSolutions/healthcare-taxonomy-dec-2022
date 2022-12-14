@@ -1,0 +1,16 @@
+{
+  "$id": "CON-3831",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bartholin Duct Abscess",
+    "taxonomy_synonyms": [
+      "Bartholin\u0027s Cyst Abscess",
+      "Bartholin Gland Cyst Abscess",
+      "Bartholin\u0027s Gland Cyst Abscess",
+      "Bartholin\u0027s Duct Cyst Abscess"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

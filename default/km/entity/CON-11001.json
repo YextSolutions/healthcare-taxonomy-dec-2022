@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foot Problems in Pediatrics",
+    "taxonomy_synonyms": [
+      "Foot Problems in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

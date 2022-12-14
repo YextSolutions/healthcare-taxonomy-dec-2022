@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2311",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pulmonary Embolism",
+    "taxonomy_synonyms": [
+      "PE",
+      "Pulmonary Embolus",
+      "Lung Embolism"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

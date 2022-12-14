@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15574",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Leukotriene Modifiers"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "CON-2325",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Clavicle Fracture",
+    "taxonomy_synonyms": [
+      "Child with Clavicle Fracture",
+      "Pediatric Clavicular Fracture",
+      "Child with Clavicular Fracture",
+      "Pediatric Broken Collarbone",
+      "Child with Broken Collarbone"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

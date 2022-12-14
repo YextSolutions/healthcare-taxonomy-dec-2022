@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-206",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Interventional Pulmonology",
+    "taxonomy_relatedProcedures": [
+      "PROC-15293"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

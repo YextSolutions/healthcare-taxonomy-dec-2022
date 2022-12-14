@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12543",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peripheral Arterial Embolism"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

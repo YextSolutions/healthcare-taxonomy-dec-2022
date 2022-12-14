@@ -1,0 +1,18 @@
+{
+  "$id": "CON-10183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Juvenile Arthritis",
+    "taxonomy_synonyms": [
+      "Juvenile Arthritis",
+      "Juvenile Chronic Arthritis",
+      "Arthritis in Children",
+      "Arthritis in Child",
+      "Arthritis in Kids",
+      "Pediatric Arthritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

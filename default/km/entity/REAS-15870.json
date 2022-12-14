@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15870",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Braces Consultation"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

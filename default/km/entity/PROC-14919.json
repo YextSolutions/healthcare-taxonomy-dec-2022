@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14919",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bunionectomy",
+    "taxonomy_synonyms": [
+      "Bunion Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

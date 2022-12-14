@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4703",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Polycystic Kidney",
+    "taxonomy_synonyms": [
+      "PKD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

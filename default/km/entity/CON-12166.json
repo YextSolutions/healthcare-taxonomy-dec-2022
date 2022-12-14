@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Advanced Phase Sleep Syndrome",
+    "taxonomy_synonyms": [
+      "Phase-Advance Syndrome",
+      "ASPD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

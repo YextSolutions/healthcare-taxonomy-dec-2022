@@ -1,0 +1,13 @@
+{
+  "$id": "CON-337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ankyloglossia",
+    "taxonomy_synonyms": [
+      "Tongue-tie"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5940",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vitreous Diseases"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

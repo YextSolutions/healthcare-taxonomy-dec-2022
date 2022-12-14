@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Twin Oligohydramnios-Polyhydramnios Sequence",
+    "taxonomy_synonyms": [
+      "TOPS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

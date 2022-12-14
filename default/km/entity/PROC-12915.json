@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemorrhoid Banding",
+    "taxonomy_synonyms": [
+      "Hemorrhoid Ligation",
+      "Hemorrhoid Rubber Band Ligation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

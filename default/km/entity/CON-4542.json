@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4542",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "neurologic problems with cancer"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-16008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urological Surgery Consultation"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

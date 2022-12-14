@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5362",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Feto-Fetal Transfusion Syndrome",
+    "taxonomy_synonyms": [
+      "FFTS",
+      "Twin-to-Twin Transfusion Syndrome",
+      "TTTS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

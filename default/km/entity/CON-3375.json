@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3375",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Still´s Disease",
+    "taxonomy_synonyms": [
+      "Inflammatory Arthritis",
+      "Joint Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

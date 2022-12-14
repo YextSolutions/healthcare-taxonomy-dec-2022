@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4182",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Runt Disease",
+    "taxonomy_synonyms": [
+      "Graft vs Host Disease",
+      "GVHD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

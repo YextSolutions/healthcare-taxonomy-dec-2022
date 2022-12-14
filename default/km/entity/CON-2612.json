@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sore Throat",
+    "taxonomy_synonyms": [
+      "Pharyngitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6462",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Plantar Fasciitis",
+    "taxonomy_synonyms": [
+      "Policeman\u0027s Heel"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

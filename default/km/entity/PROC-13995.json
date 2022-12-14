@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-13995",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Caesarian Section",
+    "taxonomy_synonyms": [
+      "Caesarian Birth",
+      "C-Section",
+      "C Section",
+      "Csection"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

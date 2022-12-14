@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5438",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pregnancy \u0026 Hematologic Abnormalities"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1078",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "complex regional Pain syndrome in Children",
+    "taxonomy_synonyms": [
+      "Reflex Sympathetic Dystrophy in Childre",
+      "Child with Complex Regional Pain Syndrome",
+      "CRPS in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

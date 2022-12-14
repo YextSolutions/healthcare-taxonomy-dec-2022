@@ -1,0 +1,16 @@
+{
+  "$id": "CON-614",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diverticulitis",
+    "taxonomy_synonyms": [
+      "Diverticulosis",
+      "Colonic Diverticulitis",
+      "Diverticular Disease",
+      "Intestinal Diverticulitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3777",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dissociative Disorder",
+    "taxonomy_synonyms": [
+      "Adjustment Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

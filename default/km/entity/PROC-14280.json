@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14280",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Maxillofacial Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

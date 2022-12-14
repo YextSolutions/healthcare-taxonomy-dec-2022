@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14233",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "RK",
+    "taxonomy_synonyms": [
+      "Radial Keratotomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

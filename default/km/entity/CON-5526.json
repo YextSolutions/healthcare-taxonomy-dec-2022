@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5526",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colorectal Liver Metastases"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

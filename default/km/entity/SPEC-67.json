@@ -1,0 +1,18 @@
+{
+  "$id": "SPEC-67",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Anesthesiology",
+    "taxonomy_subspecialties": [
+      "SUBSPEC-288",
+      "SUBSPEC-289",
+      "SUBSPEC-290"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Anesthesiology"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

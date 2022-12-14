@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Corneal Abrasion",
+    "taxonomy_synonyms": [
+      "Scratched Cornea",
+      "Corneal Scratches",
+      "Corneal Laceration"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

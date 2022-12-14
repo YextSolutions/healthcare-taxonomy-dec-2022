@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5298",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal Nuclear Exercise Stress Test",
+    "taxonomy_synonyms": [
+      "Abnormal Stress Test"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

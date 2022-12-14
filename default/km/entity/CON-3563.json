@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Andersen-Tawil Syndrome",
+    "taxonomy_synonyms": [
+      "Andersen Syndrome",
+      "Long QT Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

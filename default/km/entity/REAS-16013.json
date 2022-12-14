@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-16013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Emotional and Behavioral Changes After Stroke"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

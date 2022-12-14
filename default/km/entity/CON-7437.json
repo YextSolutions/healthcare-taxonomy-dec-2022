@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7437",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric bowel incontinence",
+    "taxonomy_synonyms": [
+      "Child with Bowel Incontinence"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

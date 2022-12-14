@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Basal Cell Carcinoma",
+    "taxonomy_synonyms": [
+      "Skin Cancer",
+      "Basal Cell Cancer",
+      "Basal Cell Skin Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

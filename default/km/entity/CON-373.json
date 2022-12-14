@@ -1,0 +1,13 @@
+{
+  "$id": "CON-373",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Prader-Labhard-Willi Syndrome",
+    "taxonomy_synonyms": [
+      "PWS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

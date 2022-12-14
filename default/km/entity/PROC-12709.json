@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12709",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hearing Test",
+    "taxonomy_synonyms": [
+      "Hearing Tests"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

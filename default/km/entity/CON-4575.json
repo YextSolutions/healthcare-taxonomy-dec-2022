@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4575",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stomach Cancer",
+    "taxonomy_synonyms": [
+      "Gastric Cancer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

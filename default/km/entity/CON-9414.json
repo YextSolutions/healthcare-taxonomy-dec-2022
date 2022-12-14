@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bunions"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

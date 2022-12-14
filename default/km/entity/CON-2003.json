@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Facial Wart",
+    "taxonomy_synonyms": [
+      "Filiform Wart"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

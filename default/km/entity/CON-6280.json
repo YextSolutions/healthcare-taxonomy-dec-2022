@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6280",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fractured Foot"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

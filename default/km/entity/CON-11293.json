@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11293",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cold Sore",
+    "taxonomy_synonyms": [
+      "Child with a Cold Sore"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "High-Grade Squamous Intraepithelial Lesions",
+    "taxonomy_synonyms": [
+      "HSIL",
+      "Severe Dysplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

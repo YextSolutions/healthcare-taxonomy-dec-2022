@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Torsion",
+    "taxonomy_synonyms": [
+      "Rotated Ovary",
+      "Adnexal Torsion"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

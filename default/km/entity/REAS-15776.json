@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hospice and Palliative Medicine Follow Up"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

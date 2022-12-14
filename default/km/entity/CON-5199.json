@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5199",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tumor Affecting Hearing",
+    "taxonomy_synonyms": [
+      "Acoustic Neuroma",
+      "Meningioma Affecting Hearing",
+      "Astrocytoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Baclofen Pump Management"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

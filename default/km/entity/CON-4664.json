@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4664",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Respiratory Problems in Newborns"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Birth Asphyxia",
+    "taxonomy_synonyms": [
+      "Perinatal Asphyxia",
+      "Neonatal Asphyxia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

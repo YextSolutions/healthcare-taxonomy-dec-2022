@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-16052",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Autograft Repair of Ulnar Collateral Ligament Tear",
+    "taxonomy_synonyms": [
+      "Autograft Repair of UCL Tear"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

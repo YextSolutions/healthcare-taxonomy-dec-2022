@@ -1,0 +1,15 @@
+{
+  "$id": "CON-301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Opioid Dependence and Addiction",
+    "taxonomy_synonyms": [
+      "Opioid Dependence",
+      "Opioid Use Disorder",
+      "Opiod Abuse"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

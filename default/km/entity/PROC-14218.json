@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14218",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ophthalmoscopy",
+    "taxonomy_synonyms": [
+      "Funduscopy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

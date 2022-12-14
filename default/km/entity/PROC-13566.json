@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Oophoritis",
+    "taxonomy_synonyms": [
+      "Inflammation of the Ovaries"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

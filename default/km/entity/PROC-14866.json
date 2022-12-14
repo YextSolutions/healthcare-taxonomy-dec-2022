@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14866",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Reconstruction of Facial Skin Cancer Defects",
+    "taxonomy_synonyms": [
+      "Local Flap Reconstruction"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

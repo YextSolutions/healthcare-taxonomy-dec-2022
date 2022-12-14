@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7821",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric California Encephalitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

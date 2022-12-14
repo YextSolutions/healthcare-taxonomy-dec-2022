@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3988",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Correction",
+    "taxonomy_synonyms": [
+      "Labiaplasty"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

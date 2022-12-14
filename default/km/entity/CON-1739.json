@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1739",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Restrictive Cardiomyopathy",
+    "taxonomy_synonyms": [
+      "Idiopathic Restrictive Cardiomyopathy",
+      "RCM"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

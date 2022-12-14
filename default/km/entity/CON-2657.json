@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2657",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Occupational Illness",
+    "taxonomy_synonyms": [
+      "Acute Occupational Illness Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

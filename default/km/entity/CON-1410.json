@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1410",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Allergic Rhinoconjunctivitis",
+    "taxonomy_synonyms": [
+      "Rhinitis",
+      "Hay Fever",
+      "Sinusitis",
+      "Sensitive Nose"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

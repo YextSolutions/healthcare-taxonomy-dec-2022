@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3628",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Disorders of Copper Metabolism"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

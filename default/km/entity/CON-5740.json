@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5740",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Full Thickness Corneal Transplant",
+    "taxonomy_synonyms": [
+      "Penetrating Keratoplasty"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

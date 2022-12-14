@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13263",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abscess Drainage",
+    "taxonomy_synonyms": [
+      "Drainage of Abscess"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

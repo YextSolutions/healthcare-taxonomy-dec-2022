@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fear of School"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4934",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cognitive Or Memory Impairment"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

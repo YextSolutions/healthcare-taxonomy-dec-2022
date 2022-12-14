@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15434",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Microscopic Testicular Sperm Extraction",
+    "taxonomy_synonyms": [
+      "Sperm Extraction",
+      "microTESE"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

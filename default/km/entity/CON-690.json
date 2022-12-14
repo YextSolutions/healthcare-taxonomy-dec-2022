@@ -1,0 +1,14 @@
+{
+  "$id": "CON-690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastrointestinal Fistula",
+    "taxonomy_synonyms": [
+      "GI Fistula",
+      "Small Bowel Internal Fistula"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

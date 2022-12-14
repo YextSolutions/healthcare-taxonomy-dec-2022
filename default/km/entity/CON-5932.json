@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Visual Testing for Learning Disability"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

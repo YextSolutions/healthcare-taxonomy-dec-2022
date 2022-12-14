@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Inflammation of the Brain",
+    "taxonomy_synonyms": [
+      "Encephalitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

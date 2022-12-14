@@ -1,0 +1,17 @@
+{
+  "$id": "CON-5249",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cavernous Hemangiomas",
+    "taxonomy_synonyms": [
+      "CCM",
+      "Cerebral Cavernous Malformation",
+      "Cavernous Angioma",
+      "Cav-Mal",
+      "Cavernoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

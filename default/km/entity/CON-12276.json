@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bile Duct Excision",
+    "taxonomy_synonyms": [
+      "Biliary Duct Excision"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

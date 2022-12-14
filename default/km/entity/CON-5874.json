@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5874",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retinal Tumor",
+    "taxonomy_synonyms": [
+      "RB",
+      "Retinoblastoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "SUBSPEC-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Breast Cancer",
+    "taxonomy_relatedConditions": [
+      "CON-12298",
+      "CON-12378",
+      "CON-12503"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

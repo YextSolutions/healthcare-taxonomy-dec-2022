@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15189",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stereotactic Body Radiation Therapy",
+    "taxonomy_synonyms": [
+      "SBRT",
+      "Stereotactic Body Radiotherapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

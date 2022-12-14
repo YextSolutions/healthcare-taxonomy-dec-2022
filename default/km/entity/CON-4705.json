@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4705",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Renal Dysplasia",
+    "taxonomy_synonyms": [
+      "Congenital Kidney Dysplasia",
+      "Kidney Dysplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

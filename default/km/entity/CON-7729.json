@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7729",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Chronic Myeloid Leukemia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

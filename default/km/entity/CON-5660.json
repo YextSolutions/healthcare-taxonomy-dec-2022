@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "CPE",
+    "taxonomy_synonyms": [
+      "Chronic Postoperative Endophthalmitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

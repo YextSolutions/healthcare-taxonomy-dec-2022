@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14445",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cervical Facet Joint Injection",
+    "taxonomy_synonyms": [
+      "Facet Joint Injection"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

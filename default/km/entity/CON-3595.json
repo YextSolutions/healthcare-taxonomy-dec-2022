@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chest Wall Anomalies"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

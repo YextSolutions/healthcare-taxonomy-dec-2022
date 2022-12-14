@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11855",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Trichotillomania",
+    "taxonomy_synonyms": [
+      "Hair Pulling Disorder",
+      "TTM"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

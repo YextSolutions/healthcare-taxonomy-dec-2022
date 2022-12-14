@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3754",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypotonia",
+    "taxonomy_synonyms": [
+      "Weak Muscle Tone"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

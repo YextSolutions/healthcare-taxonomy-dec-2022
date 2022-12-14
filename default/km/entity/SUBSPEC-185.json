@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Liver Transplant Anesthesia"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

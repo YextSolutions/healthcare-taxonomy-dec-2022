@@ -1,0 +1,16 @@
+{
+  "$id": "CON-1947",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Actinic Lentigines",
+    "taxonomy_synonyms": [
+      "Liver Spots",
+      "Age Spots",
+      "Solar Lentigo",
+      "Brown Spot"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

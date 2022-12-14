@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dupuytren\u0027s Contractures",
+    "taxonomy_synonyms": [
+      "Palmar Fibromatosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

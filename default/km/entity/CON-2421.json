@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetic Ketoacidosis",
+    "taxonomy_synonyms": [
+      "DKA",
+      "Diabetic Acidosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

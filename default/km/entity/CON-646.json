@@ -1,0 +1,14 @@
+{
+  "$id": "CON-646",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Esophageal Motility Disorder",
+    "taxonomy_synonyms": [
+      "EMD",
+      "Spastic Disorders of the Esophagus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

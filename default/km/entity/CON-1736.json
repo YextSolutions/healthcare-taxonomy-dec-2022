@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1736",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pulmonary Valve Insufficiency",
+    "taxonomy_synonyms": [
+      "Pulmonary Valve Regurgitation",
+      "Leaky Pulmonary Valve",
+      "Pulmonic Insufficiency"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

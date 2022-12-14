@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-203",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Speech-Language Pathology",
+    "taxonomy_relatedConditions": [
+      "CON-1149"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

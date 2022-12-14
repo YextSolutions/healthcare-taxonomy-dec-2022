@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Soft Tissue Rheumatism",
+    "taxonomy_synonyms": [
+      "Joint Pain",
+      "Joint Swelling",
+      "Joint Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

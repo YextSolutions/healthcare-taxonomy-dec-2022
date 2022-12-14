@@ -1,0 +1,14 @@
+{
+  "$id": "CON-10359",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Obstruction of Ureteropelvic Junction",
+    "taxonomy_synonyms": [
+      "Congenital Ureteropelvic Junction Obstruction",
+      "Ureteropelvic Junction Obstruction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

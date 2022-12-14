@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal ANA Testing",
+    "taxonomy_synonyms": [
+      "Abnormal ANA Testing",
+      "Abnormal Antinuclear Antibody Test",
+      "Abnormal ANA Test Results"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

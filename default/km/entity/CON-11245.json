@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11245",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Black Eye",
+    "taxonomy_synonyms": [
+      "Child with Black Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

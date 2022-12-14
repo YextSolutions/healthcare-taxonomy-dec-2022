@@ -1,0 +1,10 @@
+{
+  "$id": "CON-10600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Calcaneal Apophysitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

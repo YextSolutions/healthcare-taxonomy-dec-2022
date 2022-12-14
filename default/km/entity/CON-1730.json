@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postural Orthostatic Tachycardia Syndrome",
+    "taxonomy_synonyms": [
+      "POTS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

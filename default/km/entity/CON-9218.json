@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9218",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ankle Instability",
+    "taxonomy_synonyms": [
+      "Ankle Instability in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

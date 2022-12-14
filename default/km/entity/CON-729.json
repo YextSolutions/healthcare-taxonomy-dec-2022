@@ -1,0 +1,13 @@
+{
+  "$id": "CON-729",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hepatitis E",
+    "taxonomy_synonyms": [
+      "Hep E"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

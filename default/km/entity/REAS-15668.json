@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15668",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urgent Care Follow Up"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

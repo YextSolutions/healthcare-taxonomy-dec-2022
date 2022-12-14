@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Selective IgA Deficiency",
+    "taxonomy_synonyms": [
+      "Lack of Immunoglobulin A"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

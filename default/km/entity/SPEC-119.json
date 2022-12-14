@@ -1,0 +1,23 @@
+{
+  "$id": "SPEC-119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Neurodevelopmental Disabilities",
+    "taxonomy_relatedConditions": [
+      "CON-366",
+      "CON-1061",
+      "CON-1062",
+      "CON-3618",
+      "CON-3620",
+      "CON-3622",
+      "CON-3626",
+      "CON-3627"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14837"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

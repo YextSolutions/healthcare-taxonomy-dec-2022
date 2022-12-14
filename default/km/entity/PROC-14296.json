@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14296",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Orthodontist Procedures",
+    "taxonomy_synonyms": [
+      "Orthodontic Procedures"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

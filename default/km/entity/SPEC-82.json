@@ -1,0 +1,10 @@
+{
+  "$id": "SPEC-82",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Surgical Oncology"
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

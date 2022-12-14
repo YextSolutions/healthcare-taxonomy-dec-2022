@@ -1,0 +1,17 @@
+{
+  "$id": "CON-3432",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tear duct disorders",
+    "taxonomy_synonyms": [
+      "Blocked Tear Duct",
+      "DacryoCystitis",
+      "Tear Duct Infection",
+      "Nasolacrimal Duct Obstruction",
+      "Itchy Corner of Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

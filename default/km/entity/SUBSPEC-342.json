@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-342",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neurodevelopmental Disabilities"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5602",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blindness",
+    "taxonomy_synonyms": [
+      "Blindness and Low Vision",
+      "Low Vision"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

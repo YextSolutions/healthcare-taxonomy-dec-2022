@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6658",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypersalivation",
+    "taxonomy_synonyms": [
+      "Increased Salivation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

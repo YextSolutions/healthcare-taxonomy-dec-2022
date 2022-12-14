@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Meningitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

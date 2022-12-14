@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3701",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cartilage Hair Hypoplasia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

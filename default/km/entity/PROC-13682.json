@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13682",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Open Heart Valvuloplasty of Mitral Valve Without Replacement with Robotic Assistance"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

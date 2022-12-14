@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5585",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anterior Uveitis",
+    "taxonomy_synonyms": [
+      "Anterior Inflammation of the Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

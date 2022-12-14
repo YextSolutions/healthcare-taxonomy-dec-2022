@@ -1,0 +1,14 @@
+{
+  "$id": "CON-7064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Andersen-Tawil Syndrome",
+    "taxonomy_synonyms": [
+      "Child with Andersen-Tawil Syndrome",
+      "Child with Long QT Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vascular Disease of the Spine"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

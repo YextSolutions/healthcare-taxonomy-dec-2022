@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cracked Skin on Feet"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

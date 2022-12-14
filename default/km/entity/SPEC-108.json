@@ -1,0 +1,23 @@
+{
+  "$id": "SPEC-108",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Occupational Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-5505",
+      "CON-5506",
+      "CON-5507",
+      "CON-5508",
+      "CON-5509"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15824"
+    ],
+    "taxonomy_synonyms": [
+      "Occupational Medicine"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

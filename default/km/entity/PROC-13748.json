@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13748",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Kidney Chain",
+    "taxonomy_synonyms": [
+      "Kidney Donor Chain"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-1500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood Patch",
+    "taxonomy_synonyms": [
+      "Epidural Blood Patch",
+      "EBP"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

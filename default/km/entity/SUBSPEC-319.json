@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Musculoskeletal Radiology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

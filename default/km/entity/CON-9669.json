@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9669",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Sinusitis",
+    "taxonomy_synonyms": [
+      "Child with Sinusitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

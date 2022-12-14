@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5503",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Intraepithelial Neoplasia",
+    "taxonomy_synonyms": [
+      "Vaginal Dysplasia",
+      "VAIN"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

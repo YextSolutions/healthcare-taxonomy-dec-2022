@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1187",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Emotional Eating",
+    "taxonomy_synonyms": [
+      "Eating Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

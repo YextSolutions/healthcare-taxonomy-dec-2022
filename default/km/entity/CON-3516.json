@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3516",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wheat Allergy",
+    "taxonomy_synonyms": [
+      "Gluten Intolerance",
+      "Celiac Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Kidney Transplant",
+    "taxonomy_synonyms": [
+      "Kidney Transplant in Children"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

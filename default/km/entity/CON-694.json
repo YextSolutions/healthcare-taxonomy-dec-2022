@@ -1,0 +1,14 @@
+{
+  "$id": "CON-694",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastrointestinal Motility Disorders",
+    "taxonomy_synonyms": [
+      "GI Motility Disorders",
+      "Motility Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

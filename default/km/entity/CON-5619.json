@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5619",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chorioretinal Scars"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

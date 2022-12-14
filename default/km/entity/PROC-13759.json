@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13759",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Biophysical Profile Test",
+    "taxonomy_synonyms": [
+      "BPP Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

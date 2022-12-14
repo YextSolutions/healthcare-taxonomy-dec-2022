@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12986",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dental Pain Follow Up"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

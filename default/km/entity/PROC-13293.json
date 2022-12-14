@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13293",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Geriatric Assessment",
+    "taxonomy_synonyms": [
+      "Elder Assessment"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

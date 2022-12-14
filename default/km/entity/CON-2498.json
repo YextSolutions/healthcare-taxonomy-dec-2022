@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2498",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Juvenile Diabetes"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

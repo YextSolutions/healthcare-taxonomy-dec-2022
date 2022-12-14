@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3382",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stomach Pain",
+    "taxonomy_synonyms": [
+      "Abdominal Pain",
+      "Recurrent Abdominal Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

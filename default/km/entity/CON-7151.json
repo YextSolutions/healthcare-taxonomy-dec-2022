@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Blunt Abdominal Trauma",
+    "taxonomy_synonyms": [
+      "Blunt Abdominal Trauma on Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

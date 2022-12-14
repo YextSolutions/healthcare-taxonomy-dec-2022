@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Weak or Brittle Nails",
+    "taxonomy_synonyms": [
+      "Weak Nails",
+      "Brittle Nails"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15374",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lung Transplant Follow Up",
+    "taxonomy_synonyms": [
+      "Pulmonary Transplant Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

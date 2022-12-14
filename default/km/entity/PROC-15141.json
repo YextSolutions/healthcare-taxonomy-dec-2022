@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Magnetic Resonance Spectroscopy",
+    "taxonomy_synonyms": [
+      "MRS"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

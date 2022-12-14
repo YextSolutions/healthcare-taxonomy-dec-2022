@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1474",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuroleptic Malignant Syndrome",
+    "taxonomy_synonyms": [
+      "NMS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

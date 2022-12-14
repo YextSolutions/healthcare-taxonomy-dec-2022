@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5090",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neurological Complications of AIDS",
+    "taxonomy_synonyms": [
+      "NeUrological Complications of HIV",
+      "NeUrological Complications of HIV AIDS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

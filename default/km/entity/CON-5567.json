@@ -1,0 +1,16 @@
+{
+  "$id": "CON-5567",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adult Strabismus",
+    "taxonomy_synonyms": [
+      "Eye Misalignment",
+      "Adult with Crossed-Eyes",
+      "Adult with Misaligned Eyes",
+      "Adult with Wall-Eyes"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

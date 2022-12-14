@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cerebral Venous Sinus Thrombosis",
+    "taxonomy_synonyms": [
+      "Pediatric Cerebral Venous Thrombosis",
+      "Cerebral Venous Sinus Thrombosis in Child",
+      "Pediatric Cerebral Venous Sinus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

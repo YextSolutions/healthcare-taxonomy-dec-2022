@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Bacterial Endocarditis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

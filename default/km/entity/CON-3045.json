@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Li-Fraumeni Syndrome",
+    "taxonomy_synonyms": [
+      "LFS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

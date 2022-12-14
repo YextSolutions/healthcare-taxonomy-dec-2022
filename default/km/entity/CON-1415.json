@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1415",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Allergy-Induced Cough",
+    "taxonomy_synonyms": [
+      "Allergic Cough"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

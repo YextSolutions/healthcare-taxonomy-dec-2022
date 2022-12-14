@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8298",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Brain Hemorrhage",
+    "taxonomy_synonyms": [
+      "Brain Hemorrhage in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

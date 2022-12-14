@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4929",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cluster Headache"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

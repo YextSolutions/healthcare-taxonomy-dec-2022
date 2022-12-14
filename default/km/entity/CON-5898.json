@@ -1,0 +1,16 @@
+{
+  "$id": "CON-5898",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Snow Blindness",
+    "taxonomy_synonyms": [
+      "Arc Eye",
+      "Photokeratitis",
+      "Ultraviolet Keratitis",
+      "UV Keratitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

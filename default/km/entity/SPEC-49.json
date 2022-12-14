@@ -1,0 +1,36 @@
+{
+  "$id": "SPEC-49",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nutrition",
+    "taxonomy_relatedConditions": [
+      "CON-5299",
+      "CON-5300",
+      "CON-5303",
+      "CON-5304",
+      "CON-5305",
+      "CON-5306",
+      "CON-5310",
+      "CON-5314",
+      "CON-5315"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13991",
+      "PROC-13992",
+      "PROC-13993"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15812",
+      "REAS-15813",
+      "REAS-15814",
+      "REAS-15815",
+      "REAS-15816"
+    ],
+    "taxonomy_synonyms": [
+      "Licensed Dietitian Nutritionist"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

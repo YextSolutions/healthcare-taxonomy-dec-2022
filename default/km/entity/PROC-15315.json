@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15315",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Advanced Laparoscopic Surgery",
+    "taxonomy_synonyms": [
+      "Advanced Laparoscopy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

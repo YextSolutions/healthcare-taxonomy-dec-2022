@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6258",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fibrocystic Breast Disease",
+    "taxonomy_synonyms": [
+      "Fibrocystic Changes"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

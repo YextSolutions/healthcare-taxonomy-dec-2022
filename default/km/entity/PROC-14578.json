@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14578",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Magnetic Resonance Angiogram of the Legs",
+    "taxonomy_synonyms": [
+      "Leg MRA"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric common musculoskeletal disorders",
+    "taxonomy_synonyms": [
+      "Child with Common Musculoskeletal Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2336",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "SIDS",
+    "taxonomy_synonyms": [
+      "Crib Death"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

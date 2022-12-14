@@ -1,0 +1,17 @@
+{
+  "$id": "CON-11291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric CMV",
+    "taxonomy_synonyms": [
+      "Child with CMV",
+      "Child with Cytomegalovirus",
+      "Pediatric Cytomegalovirus",
+      "Pediatric CMV Infection",
+      "Child with CMV Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

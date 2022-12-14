@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13601",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Glycosylated Hemoglobin Test",
+    "taxonomy_synonyms": [
+      "A1c Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

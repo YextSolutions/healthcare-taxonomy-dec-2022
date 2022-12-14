@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11860",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Collapsed Lung",
+    "taxonomy_synonyms": [
+      "Atelectasis",
+      "Pneumothorax"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

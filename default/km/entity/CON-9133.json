@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cervical Deformity"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

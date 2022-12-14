@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intrauterine Device Removal",
+    "taxonomy_synonyms": [
+      "IUD Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

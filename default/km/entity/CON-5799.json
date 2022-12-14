@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5799",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Monofixation Syndrome",
+    "taxonomy_synonyms": [
+      "MFS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

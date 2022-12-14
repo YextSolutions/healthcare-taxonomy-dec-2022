@@ -1,0 +1,16 @@
+{
+  "$id": "CON-5962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Underbite",
+    "taxonomy_synonyms": [
+      "Class III Malocclusion",
+      "Prognathism",
+      "Lower Teeth in Front of Upper Teeth",
+      "Teeth Misaligned\tTeeth Not Lined Up"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6468",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Post-Operative Mobility of the Hand and Fingers"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "CON-12015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Reflex Neurovascular Dystrophy",
+    "taxonomy_synonyms": [
+      "Complex Regional Pain Syndrome",
+      "RSD",
+      "Reflex Sympathetic Dystrophy Syndrome",
+      "Complex Reflex Sympathethic Dystrophy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

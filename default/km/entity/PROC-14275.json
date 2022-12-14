@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Root Planing and Scaling"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

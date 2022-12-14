@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3445",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "thinning of hair"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

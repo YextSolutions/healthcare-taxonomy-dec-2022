@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-14488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Allergy Shots for Children",
+    "taxonomy_synonyms": [
+      "Allergy Shots for Child",
+      "Allergy Shots for Kids",
+      "Pediatric Allergy Shots"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

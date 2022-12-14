@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ductal Carcinoma in Situ",
+    "taxonomy_synonyms": [
+      "DCIS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

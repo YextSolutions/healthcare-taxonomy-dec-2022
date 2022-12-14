@@ -1,0 +1,15 @@
+{
+  "$id": "CON-7071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Atrioventricular Septal Defect",
+    "taxonomy_synonyms": [
+      "Child with Atrioventricular Septal Defect",
+      "Pediatric AVSD",
+      "Child with AVSD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

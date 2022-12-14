@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retroperitoneal Sarcoma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Restless Legs Syndrome",
+    "taxonomy_synonyms": [
+      "RLS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13209",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vestibule and Floor of Mouth Destruction"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

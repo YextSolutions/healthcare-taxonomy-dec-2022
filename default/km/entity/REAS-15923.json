@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15923",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "15 Month Well-Baby Checkup"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

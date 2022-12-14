@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sturge-Weber Syndrome",
+    "taxonomy_synonyms": [
+      "SWS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

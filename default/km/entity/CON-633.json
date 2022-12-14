@@ -1,0 +1,13 @@
+{
+  "$id": "CON-633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Enterocutaenous Fistula",
+    "taxonomy_synonyms": [
+      "ECF"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

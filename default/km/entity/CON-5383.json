@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5383",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hydrosalpinx",
+    "taxonomy_synonyms": [
+      "Fallopian Tube Blockage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

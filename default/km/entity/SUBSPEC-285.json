@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-285",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neurophysiology"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

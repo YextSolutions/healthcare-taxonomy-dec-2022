@@ -1,0 +1,10 @@
+{
+  "$id": "CON-525",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anal Disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

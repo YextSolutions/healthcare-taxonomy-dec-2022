@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4490",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Carcinoma in situ",
+    "taxonomy_synonyms": [
+      "CIS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

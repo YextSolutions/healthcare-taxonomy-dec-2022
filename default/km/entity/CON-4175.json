@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4175",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Acute Lymphoblastic Lymphoma",
+    "taxonomy_synonyms": [
+      "Child with Acute Lymphoblastic Lymphoma",
+      "Child with Non-Hodgkin Lymphoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

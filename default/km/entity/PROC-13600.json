@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Clot Dissolving"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

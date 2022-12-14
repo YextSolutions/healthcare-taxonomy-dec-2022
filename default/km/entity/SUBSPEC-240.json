@@ -1,0 +1,18 @@
+{
+  "$id": "SUBSPEC-240",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spine Orthopaedics",
+    "taxonomy_relatedConditions": [
+      "CON-937",
+      "CON-1150",
+      "CON-6916"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12605"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

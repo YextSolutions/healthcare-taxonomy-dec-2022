@@ -1,0 +1,10 @@
+{
+  "$id": "CON-203",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ascending Aortic Aneurysm"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

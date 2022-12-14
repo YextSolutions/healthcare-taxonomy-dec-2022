@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11572",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Achilles Tendinopathy",
+    "taxonomy_synonyms": [
+      "Achilles Tendinitis",
+      "Tendinitis of the Heel"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

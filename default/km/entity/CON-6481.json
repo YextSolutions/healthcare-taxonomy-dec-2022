@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6481",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Recurrent Subluxation Of Shoulder",
+    "taxonomy_synonyms": [
+      "Shoulder Instability",
+      "Recurrent Anterior Shoulder Instability"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

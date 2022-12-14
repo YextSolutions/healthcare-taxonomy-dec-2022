@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Derma Filler Injection",
+    "taxonomy_synonyms": [
+      "Filler Injection"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

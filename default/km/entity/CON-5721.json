@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5721",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eyeball Contusion",
+    "taxonomy_synonyms": [
+      "Eye Bruise",
+      "Black Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

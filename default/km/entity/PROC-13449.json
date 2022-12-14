@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Robotic Surgery for Gynecologic Cancers and Benign Gynecology"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

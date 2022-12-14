@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3143",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric earwax blockage",
+    "taxonomy_synonyms": [
+      "Child with Earwax Blockage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

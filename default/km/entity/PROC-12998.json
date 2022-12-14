@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12998",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Inlay"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

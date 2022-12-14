@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Urology Problem",
+    "taxonomy_synonyms": [
+      "Child with Urology Problem"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

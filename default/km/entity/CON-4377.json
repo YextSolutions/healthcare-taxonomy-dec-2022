@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4377",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "PCP",
+    "taxonomy_synonyms": [
+      "Primary Care Provider",
+      "Family Practice Doctor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

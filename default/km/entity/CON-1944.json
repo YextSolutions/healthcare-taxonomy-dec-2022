@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acne Vulgaris",
+    "taxonomy_synonyms": [
+      "Pimples",
+      "Acne"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

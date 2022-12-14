@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7459",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric GI doc",
+    "taxonomy_synonyms": [
+      "Pediatric Gastrointestinal Doctor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

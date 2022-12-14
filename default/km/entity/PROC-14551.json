@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14551",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Esophagogram",
+    "taxonomy_synonyms": [
+      "Barium Swallow"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

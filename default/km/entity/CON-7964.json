@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Congenital Medullary Cystic Kidney"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

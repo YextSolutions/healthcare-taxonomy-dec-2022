@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Occupational Illness"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

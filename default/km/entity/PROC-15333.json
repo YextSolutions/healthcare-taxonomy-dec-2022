@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15333",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transbronchial Needle Aspiration",
+    "taxonomy_synonyms": [
+      "TBNA"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lumbar Sprain",
+    "taxonomy_synonyms": [
+      "Lumbar Strain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

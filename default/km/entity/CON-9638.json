@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9638",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cricopharyngeal Muscle Dysfunction",
+    "taxonomy_synonyms": [
+      "Child with Cricopharyngeal Muscle Dysfunction"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

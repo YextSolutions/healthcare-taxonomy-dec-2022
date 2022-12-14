@@ -1,0 +1,18 @@
+{
+  "$id": "CON-1145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acoustic Neuroma",
+    "taxonomy_synonyms": [
+      "Vestibular Schwannoma",
+      "Acoustic Tumor",
+      "Tumor Affecting Hearing",
+      "Benign Brain Tumor",
+      "Meningioma Affecting Hearing",
+      "Astrocytoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

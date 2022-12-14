@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vitrectomy Follow Up",
+    "taxonomy_synonyms": [
+      "Vitreous Surgery Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

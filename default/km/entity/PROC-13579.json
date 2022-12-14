@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13579",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tubal Ligation",
+    "taxonomy_synonyms": [
+      "Tubes Tied"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

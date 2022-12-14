@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Deep Partial Thickness Burn",
+    "taxonomy_synonyms": [
+      "Second Degree Burn"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

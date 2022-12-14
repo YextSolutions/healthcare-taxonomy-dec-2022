@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6739",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "MPS",
+    "taxonomy_synonyms": [
+      "Myofascial Pain Syndrome",
+      "Chronic Myofascial Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

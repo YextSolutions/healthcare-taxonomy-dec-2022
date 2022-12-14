@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vaginal Closure",
+    "taxonomy_synonyms": [
+      "Vaginal Obliteration"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

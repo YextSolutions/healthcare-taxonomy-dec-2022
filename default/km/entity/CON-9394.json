@@ -1,0 +1,15 @@
+{
+  "$id": "CON-9394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric ACL Tear",
+    "taxonomy_synonyms": [
+      "Child with ACL Tear",
+      "Anterior Cruciate Ligament Tear in Child",
+      "Child with Torn ACL"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

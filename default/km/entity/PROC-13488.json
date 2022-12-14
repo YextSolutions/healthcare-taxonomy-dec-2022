@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abdominal Myomectomy",
+    "taxonomy_synonyms": [
+      "Open Myomectomy",
+      "Fibroidectomy",
+      "Laparascopic Myomectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

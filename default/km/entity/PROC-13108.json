@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13108",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Phototherapy for Skin Conditions",
+    "taxonomy_synonyms": [
+      "Light Therapy for Skin Conditions"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

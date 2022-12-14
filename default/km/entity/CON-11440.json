@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11440",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Persistent Wheezing In Infants"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

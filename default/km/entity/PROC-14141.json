@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cornea Surgery",
+    "taxonomy_synonyms": [
+      "Corneal Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

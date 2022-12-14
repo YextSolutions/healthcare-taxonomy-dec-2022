@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4815",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Oculomotor Nerve Paralysis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

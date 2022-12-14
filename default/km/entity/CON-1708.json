@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1708",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Left Ventricular Hypertrophy",
+    "taxonomy_synonyms": [
+      "LVH"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

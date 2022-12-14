@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13223",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "2-Hour Postprandial Blood Glucose Test"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

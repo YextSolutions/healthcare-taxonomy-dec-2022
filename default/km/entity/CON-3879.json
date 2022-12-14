@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3879",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endometrial Hyperplasia",
+    "taxonomy_synonyms": [
+      "Thick Endometrium"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

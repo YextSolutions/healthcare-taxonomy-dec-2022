@@ -1,0 +1,15 @@
+{
+  "$id": "CON-414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bed Sores",
+    "taxonomy_synonyms": [
+      "Pressure Injuries",
+      "Pressure Ulcer",
+      "Pressure Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

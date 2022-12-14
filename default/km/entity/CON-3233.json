@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3233",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Roseola",
+    "taxonomy_synonyms": [
+      "Sixth Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

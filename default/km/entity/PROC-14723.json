@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14723",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Arthroscopic Surgery",
+    "taxonomy_synonyms": [
+      "Arthroscopic Surgery on Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-22077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Puva Phototherapy",
+    "taxonomy_synonyms": [
+      "Photochemotherapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

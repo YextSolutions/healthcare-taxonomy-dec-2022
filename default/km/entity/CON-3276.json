@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Selective IgM Deficiency",
+    "taxonomy_synonyms": [
+      "Lack of Immunoglobulin M"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Lymphedema",
+    "taxonomy_synonyms": [
+      "Lymphedema in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3312",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sinusitis Acute",
+    "taxonomy_synonyms": [
+      "Acute Rhinosinusitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tailbone Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

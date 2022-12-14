@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8288",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ataxia Telangiectasia",
+    "taxonomy_synonyms": [
+      "Ataxia Telangiectasia in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

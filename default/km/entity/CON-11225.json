@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Arm Problems",
+    "taxonomy_synonyms": [
+      "Arm Problems in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "PROC-13018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Caldwell-Luc Operation",
+    "taxonomy_synonyms": [
+      "CWS",
+      "Caldwell-Luc Surgery",
+      "Caldwell-Luc Antrostomy",
+      "Radical Antrostomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

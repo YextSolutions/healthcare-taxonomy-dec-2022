@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-16039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Herniated Cervical Disc Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

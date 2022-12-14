@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5840",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pigment Dispersion Syndrome",
+    "taxonomy_synonyms": [
+      "PDS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

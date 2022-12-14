@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11304",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cough",
+    "taxonomy_synonyms": [
+      "Cough in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

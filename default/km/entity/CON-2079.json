@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pseudofolliculitis Barbae",
+    "taxonomy_synonyms": [
+      "Razor Bumps"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

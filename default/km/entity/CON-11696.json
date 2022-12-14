@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11696",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Depersonalization Disorder",
+    "taxonomy_synonyms": [
+      "Derealization Identity Disoder",
+      "Depersonalization Identity Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

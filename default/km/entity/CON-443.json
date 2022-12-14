@@ -1,0 +1,13 @@
+{
+  "$id": "CON-443",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lesion",
+    "taxonomy_synonyms": [
+      "Skin Lesion"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

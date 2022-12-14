@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10218",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bilevel positive airway pressure titration",
+    "taxonomy_synonyms": [
+      "Child with Bilevel Positive Airway Pressure Titration"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ophthalmic Plastic and Reconstructive Surgery",
+    "taxonomy_relatedProcedures": [
+      "PROC-12668"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

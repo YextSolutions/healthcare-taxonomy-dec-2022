@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Post-Infectious Upper Airway Cough Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

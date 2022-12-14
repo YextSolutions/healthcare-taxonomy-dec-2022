@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hair Transplant"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

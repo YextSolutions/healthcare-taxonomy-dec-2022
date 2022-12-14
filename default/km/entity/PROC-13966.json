@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13966",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stapedectomy",
+    "taxonomy_synonyms": [
+      "Removal of the Stapes"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

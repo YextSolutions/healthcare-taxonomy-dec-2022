@@ -1,0 +1,13 @@
+{
+  "$id": "SUBSPEC-183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Critical Care Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-3737"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

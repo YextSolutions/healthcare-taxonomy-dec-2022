@@ -1,0 +1,47 @@
+{
+  "$id": "SPEC-88",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Urology and Urologic Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-10322",
+      "CON-10359",
+      "CON-10363",
+      "CON-10368",
+      "CON-10370",
+      "CON-10371",
+      "CON-10375",
+      "CON-10376",
+      "CON-10390",
+      "CON-10391",
+      "CON-10392",
+      "CON-10393",
+      "CON-10394",
+      "CON-10395",
+      "CON-10397",
+      "CON-10398",
+      "CON-10399",
+      "CON-10400",
+      "CON-10401",
+      "CON-10402",
+      "CON-10403",
+      "CON-10404",
+      "CON-10405",
+      "CON-10406",
+      "CON-10457"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14815",
+      "PROC-14816",
+      "PROC-14820",
+      "PROC-14821",
+      "PROC-14822"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric urologist"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

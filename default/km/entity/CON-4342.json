@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4342",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tropical Diseases",
+    "taxonomy_synonyms": [
+      "Tropical Infections"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

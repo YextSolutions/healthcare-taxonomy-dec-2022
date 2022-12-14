@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5634",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Conical Cornea",
+    "taxonomy_synonyms": [
+      "Keratoconus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

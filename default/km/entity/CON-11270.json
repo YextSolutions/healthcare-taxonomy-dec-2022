@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric CAP Bacterial Pneumonia",
+    "taxonomy_synonyms": [
+      "Child with CAP Bacterial Pneumonia",
+      "Pedatric Community Acquired Bacterial Pneumonia",
+      "Child with Community Acquired Bacterial Pneumonia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

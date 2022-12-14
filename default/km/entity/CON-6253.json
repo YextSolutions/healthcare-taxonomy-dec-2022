@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6253",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Failed Back Surgery Syndrome",
+    "taxonomy_synonyms": [
+      "FBSS",
+      "Failed Back Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

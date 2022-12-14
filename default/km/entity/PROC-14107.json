@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14107",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Repair of Coronary Artery Anomalies, Cardiac Anomalies, or Septal Defects"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

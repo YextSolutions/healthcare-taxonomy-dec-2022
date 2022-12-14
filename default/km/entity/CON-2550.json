@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2550",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Postauricular Lymphadenopathy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

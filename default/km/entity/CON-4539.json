@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4539",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nerve Sheath Tumors",
+    "taxonomy_synonyms": [
+      "Nerve Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

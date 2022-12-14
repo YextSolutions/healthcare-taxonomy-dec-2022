@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Emesis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

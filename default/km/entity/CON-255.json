@@ -1,0 +1,10 @@
+{
+  "$id": "CON-255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Inhalant Use"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

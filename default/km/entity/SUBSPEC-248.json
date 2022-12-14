@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Incontinence"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

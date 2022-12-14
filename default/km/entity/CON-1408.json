@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1408",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Allergic Rhinitis",
+    "taxonomy_synonyms": [
+      "Hay Fever",
+      "Seasonal Allergies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

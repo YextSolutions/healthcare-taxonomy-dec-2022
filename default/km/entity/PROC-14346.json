@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-14346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tommy John Surgery",
+    "taxonomy_synonyms": [
+      "Revision Labral Repair",
+      "Ulnar Collateral Ligament",
+      "UCL"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

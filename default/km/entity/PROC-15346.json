@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-15346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lung Volume Reduction Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

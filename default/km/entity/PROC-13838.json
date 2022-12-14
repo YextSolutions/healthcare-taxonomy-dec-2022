@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Autism Spectrum Disorder Screening"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10262",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Sports Injury",
+    "taxonomy_synonyms": [
+      "Child with Sports Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

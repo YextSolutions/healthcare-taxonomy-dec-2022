@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mobility Disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

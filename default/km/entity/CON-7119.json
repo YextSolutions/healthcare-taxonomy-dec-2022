@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Lead Extractions"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-846",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Irritable Bowel Syndrome",
+    "taxonomy_synonyms": [
+      "IBS",
+      "Spastic Colon"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

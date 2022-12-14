@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12487",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Balance Problems After Stroke"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

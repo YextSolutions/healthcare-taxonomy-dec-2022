@@ -1,0 +1,17 @@
+{
+  "$id": "CON-5277",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Unstable Spine",
+    "taxonomy_synonyms": [
+      "Spinal Column Damage",
+      "Spinal Instability",
+      "Spinal Stenosis",
+      "Narrowing of Spine",
+      "Lumbar Instability"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

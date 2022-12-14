@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7487",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Peds GI doc"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

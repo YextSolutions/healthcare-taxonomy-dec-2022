@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Epilepsy",
+    "taxonomy_synonyms": [
+      "Seizure Disorder",
+      "Seizure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

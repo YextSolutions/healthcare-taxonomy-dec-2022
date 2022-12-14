@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Petit mal seizure"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

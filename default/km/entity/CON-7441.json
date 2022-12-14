@@ -1,0 +1,15 @@
+{
+  "$id": "CON-7441",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Chronic Anal Fissure",
+    "taxonomy_synonyms": [
+      "Pediatric Chronic Anal Ulcer",
+      "Child with Chronic Anal Fissure",
+      "Child with Chronic Anal Ulcer"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

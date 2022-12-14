@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11423",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Sports Physical",
+    "taxonomy_synonyms": [
+      "Sports Physical for Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

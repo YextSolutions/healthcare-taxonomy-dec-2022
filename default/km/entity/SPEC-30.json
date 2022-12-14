@@ -1,0 +1,45 @@
+{
+  "$id": "SPEC-30",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pathology and Laboratory Medicine",
+    "taxonomy_relatedConditions": [
+      "CON-230",
+      "CON-2145",
+      "CON-2146",
+      "CON-2147",
+      "CON-6743",
+      "CON-6745",
+      "CON-6746",
+      "CON-11515",
+      "CON-12321"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14439",
+      "PROC-14479",
+      "PROC-14480",
+      "PROC-14482",
+      "PROC-14483",
+      "PROC-14484",
+      "PROC-14848"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15662",
+      "REAS-15888",
+      "REAS-15889",
+      "REAS-16024"
+    ],
+    "taxonomy_subspecialties": [
+      "SUBSPEC-258",
+      "SUBSPEC-4159",
+      "SUBSPEC-4163",
+      "SUBSPEC-334"
+    ],
+    "taxonomy_synonyms": [
+      "Peds Medical Toxicology"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

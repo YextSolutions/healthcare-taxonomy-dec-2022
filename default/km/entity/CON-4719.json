@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Glomerular Filtration Rate",
+    "taxonomy_synonyms": [
+      "GFR"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

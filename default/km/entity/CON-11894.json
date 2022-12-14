@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Difficulty In Breathing"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

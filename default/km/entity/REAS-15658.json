@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15658",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dermatology Follow Up",
+    "taxonomy_synonyms": [
+      "Derm Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

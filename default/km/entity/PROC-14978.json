@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Family Therapy",
+    "taxonomy_synonyms": [
+      "Family Psychotherapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

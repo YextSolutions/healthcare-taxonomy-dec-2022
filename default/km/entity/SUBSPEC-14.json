@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bone Marrow and Stem Cell Transplantation"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "REAS-15633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colorectal Surgery Second Opinion",
+    "taxonomy_synonyms": [
+      "Colon Surgery Second Opinion",
+      "Bowel Surgery Second Opinion",
+      "Colon and Rectal Surgery Second Opinion",
+      "Abdominal Colorectal Surgery Second Opinion"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

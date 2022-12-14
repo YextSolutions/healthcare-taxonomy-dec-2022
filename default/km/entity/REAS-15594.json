@@ -1,0 +1,15 @@
+{
+  "$id": "REAS-15594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastric Bypass Follow Up",
+    "taxonomy_synonyms": [
+      "Bariatric Surgery Follow Up",
+      "Weight Loss Surgery Follow Up",
+      "Lap Band Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

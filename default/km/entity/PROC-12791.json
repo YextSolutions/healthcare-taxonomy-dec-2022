@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Continuous Heart Monitor"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

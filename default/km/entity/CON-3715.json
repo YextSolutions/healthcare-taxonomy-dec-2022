@@ -1,0 +1,19 @@
+{
+  "$id": "CON-3715",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Refsum Disease",
+    "taxonomy_synonyms": [
+      "Disorder of Cornification 11",
+      "DOC 11",
+      "Heredopathia Atactica Polyneuritiformis",
+      "Hypertrophic Neuropathy of Refsum",
+      "Phytanic Acid Storage Disease",
+      "ARD",
+      "Adult Refsum Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

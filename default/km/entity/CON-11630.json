@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11630",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Toenail Fungus"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

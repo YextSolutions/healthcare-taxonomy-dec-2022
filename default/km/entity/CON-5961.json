@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5961",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Under Bite",
+    "taxonomy_synonyms": [
+      "Lower Teeth in Front of Upper Teeth",
+      "Underbite"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

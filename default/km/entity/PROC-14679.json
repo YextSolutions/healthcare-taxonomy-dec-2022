@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14679",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bone Marrow Transplant",
+    "taxonomy_synonyms": [
+      "Bone Marrow Transplant for Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

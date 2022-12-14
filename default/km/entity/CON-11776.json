@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Phobia",
+    "taxonomy_synonyms": [
+      "Fear"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

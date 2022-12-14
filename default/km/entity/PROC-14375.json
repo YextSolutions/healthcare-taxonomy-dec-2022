@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14375",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ankle Arthroscopy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Interstitial Cystitis",
+    "taxonomy_synonyms": [
+      "Painful Bladder Syndrome",
+      "Bladder Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

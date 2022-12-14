@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12589",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Detoxification",
+    "taxonomy_synonyms": [
+      "Detox",
+      "Drug Detox",
+      "Substance Detox"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

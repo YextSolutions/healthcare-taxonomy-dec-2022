@@ -1,0 +1,14 @@
+{
+  "$id": "REAS-12810",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mitral Regurgitation Evaluation",
+    "taxonomy_synonyms": [
+      "Mitral Insufficiency Evaluation",
+      "Mitral Valve Regurgitation Evaluation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

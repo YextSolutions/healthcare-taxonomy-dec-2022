@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hamstring Strain",
+    "taxonomy_synonyms": [
+      "Pulled Hamstring"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Complementary \u0026 Alternative Medicine"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

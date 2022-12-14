@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11586",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foot"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

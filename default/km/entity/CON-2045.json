@@ -1,0 +1,16 @@
+{
+  "$id": "CON-2045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chagas Disease",
+    "taxonomy_synonyms": [
+      "Kissing Bugs",
+      "Triatomine Bugs",
+      "Cone-Nosed Bugs",
+      "Blood Suckers"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

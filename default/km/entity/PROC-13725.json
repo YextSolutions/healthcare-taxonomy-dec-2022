@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13725",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Open Tumor Ablation for the Liver"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

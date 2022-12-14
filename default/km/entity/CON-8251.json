@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8251",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neurofibromatosis type 1",
+    "taxonomy_synonyms": [
+      "NF1"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

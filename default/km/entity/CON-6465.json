@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6465",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Possible Cervical Spine Injury Requiring Immobilization"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

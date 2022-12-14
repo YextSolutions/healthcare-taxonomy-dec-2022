@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric congenital adrenal hyperplasia",
+    "taxonomy_synonyms": [
+      "Pediatric CAH",
+      "Child with Congenital Adrenal Hyperplasia",
+      "Child with Classic Congenital Adrenal Hyperplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

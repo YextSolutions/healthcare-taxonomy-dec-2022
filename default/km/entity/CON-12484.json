@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12484",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Reactive Airway Disease",
+    "taxonomy_synonyms": [
+      "RAD",
+      "Bronchospasm"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

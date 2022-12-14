@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4328",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cryptococcosis",
+    "taxonomy_synonyms": [
+      "Child with Cryptococcosis",
+      "PEP"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

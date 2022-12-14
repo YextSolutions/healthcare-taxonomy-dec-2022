@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1665",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypervolemia",
+    "taxonomy_synonyms": [
+      "Fluid Overload"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

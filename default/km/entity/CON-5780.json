@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5780",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Leukocoria",
+    "taxonomy_synonyms": [
+      "White Pupillary Reflex"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

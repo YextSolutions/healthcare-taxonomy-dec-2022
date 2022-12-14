@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15722",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastroenterology Consultation",
+    "taxonomy_synonyms": [
+      "GI Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

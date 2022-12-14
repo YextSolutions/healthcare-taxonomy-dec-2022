@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bronchogenic Cyst",
+    "taxonomy_synonyms": [
+      "Bronchogenic Mass"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

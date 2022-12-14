@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5100",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuromuscular Disorders",
+    "taxonomy_synonyms": [
+      "Neuromuscular Diseases"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "costochondritis",
+    "taxonomy_synonyms": [
+      "Chest Wall Pain",
+      "Chest Wall Pain Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

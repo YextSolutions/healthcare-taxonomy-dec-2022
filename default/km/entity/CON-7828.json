@@ -1,0 +1,10 @@
+{
+  "$id": "CON-7828",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric ID"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4313",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lyme Disease",
+    "taxonomy_synonyms": [
+      "Borreliosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

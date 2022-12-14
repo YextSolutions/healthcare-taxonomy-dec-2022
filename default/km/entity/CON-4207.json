@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4207",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gilbert\u0027s Syndrome",
+    "taxonomy_synonyms": [
+      "GS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

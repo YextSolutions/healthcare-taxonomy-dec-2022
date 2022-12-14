@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2581",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thyroid Disease",
+    "taxonomy_synonyms": [
+      "Thyroid Disorders",
+      "Abnormal Thyroid"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

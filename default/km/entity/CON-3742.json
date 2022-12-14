@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3742",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Elder Abuse and Neglect"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15738",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bereavement",
+    "taxonomy_synonyms": [
+      "Grief Counseling"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

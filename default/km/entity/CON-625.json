@@ -1,0 +1,15 @@
+{
+  "$id": "CON-625",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "E. Coli",
+    "taxonomy_synonyms": [
+      "E Coli",
+      "Ecoli",
+      "Escherichia Coli"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

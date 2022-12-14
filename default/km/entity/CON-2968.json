@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2968",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Herpes Zoster",
+    "taxonomy_synonyms": [
+      "Shingles"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

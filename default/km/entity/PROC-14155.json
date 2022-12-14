@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Descemet Membrane Endothelial Keratoplasty",
+    "taxonomy_synonyms": [
+      "DMEK"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

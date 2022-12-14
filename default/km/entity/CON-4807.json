@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4807",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Broken Arm",
+    "taxonomy_synonyms": [
+      "Arm Fracture",
+      "Fractured Arm",
+      "Ulnar Fracture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

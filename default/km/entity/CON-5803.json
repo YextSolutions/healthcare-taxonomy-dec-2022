@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5803",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Myopic Degeneration",
+    "taxonomy_synonyms": [
+      "Degenerative Myopia",
+      "Progressive High Myopia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

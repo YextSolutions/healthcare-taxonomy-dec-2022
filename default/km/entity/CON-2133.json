@@ -1,0 +1,20 @@
+{
+  "$id": "CON-2133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ultraviolet Keratoconjunctivitis",
+    "taxonomy_synonyms": [
+      "Photokeratitis",
+      "Eye Pain",
+      "Decreased Vision Photophobia",
+      "Ultraviolet Keratitis",
+      "UV Keratitis",
+      "Snow Blindness",
+      "Arc Eye",
+      "Welder\u0027s Flash"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

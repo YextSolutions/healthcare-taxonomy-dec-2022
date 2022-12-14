@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4318",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "MRSA",
+    "taxonomy_synonyms": [
+      "MRSA Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

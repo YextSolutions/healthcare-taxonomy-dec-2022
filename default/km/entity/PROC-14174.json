@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14174",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Electroretinography",
+    "taxonomy_synonyms": [
+      "ERG"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

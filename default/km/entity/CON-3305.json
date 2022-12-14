@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Silicone Problems",
+    "taxonomy_synonyms": [
+      "Breast Implant Problems"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

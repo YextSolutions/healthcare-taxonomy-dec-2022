@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1640",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congestive Heart Failure",
+    "taxonomy_synonyms": [
+      "Heart Failure",
+      "CHF",
+      "Acute Heart Failure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

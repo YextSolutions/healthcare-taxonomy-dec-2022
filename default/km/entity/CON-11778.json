@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11778",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Phobic Disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

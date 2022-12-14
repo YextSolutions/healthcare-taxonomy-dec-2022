@@ -1,0 +1,20 @@
+{
+  "$id": "PROC-14885",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Buttock Correction",
+    "taxonomy_synonyms": [
+      "Buttock Lift",
+      "Buttock Augmentation",
+      "Butt Correction",
+      "Butt Augmentation",
+      "Butt Lift",
+      "Buttock Enhancement",
+      "Butt Enhancement",
+      "Gluteal Augmentation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

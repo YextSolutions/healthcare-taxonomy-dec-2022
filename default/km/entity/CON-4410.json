@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4410",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vein Thrombosis",
+    "taxonomy_synonyms": [
+      "Blood Clot"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dysnatremias",
+    "taxonomy_synonyms": [
+      "Hyponatremia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

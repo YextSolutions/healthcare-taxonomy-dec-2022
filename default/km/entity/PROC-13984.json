@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Parathyroid Scan"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

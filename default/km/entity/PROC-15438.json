@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15438",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Total Cystectomy with Robotic Assistance",
+    "taxonomy_synonyms": [
+      "Robotic-Assisted Radical Cystectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

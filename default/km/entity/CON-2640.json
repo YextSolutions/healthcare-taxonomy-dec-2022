@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2640",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abdominal Pain",
+    "taxonomy_synonyms": [
+      "Stomach pain",
+      "Ab Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14458",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lumbar Facet Joint Injection",
+    "taxonomy_synonyms": [
+      "Lumbar Epidural Steroid Injection",
+      "ESI"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

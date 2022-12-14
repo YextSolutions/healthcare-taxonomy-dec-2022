@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anterior Cranial Base Surgery",
+    "taxonomy_synonyms": [
+      "Anterior Skull Base Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fever",
+    "taxonomy_synonyms": [
+      "Fever of Undetermined Origin"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

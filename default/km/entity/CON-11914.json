@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Idiopathic Pulmonary Fibrosis",
+    "taxonomy_synonyms": [
+      "IPF"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

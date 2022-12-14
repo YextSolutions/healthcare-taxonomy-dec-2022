@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4620",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "GBS Neonatal Infections",
+    "taxonomy_synonyms": [
+      "Group B Streptococcal Neonatal Infections",
+      "Group B Strep Neonatal Infections"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

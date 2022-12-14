@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12440",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retractile Testis",
+    "taxonomy_synonyms": [
+      "Retractile Testicle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3755",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Impaired Gait",
+    "taxonomy_synonyms": [
+      "Abnormal Gait",
+      "Walking Abnormally"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

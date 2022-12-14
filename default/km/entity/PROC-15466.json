@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15466",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abdominal Aortic Aneurysm Surgery",
+    "taxonomy_synonyms": [
+      "AAA Surgery",
+      "Abdominal Aneurysm Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

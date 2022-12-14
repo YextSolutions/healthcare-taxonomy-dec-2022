@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13775",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Percutaneous Umbilical Blood Sampling",
+    "taxonomy_synonyms": [
+      "PUBS",
+      "Cordocentesis",
+      "Umbilical Vein Sampling"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

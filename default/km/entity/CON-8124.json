@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8124",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Child with Myopathy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

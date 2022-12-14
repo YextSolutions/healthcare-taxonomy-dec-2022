@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15246",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Insemination Procedures",
+    "taxonomy_synonyms": [
+      "Artificial Insemination",
+      "Intrauterine Insemination"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

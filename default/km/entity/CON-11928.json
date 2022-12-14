@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11928",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lung Disease",
+    "taxonomy_synonyms": [
+      "Pneumonopathy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

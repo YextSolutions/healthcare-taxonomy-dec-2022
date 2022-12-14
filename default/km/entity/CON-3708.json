@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3708",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Phenylketonuria",
+    "taxonomy_synonyms": [
+      "PKU"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

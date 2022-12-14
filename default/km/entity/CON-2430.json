@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hyperprolactinemia",
+    "taxonomy_synonyms": [
+      "High Prolactin Levels"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

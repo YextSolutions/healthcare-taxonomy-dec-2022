@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-15492",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Foot Amputation Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

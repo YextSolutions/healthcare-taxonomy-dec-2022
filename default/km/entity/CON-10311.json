@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10311",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Head and Neck Trauma",
+    "taxonomy_synonyms": [
+      "Child with Head and Neck Trauma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

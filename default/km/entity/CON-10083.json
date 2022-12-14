@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10083",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric collapsed lung",
+    "taxonomy_synonyms": [
+      "Child with Collapsed Lung"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

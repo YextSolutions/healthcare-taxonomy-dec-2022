@@ -1,0 +1,10 @@
+{
+  "$id": "CON-524",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Retropharyngeal Abscess"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

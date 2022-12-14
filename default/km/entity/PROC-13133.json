@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Spider Vein Treatment",
+    "taxonomy_synonyms": [
+      "Telangiectasis",
+      "Vericose Vein Treatment",
+      "Varicose Vein Procedure"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

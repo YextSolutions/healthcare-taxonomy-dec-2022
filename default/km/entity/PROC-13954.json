@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13954",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Adenoidectomy under Age 12",
+    "taxonomy_synonyms": [
+      "Pediatric Adenoidectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

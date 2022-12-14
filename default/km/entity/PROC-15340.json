@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15340",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chest Tube Procedures",
+    "taxonomy_synonyms": [
+      "Thoracostomy",
+      "Tube Thoracostomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13448",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Robotic Surgery",
+    "taxonomy_synonyms": [
+      "Robot Assisted Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

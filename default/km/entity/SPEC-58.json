@@ -1,0 +1,25 @@
+{
+  "$id": "SPEC-58",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Trauma, Critical Care and Emergency Surgery",
+    "taxonomy_relatedConditions": [
+      "CON-915",
+      "CON-1851",
+      "CON-1852",
+      "CON-12286",
+      "CON-12287",
+      "CON-12288",
+      "CON-12289"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12736"
+    ],
+    "taxonomy_synonyms": [
+      "Surgical Critical Care"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

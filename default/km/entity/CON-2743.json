@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2743",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "broken clavicle (collar bone), proximal humerus (Top of the upper arm bone), and scapula (shoulder blade)"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

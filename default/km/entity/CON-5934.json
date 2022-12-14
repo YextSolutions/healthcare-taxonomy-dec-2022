@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5934",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vitreo Retinal Diseases",
+    "taxonomy_synonyms": [
+      "Vitreoretinal Diseases"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

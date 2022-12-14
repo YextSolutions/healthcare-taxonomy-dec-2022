@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1461",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypersensitivity Pneumonitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

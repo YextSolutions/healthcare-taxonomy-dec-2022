@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4720",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Glomerulonephritis",
+    "taxonomy_synonyms": [
+      "GN"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

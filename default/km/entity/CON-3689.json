@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3689",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mucopolysaccharidosis Type II",
+    "taxonomy_synonyms": [
+      "Hunter Syndrome",
+      "MPS II"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

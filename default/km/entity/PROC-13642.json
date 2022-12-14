@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Swine Flu Shot",
+    "taxonomy_synonyms": [
+      "Swine Flu Vaccine",
+      "Swine Flu Vaccination"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1845",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Paroxysmal Ventricular Tachycardia",
+    "taxonomy_synonyms": [
+      "PSVT"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

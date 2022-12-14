@@ -1,0 +1,19 @@
+{
+  "$id": "SPEC-4162",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Surgical Critical Care",
+    "taxonomy_relatedConditions": [
+      "CON-12286",
+      "CON-915",
+      "CON-1851",
+      "CON-1852"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12736"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

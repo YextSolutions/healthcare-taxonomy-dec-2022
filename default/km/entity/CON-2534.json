@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Paraganglioma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

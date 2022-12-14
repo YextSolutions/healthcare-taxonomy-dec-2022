@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5788",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Macular Edema",
+    "taxonomy_synonyms": [
+      "Retinal Edema"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

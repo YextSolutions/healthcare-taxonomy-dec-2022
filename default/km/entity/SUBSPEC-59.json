@@ -1,0 +1,14 @@
+{
+  "$id": "SUBSPEC-59",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Interventional Cardiology",
+    "taxonomy_relatedProcedures": [
+      "PROC-13709",
+      "PROC-15464"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

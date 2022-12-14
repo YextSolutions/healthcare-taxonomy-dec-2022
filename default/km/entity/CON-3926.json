@@ -1,0 +1,14 @@
+{
+  "$id": "CON-3926",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Missed or Irregular Periods",
+    "taxonomy_synonyms": [
+      "Missed Period",
+      "Irregular Period"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

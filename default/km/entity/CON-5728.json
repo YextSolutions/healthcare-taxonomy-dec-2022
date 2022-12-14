@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5728",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Eyelid Twitching",
+    "taxonomy_synonyms": [
+      "Eyelid Spasm"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

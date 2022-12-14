@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-16002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transplantation Consultation",
+    "taxonomy_synonyms": [
+      "Transplant Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4709",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dialysis Disequilibrium Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

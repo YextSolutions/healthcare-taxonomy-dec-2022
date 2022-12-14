@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5541",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ovarian Cancer Debulking"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

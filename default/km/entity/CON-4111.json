@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4111",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fanconi Anemia",
+    "taxonomy_synonyms": [
+      "Fanconi\u0027s Anemia",
+      "FA"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

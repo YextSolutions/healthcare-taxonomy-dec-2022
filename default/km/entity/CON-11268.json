@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11268",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Campylobacter Enterocolitis",
+    "taxonomy_synonyms": [
+      "Child with Campylobacter Enterocolitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

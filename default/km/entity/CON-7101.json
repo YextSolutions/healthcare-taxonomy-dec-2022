@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Supraventricular Tachycardia",
+    "taxonomy_synonyms": [
+      "Supraventricular Tachycardia in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

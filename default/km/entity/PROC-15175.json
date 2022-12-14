@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15175",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Radiosialography",
+    "taxonomy_synonyms": [
+      "Sialography"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Facial",
+    "taxonomy_synonyms": [
+      "Facial Skin Care"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Carotid Arterial Ultrasound",
+    "taxonomy_synonyms": [
+      "Extracranial Cerebrovascular Ultrasound"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11708",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dysthymia",
+    "taxonomy_synonyms": [
+      "Dysthymic Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-799",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pancreas Inflammation",
+    "taxonomy_synonyms": [
+      "Pancreatitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1648",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coronary Disease",
+    "taxonomy_synonyms": [
+      "CAD",
+      "Atherosclerotic Heart Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

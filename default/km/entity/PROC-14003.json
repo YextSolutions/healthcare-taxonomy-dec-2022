@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pre-Conception Counseling",
+    "taxonomy_synonyms": [
+      "Contraception",
+      "Family Planning"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

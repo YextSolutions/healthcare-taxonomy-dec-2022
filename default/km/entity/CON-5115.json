@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Oligodendroglioma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

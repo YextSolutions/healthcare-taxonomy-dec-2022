@@ -1,0 +1,15 @@
+{
+  "$id": "SUBSPEC-174",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuro-Interventional Radiology",
+    "taxonomy_relatedProcedures": [
+      "PROC-13699",
+      "PROC-13703",
+      "PROC-13704"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

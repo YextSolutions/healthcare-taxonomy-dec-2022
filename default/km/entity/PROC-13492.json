@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13492",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cervical Cancer Evaluation",
+    "taxonomy_synonyms": [
+      "Cervix Cancer Evaluation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

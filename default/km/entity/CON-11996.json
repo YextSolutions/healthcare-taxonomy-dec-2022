@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wheezing",
+    "taxonomy_synonyms": [
+      "Difficulty Breathing",
+      "Asthma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

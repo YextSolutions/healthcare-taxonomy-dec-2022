@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Blepharitis",
+    "taxonomy_synonyms": [
+      "Child with Blepharitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

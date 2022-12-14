@@ -1,0 +1,16 @@
+{
+  "$id": "CON-4411",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fetal Alcohol Spectrum Disorder",
+    "taxonomy_synonyms": [
+      "FAS Disorder",
+      "FASD",
+      "FAS\tFetal Alcohol Effects",
+      "Fetal Alcohol Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

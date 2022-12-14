@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5321",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ectopic Pregnancy",
+    "taxonomy_synonyms": [
+      "Tubal Pregnancy",
+      "ExtraUterine Pregnancy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

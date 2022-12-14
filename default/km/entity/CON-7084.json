@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7084",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cor Pulmonale",
+    "taxonomy_synonyms": [
+      "Cor Pulmonale in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

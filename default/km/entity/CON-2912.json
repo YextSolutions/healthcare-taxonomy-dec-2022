@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2912",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fasciculation",
+    "taxonomy_synonyms": [
+      "Muscle Twitch"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

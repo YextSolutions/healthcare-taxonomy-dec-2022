@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Malunion of Fracture",
+    "taxonomy_synonyms": [
+      "Nonunion of Fracture"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

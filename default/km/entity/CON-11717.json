@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fear Of Enclosed Spaces",
+    "taxonomy_synonyms": [
+      "Claustrophobia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

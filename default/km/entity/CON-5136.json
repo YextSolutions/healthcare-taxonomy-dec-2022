@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Radiculopathy",
+    "taxonomy_synonyms": [
+      "Cervical Radiculopathy",
+      "Pinched Nerve"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

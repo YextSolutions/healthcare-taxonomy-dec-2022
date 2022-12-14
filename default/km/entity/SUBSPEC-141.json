@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Urogynecology and Reconstructive Pelvic Surgery"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

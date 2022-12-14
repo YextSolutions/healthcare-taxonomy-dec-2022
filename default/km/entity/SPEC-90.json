@@ -1,0 +1,48 @@
+{
+  "$id": "SPEC-90",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Genetics and Metabolism",
+    "taxonomy_relatedConditions": [
+      "CON-371",
+      "CON-373",
+      "CON-2504",
+      "CON-3535",
+      "CON-3539",
+      "CON-3608",
+      "CON-3609",
+      "CON-3611",
+      "CON-3612",
+      "CON-3614",
+      "CON-3615",
+      "CON-3616",
+      "CON-3617",
+      "CON-3699",
+      "CON-3700",
+      "CON-3701",
+      "CON-3702",
+      "CON-3703",
+      "CON-3704",
+      "CON-3705",
+      "CON-3706",
+      "CON-3707",
+      "CON-3708",
+      "CON-3709",
+      "CON-3710",
+      "CON-3711",
+      "CON-3712",
+      "CON-3713",
+      "CON-4411",
+      "CON-6124",
+      "CON-10915",
+      "CON-10916",
+      "CON-7503"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12809"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

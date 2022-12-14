@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5686",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Duane Retraction Syndrome",
+    "taxonomy_synonyms": [
+      "Duane\u0027s Syndrome",
+      "DRS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuropathy",
+    "taxonomy_synonyms": [
+      "Peripheral Neuritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

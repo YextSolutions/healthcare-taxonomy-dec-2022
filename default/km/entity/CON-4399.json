@@ -1,0 +1,16 @@
+{
+  "$id": "CON-4399",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Venous Occlusion Central",
+    "taxonomy_synonyms": [
+      "Chronic CVS",
+      "Chronic Arterial Occlusion",
+      "Central Venous Occlusion",
+      "Chronic Venous Occlusion Peripheral"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

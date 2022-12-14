@@ -1,0 +1,15 @@
+{
+  "$id": "CON-2564",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sheehan Syndrome",
+    "taxonomy_synonyms": [
+      "Sheehan\u0027s Syndrome",
+      "Severe Loss of Blood in Childbirth",
+      "Postpartum Hemorrhage"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

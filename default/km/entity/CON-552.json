@@ -1,0 +1,16 @@
+{
+  "$id": "CON-552",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Encopresis",
+    "taxonomy_synonyms": [
+      "Bowel Control Problems",
+      "Fecal Incontinence",
+      "Incontinence Of Stool",
+      "Bowel Incontinence"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

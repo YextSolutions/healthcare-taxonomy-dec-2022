@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4799",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ureteral Stone"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

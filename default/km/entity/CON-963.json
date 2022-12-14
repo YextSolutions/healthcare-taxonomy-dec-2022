@@ -1,0 +1,13 @@
+{
+  "$id": "CON-963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Acne Osacea",
+    "taxonomy_synonyms": [
+      "Child with Rosacea"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

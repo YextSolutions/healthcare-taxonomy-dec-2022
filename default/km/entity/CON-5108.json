@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5108",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neurosarcoidosis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

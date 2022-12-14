@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Functional Ovarian Cysts",
+    "taxonomy_synonyms": [
+      "Noncancerous Ovarian Growths",
+      "Ovarian Cyst",
+      "Cystic Ovarian Mass"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

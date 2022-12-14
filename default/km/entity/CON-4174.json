@@ -1,0 +1,19 @@
+{
+  "$id": "CON-4174",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Acute Lymphoblastic Leukemia",
+    "taxonomy_synonyms": [
+      "Child with Acute Lymphoblastic Leukemia",
+      "Child with Acute Lymphocytic Leukemia",
+      "Child with ALL",
+      "Child with Acute Lymphoid Leukemia",
+      "Pediatric Acute Lymphocytic Leukemia",
+      "Pediatric ALL",
+      "Pediatric Acute Lymphoid Leukemia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

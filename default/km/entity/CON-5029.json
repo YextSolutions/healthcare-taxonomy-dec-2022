@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lewy Body Disease",
+    "taxonomy_synonyms": [
+      "Lewy Body Dementia",
+      "LBD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

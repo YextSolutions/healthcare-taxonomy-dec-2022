@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6493",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Dislocation",
+    "taxonomy_synonyms": [
+      "Dislocated Shoulder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

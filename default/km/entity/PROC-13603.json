@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13603",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Platelet Concentrate",
+    "taxonomy_synonyms": [
+      "Platelet Transfusion"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

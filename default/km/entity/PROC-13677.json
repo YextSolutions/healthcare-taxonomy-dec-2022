@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Insertion of Epicardial Leads for Pacemaker",
+    "taxonomy_synonyms": [
+      "Insertion of Epicardial Leads for Cardioverter",
+      "Insertion of Epicardial Leads for Defibrillator"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

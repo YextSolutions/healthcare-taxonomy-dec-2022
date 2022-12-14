@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "overuse"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

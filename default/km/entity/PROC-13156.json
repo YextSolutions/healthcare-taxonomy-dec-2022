@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Computed Tomography Angiogram",
+    "taxonomy_synonyms": [
+      "CT Angiography",
+      "Computed Tomography Angiography"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

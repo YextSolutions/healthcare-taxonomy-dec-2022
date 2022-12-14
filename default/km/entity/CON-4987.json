@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Generalized Tonic-Clonic Seizure",
+    "taxonomy_synonyms": [
+      "Grand Mal Seizure"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

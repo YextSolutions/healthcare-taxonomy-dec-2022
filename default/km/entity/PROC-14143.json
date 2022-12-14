@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14143",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Corneal Ring Implants"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

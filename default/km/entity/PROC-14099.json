@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Photorefractive Keratectomy",
+    "taxonomy_synonyms": [
+      "PRK"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

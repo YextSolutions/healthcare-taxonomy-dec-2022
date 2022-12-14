@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dental Bone Graft",
+    "taxonomy_synonyms": [
+      "Oral Bone Graft"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

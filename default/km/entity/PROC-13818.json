@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13818",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nephrotomy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

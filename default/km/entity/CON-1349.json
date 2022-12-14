@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1349",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Hyperhidrosis",
+    "taxonomy_synonyms": [
+      "Pediatric Excessive Sweating",
+      "Excessive Sweating in Child",
+      "Child with Hyperhidrosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

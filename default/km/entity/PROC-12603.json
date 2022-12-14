@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12603",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nerve Destruction by Neurolytic Agent",
+    "taxonomy_synonyms": [
+      "Neurolytic Block"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

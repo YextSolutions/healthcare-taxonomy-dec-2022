@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13696",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ventricular Fibrillation Surgery",
+    "taxonomy_synonyms": [
+      "VF Surgery",
+      "vfib Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

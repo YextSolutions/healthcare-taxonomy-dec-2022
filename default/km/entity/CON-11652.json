@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11652",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Attention Deficit Disorder",
+    "taxonomy_synonyms": [
+      "ADD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

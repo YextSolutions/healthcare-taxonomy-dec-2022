@@ -1,0 +1,50 @@
+{
+  "$id": "SPEC-95",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Nephrology",
+    "taxonomy_relatedConditions": [
+      "CON-7848",
+      "CON-7900",
+      "CON-7903",
+      "CON-7906",
+      "CON-7908",
+      "CON-7910",
+      "CON-7913",
+      "CON-7916",
+      "CON-7918",
+      "CON-7920",
+      "CON-7951",
+      "CON-7952",
+      "CON-7953",
+      "CON-7954",
+      "CON-7955",
+      "CON-7956",
+      "CON-7957",
+      "CON-7958",
+      "CON-7959",
+      "CON-7960",
+      "CON-7961",
+      "CON-7962",
+      "CON-7963",
+      "CON-7964",
+      "CON-7965",
+      "CON-7966",
+      "CON-7967",
+      "CON-7968",
+      "CON-7969",
+      "CON-7970",
+      "CON-7971",
+      "CON-7972",
+      "CON-7973",
+      "CON-7974",
+      "CON-1059"
+    ],
+    "taxonomy_synonyms": [
+      "Pediatric Nephrology"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

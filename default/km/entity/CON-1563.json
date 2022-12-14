@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Abnormal Heartbeat",
+    "taxonomy_synonyms": [
+      "Abnormal Heart Beat"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

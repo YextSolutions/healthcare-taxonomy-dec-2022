@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13546",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gynecological Surgery",
+    "taxonomy_synonyms": [
+      "Gyn Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

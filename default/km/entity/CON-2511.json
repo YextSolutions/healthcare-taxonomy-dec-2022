@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2511",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Low Blood Sugar Emergency",
+    "taxonomy_synonyms": [
+      "Hypoglycemia Emergency"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

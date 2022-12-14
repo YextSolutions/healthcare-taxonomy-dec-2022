@@ -1,0 +1,13 @@
+{
+  "$id": "CON-698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gastroparesis",
+    "taxonomy_synonyms": [
+      "Delayed Gastric Emptying"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

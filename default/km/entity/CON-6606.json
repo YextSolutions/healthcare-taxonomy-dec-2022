@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6606",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Suppurative Otitis Media",
+    "taxonomy_synonyms": [
+      "CSOM"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2070",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Photodynamic Therapy",
+    "taxonomy_synonyms": [
+      "PDT"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

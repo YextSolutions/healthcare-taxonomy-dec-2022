@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1574",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aldosterone Receptor Antagonists"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

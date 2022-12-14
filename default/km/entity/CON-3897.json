@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gynecology Problem",
+    "taxonomy_synonyms": [
+      "Gyn Problem"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

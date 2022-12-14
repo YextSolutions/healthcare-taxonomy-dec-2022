@@ -1,0 +1,16 @@
+{
+  "$id": "CON-3403",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stricture or Kinking of Ureter",
+    "taxonomy_synonyms": [
+      "Ureter Stricture",
+      "Ureter Obstruction",
+      "Ureteral Stricture",
+      "Ureteroplasty"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

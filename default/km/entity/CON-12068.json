@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12068",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Basal Joint Arthritis",
+    "taxonomy_synonyms": [
+      "Thumb CMC Arthritis",
+      "Thumb Carpometacarpal Joint Arthritis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "CON-11222",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Annual Check Up",
+    "taxonomy_synonyms": [
+      "Pediatric Yearly Physical",
+      "Pediatric Yearly Exam",
+      "Yearly Physical for Child",
+      "Yearly Exam for Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

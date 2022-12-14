@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3700",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Beckwith-Wiedemann Syndrome",
+    "taxonomy_synonyms": [
+      "Child with Beckwith-Wiedemann Syndrome",
+      "Child with BWS",
+      "Pediatric BWS"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

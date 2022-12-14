@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "primaryEntityType": "location",
+  "entityTypeSettings": [
+    {
+      "entityType": "taxonomy_procedure",
+      "defaultFieldEligibilityGroup": "taxonomy_procedure.default",
+      "disabled": false
+    },
+    {
+      "entityType": "healthcareProfessional",
+      "disabled": false
+    },
+    {
+      "entityType": "taxonomy_reasonForVisit",
+      "defaultFieldEligibilityGroup": "taxonomy_reasonForVisit.default",
+      "disabled": false
+    },
+    {
+      "entityType": "healthcareFacility",
+      "disabled": true
+    },
+    {
+      "entityType": "taxonomy_conditionTreated",
+      "defaultFieldEligibilityGroup": "taxonomy_conditionTreated.default",
+      "disabled": false
+    },
+    {
+      "entityType": "taxonomy_specialty",
+      "defaultFieldEligibilityGroup": "taxonomy_specialty.default",
+      "disabled": false
+    },
+    {
+      "entityType": "taxonomy_subspecialty",
+      "defaultFieldEligibilityGroup": "taxonomy_subspecialty.default",
+      "disabled": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Carotidynia",
+    "taxonomy_synonyms": [
+      "Fay Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

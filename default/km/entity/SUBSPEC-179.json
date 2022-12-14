@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-179",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Inflammatory Bowel Disease"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

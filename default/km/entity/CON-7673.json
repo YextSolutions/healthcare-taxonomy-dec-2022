@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Anaplastic Large Cell Lymphoma in Children",
+    "taxonomy_synonyms": [
+      "Pediatric Anaplastic Large Cell Lymphoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

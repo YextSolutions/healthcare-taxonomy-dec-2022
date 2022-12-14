@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Epidural Lysis of Adhesions Percutaneous Adhesiolysis",
+    "taxonomy_synonyms": [
+      "Epidural LOA Percutaneous Adhesiolysis"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

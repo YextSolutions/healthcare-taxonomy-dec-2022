@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Clinical Cytogenetics"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

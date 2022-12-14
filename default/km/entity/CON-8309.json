@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8309",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Cervical Dystonia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

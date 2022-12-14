@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14080",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "EDF",
+    "taxonomy_synonyms": [
+      "Extended Depth of Focus Lens Implantation",
+      "EDOF"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

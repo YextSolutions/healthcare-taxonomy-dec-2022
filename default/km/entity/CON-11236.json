@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Bacterial Pink Eye",
+    "taxonomy_synonyms": [
+      "Child with Bacterial Pink Eye"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

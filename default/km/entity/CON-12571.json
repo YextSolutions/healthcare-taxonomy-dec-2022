@@ -1,0 +1,15 @@
+{
+  "$id": "CON-12571",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sexually Transmitted Disease",
+    "taxonomy_synonyms": [
+      "STD",
+      "Sexually Transmitted Infection",
+      "STI"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

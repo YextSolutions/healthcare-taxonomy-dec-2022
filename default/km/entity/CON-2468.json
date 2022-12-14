@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2468",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hormone Replacement Therapy Consultation",
+    "taxonomy_synonyms": [
+      "HRT Consultation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

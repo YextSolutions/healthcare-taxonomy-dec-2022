@@ -1,0 +1,13 @@
+{
+  "$id": "CON-319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mitochondrial Diseases",
+    "taxonomy_synonyms": [
+      "Mitochondrial Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

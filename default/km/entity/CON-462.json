@@ -1,0 +1,13 @@
+{
+  "$id": "CON-462",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pemphigoid",
+    "taxonomy_synonyms": [
+      "Pemphigus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

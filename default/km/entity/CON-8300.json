@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8300",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Brain Infections",
+    "taxonomy_synonyms": [
+      "Brain Infection in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

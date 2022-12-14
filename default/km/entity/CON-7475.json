@@ -1,0 +1,15 @@
+{
+  "$id": "CON-7475",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric lower gastrointestinal bleeding",
+    "taxonomy_synonyms": [
+      "Lower Gastrointestinal Bleeding in Child",
+      "Lower GI Bleeding in Child",
+      "Lower GI Bleed in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

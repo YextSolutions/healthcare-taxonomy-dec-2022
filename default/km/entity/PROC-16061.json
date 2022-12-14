@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-16061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Posterior Cruciate Ligament Reconstruction",
+    "taxonomy_synonyms": [
+      "PCL Reconstruction"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

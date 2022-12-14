@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lichen Simplex Chronicus",
+    "taxonomy_synonyms": [
+      "LSC"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

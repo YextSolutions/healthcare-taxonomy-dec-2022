@@ -1,0 +1,20 @@
+{
+  "$id": "SPEC-4169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hematology Oncology",
+    "taxonomy_relatedConditions": [
+      "CON-4006",
+      "CON-4086",
+      "CON-4089",
+      "CON-4090"
+    ],
+    "taxonomy_synonyms": [
+      "Heme Onc",
+      "Heme/Onc"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Neuropsychological Assessment",
+    "taxonomy_synonyms": [
+      "Neuropsychological Testing"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

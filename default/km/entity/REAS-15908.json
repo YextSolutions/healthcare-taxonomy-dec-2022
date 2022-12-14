@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Art Therapy",
+    "taxonomy_synonyms": [
+      "Art Therapy for Child"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

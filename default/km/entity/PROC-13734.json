@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13734",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Renal Artery Stent",
+    "taxonomy_synonyms": [
+      "Renal Artery Stenting",
+      "Kidney Artery Stent"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

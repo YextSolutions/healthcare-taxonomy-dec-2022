@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12832",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endovascular Repair of Thoracic Aorta",
+    "taxonomy_synonyms": [
+      "TEVAR",
+      "Endovascular Aortic Aneurysm Repair",
+      "Endovascular Aneurysm Repair"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

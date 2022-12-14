@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15098",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Coronary CT Scan",
+    "taxonomy_synonyms": [
+      "Heart CT Scan"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

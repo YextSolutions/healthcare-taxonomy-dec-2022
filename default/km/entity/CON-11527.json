@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sports Spine Injury Disorder",
+    "taxonomy_synonyms": [
+      "Spine Injury",
+      "Spine Injury During Sports",
+      "Back Injury During Sports"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

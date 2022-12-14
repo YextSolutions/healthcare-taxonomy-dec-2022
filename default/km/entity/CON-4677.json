@@ -1,0 +1,18 @@
+{
+  "$id": "CON-4677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Acute Kidney Injury",
+    "taxonomy_synonyms": [
+      "AKI",
+      "Acute Kidney Disease",
+      "ARF",
+      "Acute Renal Failure",
+      "Acute Kidney Failure",
+      "AKD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

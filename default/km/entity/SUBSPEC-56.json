@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-56",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hypertension"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

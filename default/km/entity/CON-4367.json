@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4367",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Feeding disorders"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

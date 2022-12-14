@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Motor Evoked Potentials"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

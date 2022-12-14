@@ -1,0 +1,15 @@
+{
+  "$id": "CON-1169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Depression in Children and Teens",
+    "taxonomy_synonyms": [
+      "Pediatric Depression",
+      "Child with Depression",
+      "Depression in Children"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

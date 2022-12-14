@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-12882",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Minimally-Invasive Thoracic Aortic Aneurysm Surgery"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11720",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fear Of Insects",
+    "taxonomy_synonyms": [
+      "Insectophobia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

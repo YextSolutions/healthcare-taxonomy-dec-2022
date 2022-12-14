@@ -1,0 +1,15 @@
+{
+  "$id": "CON-7920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Congenital Renal Agenesis and Dysgenesis in Children",
+    "taxonomy_synonyms": [
+      "Congenital Renal Agenesis and Dysgenesis in Child",
+      "Congenital Renal Agenesis and Dysgenesis in Kids",
+      "Pediatric Congenital Renal Agenesis and Dysgenesis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

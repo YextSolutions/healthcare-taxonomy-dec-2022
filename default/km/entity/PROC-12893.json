@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12893",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tricuspid Valve Repair",
+    "taxonomy_synonyms": [
+      "Tricuspid Valve Replacement",
+      "Tricuspid Valve Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

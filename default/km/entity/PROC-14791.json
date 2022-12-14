@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Thoracoscopy",
+    "taxonomy_synonyms": [
+      "Thoracoscopy in Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

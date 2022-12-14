@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Otitis Externa In Pediatrics"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-6058",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hip Arthroscopy",
+    "taxonomy_synonyms": [
+      "Minimally Invasive Hip Procedure"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4611",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "CPAM",
+    "taxonomy_synonyms": [
+      "Congenital Pulmonary Airway Malformation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

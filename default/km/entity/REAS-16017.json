@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-16017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Direct Oral Anticoagulants"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

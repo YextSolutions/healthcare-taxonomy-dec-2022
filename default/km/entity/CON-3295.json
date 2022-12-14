@@ -1,0 +1,17 @@
+{
+  "$id": "CON-3295",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Fracture",
+    "taxonomy_synonyms": [
+      "Broken Shoulder",
+      "Broken Clavicle",
+      "Broken Collar Bone",
+      "Proximal Humerus",
+      "Broken Proximal Humerus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

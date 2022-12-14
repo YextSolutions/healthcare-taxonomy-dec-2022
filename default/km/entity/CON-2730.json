@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood in Semen"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

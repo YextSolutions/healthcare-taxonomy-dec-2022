@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2771",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Buttock Pain",
+    "taxonomy_synonyms": [
+      "Butt Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

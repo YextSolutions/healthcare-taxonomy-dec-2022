@@ -1,0 +1,18 @@
+{
+  "$id": "CON-7100",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Septal Defect",
+    "taxonomy_synonyms": [
+      "Septal Defect in Child",
+      "Pediatric Atrial Septal Defect",
+      "Child with Atrial Septal Defect",
+      "Congenital Atrial Septal Defect",
+      "Congenital ASD",
+      "Pediatric ASD"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

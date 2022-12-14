@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11764",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Obsessive Compulsive Disorder",
+    "taxonomy_synonyms": [
+      "OCD",
+      "Obsessive Compulsive Personality Disorder",
+      "Obsessive-Compulsive Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

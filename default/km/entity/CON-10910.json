@@ -1,0 +1,13 @@
+{
+  "$id": "CON-10910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dermoid Cysts",
+    "taxonomy_synonyms": [
+      "Epidermoid Cysts"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

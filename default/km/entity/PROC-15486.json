@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15486",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endovenous Radiofrequency Ablation",
+    "taxonomy_synonyms": [
+      "Endovenous RF Ablation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

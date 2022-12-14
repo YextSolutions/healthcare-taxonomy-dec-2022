@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dermatology Surgery",
+    "taxonomy_synonyms": [
+      "Derm Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

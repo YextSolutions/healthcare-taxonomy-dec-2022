@@ -1,0 +1,14 @@
+{
+  "$id": "CON-2148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pituitary Adenoma",
+    "taxonomy_synonyms": [
+      "Pituitary Macroadenomas",
+      "Pituitary Tumor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

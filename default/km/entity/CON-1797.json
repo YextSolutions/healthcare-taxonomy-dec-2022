@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1797",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Mitral Valve Stenosis",
+    "taxonomy_synonyms": [
+      "Mitral Stenosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

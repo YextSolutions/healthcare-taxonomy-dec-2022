@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4489",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Carcinoma"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

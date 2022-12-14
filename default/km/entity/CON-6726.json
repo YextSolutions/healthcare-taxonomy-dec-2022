@@ -1,0 +1,13 @@
+{
+  "$id": "CON-6726",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tracheal Stenosis",
+    "taxonomy_synonyms": [
+      "Narrowing of the Trachea"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

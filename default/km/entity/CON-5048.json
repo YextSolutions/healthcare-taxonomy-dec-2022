@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Movement Disorders",
+    "taxonomy_synonyms": [
+      "Tremors",
+      "Movement Issues",
+      "Essential Tremor"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

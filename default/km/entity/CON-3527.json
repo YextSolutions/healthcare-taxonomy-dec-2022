@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Writer\u0027s cramp"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

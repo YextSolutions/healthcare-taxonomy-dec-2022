@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2728",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bloating",
+    "taxonomy_synonyms": [
+      "Gas"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

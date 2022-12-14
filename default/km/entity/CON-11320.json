@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11320",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ear Fullness",
+    "taxonomy_synonyms": [
+      "Child with Ear Fullness"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

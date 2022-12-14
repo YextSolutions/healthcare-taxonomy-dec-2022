@@ -1,0 +1,15 @@
+{
+  "$id": "CON-381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nasal Allergies",
+    "taxonomy_synonyms": [
+      "Nasal Allergy",
+      "Nose Allergies",
+      "Nose Allerger"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

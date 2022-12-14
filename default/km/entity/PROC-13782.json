@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13782",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Biotherapy",
+    "taxonomy_synonyms": [
+      "Immunotherapy",
+      "Biological Therapy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

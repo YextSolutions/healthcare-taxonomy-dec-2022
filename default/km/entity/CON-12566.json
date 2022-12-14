@@ -1,0 +1,13 @@
+{
+  "$id": "CON-12566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hepatitis A Vaccine",
+    "taxonomy_synonyms": [
+      "Hep A Vaccine"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

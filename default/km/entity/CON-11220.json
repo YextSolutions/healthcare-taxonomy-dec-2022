@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11220",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ankle Problems",
+    "taxonomy_synonyms": [
+      "Ankle Problems in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

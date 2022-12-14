@@ -1,0 +1,10 @@
+{
+  "$id": "CON-11854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Toxic Stress and resilience"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

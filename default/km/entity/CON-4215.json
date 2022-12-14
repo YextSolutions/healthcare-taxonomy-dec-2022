@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4215",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hepato-Renal Syndrome",
+    "taxonomy_synonyms": [
+      "HRS",
+      "Hepatorenal Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

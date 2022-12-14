@@ -1,0 +1,18 @@
+{
+  "$id": "CON-5599",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blepharospasm",
+    "taxonomy_synonyms": [
+      "BEB",
+      "Eye Twitching",
+      "Benign Essential Blepharospasm",
+      "Eyelid Disorders",
+      "Eyelid Twitching",
+      "Eyelid Spasm"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

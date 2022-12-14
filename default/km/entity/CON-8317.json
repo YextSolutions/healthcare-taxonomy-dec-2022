@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8317",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Chronic Postoperative Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

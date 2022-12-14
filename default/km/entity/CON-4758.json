@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4758",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Diabetic Foot Disorders",
+    "taxonomy_synonyms": [
+      "Diabetic Foot Ulcers"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

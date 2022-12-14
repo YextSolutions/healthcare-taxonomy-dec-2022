@@ -1,0 +1,13 @@
+{
+  "$id": "CON-445",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lichen ruber planus",
+    "taxonomy_synonyms": [
+      "Lichen Planus"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

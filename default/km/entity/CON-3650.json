@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hereditary Vascular Conditions"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2552",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pre-Diabetes",
+    "taxonomy_synonyms": [
+      "Impaired Glucose Tolerance"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

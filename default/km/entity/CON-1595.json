@@ -1,0 +1,14 @@
+{
+  "$id": "CON-1595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Atrioventricular Nodal Reentry Tachycardia",
+    "taxonomy_synonyms": [
+      "AVNRT",
+      "AV Nodal Arrhythmia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

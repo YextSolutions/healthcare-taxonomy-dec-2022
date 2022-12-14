@@ -1,0 +1,37 @@
+{
+  "$id": "SPEC-59",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Audiology",
+    "taxonomy_relatedConditions": [
+      "CON-231",
+      "CON-1507",
+      "CON-1512",
+      "CON-1518",
+      "CON-1521",
+      "CON-1523",
+      "CON-3772",
+      "CON-3760"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12700",
+      "PROC-12701",
+      "PROC-12706",
+      "PROC-12707",
+      "PROC-12708",
+      "PROC-12709",
+      "PROC-12710",
+      "PROC-12711",
+      "PROC-15586"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15584",
+      "REAS-15585",
+      "REAS-15587",
+      "REAS-15588"
+    ]
+  },
+  "entityType": "taxonomy_specialty",
+  "labels": []
+}

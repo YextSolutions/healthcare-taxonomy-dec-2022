@@ -1,0 +1,16 @@
+{
+  "$id": "CON-4878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Autonomic Nervous System Dysfunction",
+    "taxonomy_synonyms": [
+      "Autonomic Nervous System Disorders",
+      "Dysautonomia",
+      "Autonomic Dysfunction",
+      "Autonomic Neuropathy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

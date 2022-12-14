@@ -1,0 +1,10 @@
+{
+  "$id": "CON-6172",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Biceps Tendon Rupture"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

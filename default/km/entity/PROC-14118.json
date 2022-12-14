@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14118",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Selective Laser Trabeculoplasty",
+    "taxonomy_synonyms": [
+      "SLT"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

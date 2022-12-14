@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-15083",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac CT Angiography",
+    "taxonomy_synonyms": [
+      "Computerized Tomography Coronary Angiogram",
+      "CT Angiogram",
+      "CT Angiography"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

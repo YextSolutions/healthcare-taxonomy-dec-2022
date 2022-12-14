@@ -1,0 +1,14 @@
+{
+  "$id": "REAS-15783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Catheterization Second Opinion",
+    "taxonomy_synonyms": [
+      "Cardiac Cath Second Opinion",
+      "Heart Catheterization Second Opinion"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

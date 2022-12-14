@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lateral Collateral Ligament Injury",
+    "taxonomy_synonyms": [
+      "LCL Injury"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

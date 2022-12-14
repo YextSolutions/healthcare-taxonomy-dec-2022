@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemodialysis Vascular Access"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

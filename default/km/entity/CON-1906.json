@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lingua Villosa",
+    "taxonomy_synonyms": [
+      "Hairy Tongue"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15233",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Dilation and Evacuation",
+    "taxonomy_synonyms": [
+      "D\u0026E"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

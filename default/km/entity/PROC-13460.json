@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13460",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Thyroid Lobectomy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

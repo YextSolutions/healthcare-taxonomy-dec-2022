@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-16019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vascular Laparoscopic Surgery Follow Up"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

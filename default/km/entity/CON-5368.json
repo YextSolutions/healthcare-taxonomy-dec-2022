@@ -1,0 +1,14 @@
+{
+  "$id": "CON-5368",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Gestational Carrier",
+    "taxonomy_synonyms": [
+      "Gestational Surrogate",
+      "Surrogate"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

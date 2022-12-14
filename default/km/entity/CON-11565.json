@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11565",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Vascular Malformations",
+    "taxonomy_synonyms": [
+      "Child with Vascular Malformations",
+      "Pediatric Vascular Anomalies",
+      "Child with Vascular Anomalies"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

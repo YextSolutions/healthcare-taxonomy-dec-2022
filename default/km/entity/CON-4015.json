@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Aplastic Anemia",
+    "taxonomy_synonyms": [
+      "Bone Marrow Aplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

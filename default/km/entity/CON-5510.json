@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Sickle Cell Anemia",
+    "taxonomy_synonyms": [
+      "Sickle Cell Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

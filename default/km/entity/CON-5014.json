@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intracerebral Hemorrhage",
+    "taxonomy_synonyms": [
+      "Brain Bleed"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

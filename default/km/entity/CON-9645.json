@@ -1,0 +1,10 @@
+{
+  "$id": "CON-9645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ear, Nose, or Throat Problem"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

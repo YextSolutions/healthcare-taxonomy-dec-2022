@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15578",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Short-Acting Beta2-Agonists"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

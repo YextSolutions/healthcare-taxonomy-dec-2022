@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Claudication"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

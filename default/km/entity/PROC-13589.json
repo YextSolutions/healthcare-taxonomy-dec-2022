@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-13589",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Vulvectomy",
+    "taxonomy_synonyms": [
+      "Vulva Removal",
+      "Partial Vulvectomy",
+      "Radical Vulvectomy"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1502",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Post Surgery Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

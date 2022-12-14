@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-13224",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "A1c Test",
+    "taxonomy_synonyms": [
+      "Hemoglobin A1c",
+      "HbA1c Test"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

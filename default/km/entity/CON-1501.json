@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1501",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chronic Pain Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

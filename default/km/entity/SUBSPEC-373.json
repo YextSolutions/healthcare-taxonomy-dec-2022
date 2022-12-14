@@ -1,0 +1,10 @@
+{
+  "$id": "SUBSPEC-373",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Undersea \u0026 Hyperbaric Medicine"
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

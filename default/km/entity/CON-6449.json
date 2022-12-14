@@ -1,0 +1,14 @@
+{
+  "$id": "CON-6449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Patellofemoral Pain Syndrome",
+    "taxonomy_synonyms": [
+      "Anterior Knee Pain Syndrome",
+      "Runner\u0027s Knee"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

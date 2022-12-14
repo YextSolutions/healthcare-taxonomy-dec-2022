@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15925",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "2 Month Well-Baby Checkup"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

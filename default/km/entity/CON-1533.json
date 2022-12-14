@@ -1,0 +1,13 @@
+{
+  "$id": "CON-1533",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "PASH",
+    "taxonomy_synonyms": [
+      "Pseudoangiomatous Stromal Hyperplasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

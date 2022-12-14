@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-12865",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bypass Surgery",
+    "taxonomy_synonyms": [
+      "CABG Surgery",
+      "Coronary Artery Bypass Grafting Surgery"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

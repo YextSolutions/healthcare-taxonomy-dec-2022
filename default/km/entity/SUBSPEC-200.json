@@ -1,0 +1,18 @@
+{
+  "$id": "SUBSPEC-200",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Physical Therapy",
+    "taxonomy_relatedConditions": [
+      "CON-1147",
+      "CON-937"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12606",
+      "PROC-12619"
+    ]
+  },
+  "entityType": "taxonomy_subspecialty",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-12636",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Ileoanal Pull Through",
+    "taxonomy_synonyms": [
+      "IAP"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

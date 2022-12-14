@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11215",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Adenoid Infection",
+    "taxonomy_synonyms": [
+      "Child with Adenoid Infection",
+      "Child with Infected Adenoids"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

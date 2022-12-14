@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Chorionic Villous Sampling",
+    "taxonomy_synonyms": [
+      "CVS",
+      "Chorionic Villi Sampling"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

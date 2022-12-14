@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15622",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stroke Prevention"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-15138",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Lymph Node Excision"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

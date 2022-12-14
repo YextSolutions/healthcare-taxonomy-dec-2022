@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Conduction Aphasia",
+    "taxonomy_synonyms": [
+      "Associative Aphasia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

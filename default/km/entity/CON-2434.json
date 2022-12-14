@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2434",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Endocrine Disorders in Pregnancy"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

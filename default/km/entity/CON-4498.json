@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4498",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cutaneous T-Cell lymphoma",
+    "taxonomy_synonyms": [
+      "CTCL",
+      "Cutaneous Lymphoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

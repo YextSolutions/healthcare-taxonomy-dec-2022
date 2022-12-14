@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13842",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cortical Mapping"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

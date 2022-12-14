@@ -1,0 +1,13 @@
+{
+  "$id": "CON-387",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Benign Chronic Pain Syndrome",
+    "taxonomy_synonyms": [
+      "Chronic Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

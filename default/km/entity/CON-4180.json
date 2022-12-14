@@ -1,0 +1,14 @@
+{
+  "$id": "CON-4180",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Primary Central Nervous System Lymphoma",
+    "taxonomy_synonyms": [
+      "CNS Lymphoma",
+      "Central Nervous System Lymphoma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

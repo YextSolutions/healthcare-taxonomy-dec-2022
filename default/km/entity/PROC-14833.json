@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Immunizations for Children",
+    "taxonomy_synonyms": [
+      "Pediatric Immunization"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

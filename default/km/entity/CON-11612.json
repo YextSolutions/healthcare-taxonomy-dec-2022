@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Intermetatarsal Neuroma",
+    "taxonomy_synonyms": [
+      "Morton\u0027s Neuroma"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15736",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tonsillectomy Follow Up",
+    "taxonomy_synonyms": [
+      "Tonsil Removal Surgery Follow Up"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

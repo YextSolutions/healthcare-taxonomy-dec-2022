@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14601",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pulmonary Angiogram",
+    "taxonomy_synonyms": [
+      "Pulmonary Angiography"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

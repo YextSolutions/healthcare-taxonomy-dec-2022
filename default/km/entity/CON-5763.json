@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5763",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Inflammatory Eye Diseases",
+    "taxonomy_synonyms": [
+      "Ocular Infection"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11715",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fear Of Blood",
+    "taxonomy_synonyms": [
+      "Hemophobia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

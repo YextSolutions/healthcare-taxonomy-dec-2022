@@ -1,0 +1,15 @@
+{
+  "$id": "CON-3410",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Subglottic Stenosis",
+    "taxonomy_synonyms": [
+      "SGS",
+      "Narrowing of Airway Below Vocal Chords",
+      "Idiopathic Subglottic Stenosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

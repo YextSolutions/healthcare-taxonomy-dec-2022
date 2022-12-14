@@ -1,0 +1,16 @@
+{
+  "$id": "CON-3298",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Shoulder Problem",
+    "taxonomy_synonyms": [
+      "Shoulder Pain",
+      "Problem with Shoulder",
+      "Shoulder Injury",
+      "Shoulder Strain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

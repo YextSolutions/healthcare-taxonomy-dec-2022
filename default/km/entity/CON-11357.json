@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11357",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "pediatric hip Pain",
+    "taxonomy_synonyms": [
+      "Child with Hip Pain"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

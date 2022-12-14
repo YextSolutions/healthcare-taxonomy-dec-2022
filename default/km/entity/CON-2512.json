@@ -1,0 +1,10 @@
+{
+  "$id": "CON-2512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Low Cortisol Levels"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

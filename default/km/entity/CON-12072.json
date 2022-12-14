@@ -1,0 +1,16 @@
+{
+  "$id": "CON-12072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood Vessel Inflammation",
+    "taxonomy_synonyms": [
+      "Vasculitis",
+      "Inflammation of Blood Vessels",
+      "Angiitis",
+      "Systemic Vasculitis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

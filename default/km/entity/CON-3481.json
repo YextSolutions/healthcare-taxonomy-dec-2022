@@ -1,0 +1,10 @@
+{
+  "$id": "CON-3481",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Upper Arm Pain"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

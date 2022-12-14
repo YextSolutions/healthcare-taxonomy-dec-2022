@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12191",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Parasomnia"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

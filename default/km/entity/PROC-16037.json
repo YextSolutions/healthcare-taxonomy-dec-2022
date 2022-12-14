@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-16037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fusion for Thoracic Trauma"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

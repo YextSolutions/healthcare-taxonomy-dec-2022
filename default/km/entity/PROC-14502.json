@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14502",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Aortic Valve Surgery",
+    "taxonomy_synonyms": [
+      "Aortic Valve Surgery in Child"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

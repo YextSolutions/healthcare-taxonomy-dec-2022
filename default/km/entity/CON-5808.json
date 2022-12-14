@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5808",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Night Blindness",
+    "taxonomy_synonyms": [
+      "Nyctalopia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

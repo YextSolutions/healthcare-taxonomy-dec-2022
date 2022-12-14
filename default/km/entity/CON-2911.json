@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Family Planning",
+    "taxonomy_synonyms": [
+      "Birth Control"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

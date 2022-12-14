@@ -1,0 +1,15 @@
+{
+  "$id": "CON-11308",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric cutaneous larva migrans",
+    "taxonomy_synonyms": [
+      "Cutaneous Larva Migrans in Child",
+      "Child with Creeping Eruption",
+      "Pediatric Creeping Eruption"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tinea Corporis",
+    "taxonomy_synonyms": [
+      "Ringworm of the Body"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

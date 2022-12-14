@@ -1,0 +1,13 @@
+{
+  "$id": "CON-7447",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Colonic motility disorders",
+    "taxonomy_synonyms": [
+      "Child with Colonic Motility Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

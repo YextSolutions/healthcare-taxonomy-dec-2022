@@ -1,0 +1,13 @@
+{
+  "$id": "CON-274",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Amphetamine and Other Psychostimulant Dependence",
+    "taxonomy_synonyms": [
+      "Amphetamine Use Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

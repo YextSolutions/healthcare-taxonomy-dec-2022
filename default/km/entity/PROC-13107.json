@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-13107",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Phototherapy for Psoriasis",
+    "taxonomy_synonyms": [
+      "Light Therapy for Psoriasis"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-8331",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Head Injury"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

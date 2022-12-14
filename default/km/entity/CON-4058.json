@@ -1,0 +1,10 @@
+{
+  "$id": "CON-4058",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Hemophilia B"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

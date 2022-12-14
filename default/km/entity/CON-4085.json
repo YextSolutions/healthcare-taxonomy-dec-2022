@@ -1,0 +1,13 @@
+{
+  "$id": "CON-4085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "MPD",
+    "taxonomy_synonyms": [
+      "Myeloproliferative Disorders"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "CON-3464",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tonsillolith",
+    "taxonomy_synonyms": [
+      "Tonsil Stones"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

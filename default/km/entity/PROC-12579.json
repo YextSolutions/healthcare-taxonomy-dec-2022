@@ -1,0 +1,15 @@
+{
+  "$id": "PROC-12579",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Wisdom Tooth Extraction",
+    "taxonomy_synonyms": [
+      "Wisdom Teeth Extraction",
+      "Wisdom Tooth Removal",
+      "Wisdom Teeth Removal"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

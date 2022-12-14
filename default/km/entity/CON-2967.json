@@ -1,0 +1,13 @@
+{
+  "$id": "CON-2967",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Herpes Simplex Virus",
+    "taxonomy_synonyms": [
+      "HSV"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5342",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Bacterial Vaginosis",
+    "taxonomy_synonyms": [
+      "BV",
+      "Gardnerella",
+      "Vaginosis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

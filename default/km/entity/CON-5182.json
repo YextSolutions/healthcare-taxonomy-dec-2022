@@ -1,0 +1,15 @@
+{
+  "$id": "CON-5182",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Tardive dyskinesia",
+    "taxonomy_synonyms": [
+      "Drug Side Effect",
+      "Antipsychotic Medication Side Effect",
+      "Orofacial Dyskinesia"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

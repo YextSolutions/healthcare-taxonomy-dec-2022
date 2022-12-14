@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fluoroscopic Guided Injections"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

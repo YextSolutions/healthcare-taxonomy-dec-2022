@@ -1,0 +1,10 @@
+{
+  "$id": "CON-12526",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Deep vein thrombophlebitis"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

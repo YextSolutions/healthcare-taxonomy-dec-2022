@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13770",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Fetoscopy"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

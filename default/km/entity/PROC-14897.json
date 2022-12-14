@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Head and Neck Reconstruction",
+    "taxonomy_synonyms": [
+      "Microvascular Head and Neck Reconstruction"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

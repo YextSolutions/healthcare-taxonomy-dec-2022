@@ -1,0 +1,15 @@
+{
+  "$id": "CON-392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Leg Pain While Walking",
+    "taxonomy_synonyms": [
+      "Peripheral Artery Disease",
+      "PAD",
+      "Peripheral Vascular Disease"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

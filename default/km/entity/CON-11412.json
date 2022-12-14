@@ -1,0 +1,13 @@
+{
+  "$id": "CON-11412",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Penicillin Allergy",
+    "taxonomy_synonyms": [
+      "Child with Penicillin Allergy"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

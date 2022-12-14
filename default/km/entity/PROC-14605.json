@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14605",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Renal Angiogram",
+    "taxonomy_synonyms": [
+      "Kidney Angiogram"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "CON-1838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Recurrent Colorectal Cancer"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

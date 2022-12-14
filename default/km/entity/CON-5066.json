@@ -1,0 +1,10 @@
+{
+  "$id": "CON-5066",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Nerve Entrapment Syndrome"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

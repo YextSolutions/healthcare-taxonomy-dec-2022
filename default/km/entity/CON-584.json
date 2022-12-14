@@ -1,0 +1,14 @@
+{
+  "$id": "CON-584",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Colon Polyps",
+    "taxonomy_synonyms": [
+      "Colorectal Polyp",
+      "Colonic Polyp"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "REAS-15680",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Transgender Medical Consultation"
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "REAS-15606",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiology Consultation",
+    "taxonomy_synonyms": [
+      "Heart Consultation"
+    ]
+  },
+  "entityType": "taxonomy_reasonForVisit",
+  "labels": []
+}

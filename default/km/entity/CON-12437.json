@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12437",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Prostatitis",
+    "taxonomy_synonyms": [
+      "Inflammed Prostate",
+      "Prostate Inflammation"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

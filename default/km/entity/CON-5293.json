@@ -1,0 +1,13 @@
+{
+  "$id": "CON-5293",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Barotrauma",
+    "taxonomy_synonyms": [
+      "Scuba Diving Pressure Injuries"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

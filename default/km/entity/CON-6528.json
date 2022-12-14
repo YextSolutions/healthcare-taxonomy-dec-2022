@@ -1,0 +1,15 @@
+{
+  "$id": "CON-6528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Talus Fracture",
+    "taxonomy_synonyms": [
+      "Foot Fracture",
+      "Ankle Fracture",
+      "Broken Ankle"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

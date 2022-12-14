@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-14608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Single Photon Emission Computed Tomography",
+    "taxonomy_synonyms": [
+      "SPECT Scan"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

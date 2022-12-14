@@ -1,0 +1,13 @@
+{
+  "$id": "CON-327",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Stomatitis",
+    "taxonomy_synonyms": [
+      "Oral Mucositis"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-13306",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Non-Surgical treatment of Back Pain"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-10198",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Collagen Diseases",
+    "taxonomy_synonyms": [
+      "Child with Collagen Diseases",
+      "Child with Collagen Disorder"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

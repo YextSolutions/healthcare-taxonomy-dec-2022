@@ -1,0 +1,14 @@
+{
+  "$id": "CON-322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Celiac Artery Compression Syndrome",
+    "taxonomy_synonyms": [
+      "Dunbar Syndrome",
+      "Median Arcuate Ligament Syndrome"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

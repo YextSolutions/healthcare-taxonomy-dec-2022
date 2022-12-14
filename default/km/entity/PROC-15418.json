@@ -1,0 +1,13 @@
+{
+  "$id": "PROC-15418",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Multichannel Urodynamics",
+    "taxonomy_synonyms": [
+      "Urodynamic Evaluation"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

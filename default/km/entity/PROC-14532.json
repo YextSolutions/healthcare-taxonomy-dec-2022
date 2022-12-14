@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-14532",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac PET Scan",
+    "taxonomy_synonyms": [
+      "Heart PET Scan",
+      "Cardiac PET"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

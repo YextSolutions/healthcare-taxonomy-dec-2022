@@ -1,0 +1,14 @@
+{
+  "$id": "CON-11250",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Blood in Stool",
+    "taxonomy_synonyms": [
+      "Child with Blood in Stool",
+      "Melena in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

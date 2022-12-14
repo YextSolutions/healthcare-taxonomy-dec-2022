@@ -1,0 +1,15 @@
+{
+  "$id": "CON-4025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Blood Spots Under the Skin",
+    "taxonomy_synonyms": [
+      "Bruises",
+      "Bruising",
+      "Bruise"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

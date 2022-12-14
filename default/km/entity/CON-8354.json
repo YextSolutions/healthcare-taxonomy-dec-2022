@@ -1,0 +1,13 @@
+{
+  "$id": "CON-8354",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Petit mal seizure",
+    "taxonomy_synonyms": [
+      "Petit Mal Seizure in Child"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "PROC-15086",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Cardiac Perfusion Scan",
+    "taxonomy_synonyms": [
+      "Myocardial Perfusion Scan",
+      "Heart Perfusion Scan"
+    ]
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "CON-12035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Deep Ovarian Endometriosis",
+    "taxonomy_synonyms": [
+      "Ovarian Endometrioma",
+      "Chocolate Cyst"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

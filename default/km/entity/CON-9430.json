@@ -1,0 +1,13 @@
+{
+  "$id": "CON-9430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Ruptured Achilles Tendon",
+    "taxonomy_synonyms": [
+      "Child with Ruptured Achilles Tendon"
+    ]
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

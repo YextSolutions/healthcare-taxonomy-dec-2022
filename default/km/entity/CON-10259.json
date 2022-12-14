@@ -1,0 +1,10 @@
+{
+  "$id": "CON-10259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Pediatric Chondromalacia of the Patella"
+  },
+  "entityType": "taxonomy_conditionTreated",
+  "labels": []
+}

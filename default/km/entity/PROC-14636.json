@@ -1,0 +1,10 @@
+{
+  "$id": "PROC-14636",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Virtual Colonoscopy CT Scan"
+  },
+  "entityType": "taxonomy_procedure",
+  "labels": []
+}
