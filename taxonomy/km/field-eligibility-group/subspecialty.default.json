@@ -1,0 +1,13 @@
+{
+  "$id": "taxonomy_subspecialty.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Subspecialty-default",
+  "entityType": "taxonomy_subspecialty",
+  "fields": [
+    "taxonomy_relatedConditions",
+    "taxonomy_relatedProcedures",
+    "taxonomy_relatedReasonsForVisit",
+    "taxonomy_synonyms"
+  ],
+  "required": []
+}

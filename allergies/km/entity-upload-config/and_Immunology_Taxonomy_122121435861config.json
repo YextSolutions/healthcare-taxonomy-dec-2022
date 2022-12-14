@@ -1,0 +1,135 @@
+{
+  "$id": "allergies_and_Immunology_Taxonomy_122121435861config",
+  "$schema": "https://schema.yext.com/config/km/entity-upload-config/v1",
+  "displayName": "Allergies_and_Immunology_Taxonomy_122121-",
+  "mapping": [
+    {
+      "sourceColumnName": "Entity ID",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "entityId",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Yext ID",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yextId",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Name",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "name",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Synonyms",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "taxonomy_synonyms",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        },
+        {
+          "delimitedColumnConfiguration": {
+            "delimiter": "COMMA"
+          },
+          "transformType": "DELIMITED_COLUMNS"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Labels",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "labels",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        },
+        {
+          "delimitedColumnConfiguration": {
+            "delimiter": "COMMA"
+          },
+          "transformType": "DELIMITED_COLUMNS"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Entity Type",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "entityTypeId",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    }
+  ],
+  "additionalField": [],
+  "action": []
+}
